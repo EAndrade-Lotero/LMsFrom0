@@ -1,5 +1,6 @@
 from utils import Vectorizer
 from networks import FFN
+import torch
 
 class FFNLM :
     '''

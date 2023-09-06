@@ -1,14 +1,7 @@
-from utils import Vectorizer
-from models import FFNLM
+from exp_vectorizer import *
 
-texto = ['Qué linda que está la luna, colgada como una fruta.', 'Si se llegara a caer, que golpe tan tenaz.']
+if __name__ == '__main__':
 
-vec = Vectorizer(texto)
-
-parameters = {"vectorizer":vec,
-              "window_length": 2,
-              "hidden_size":10
-}
-lm = FFNLM(**parameters)
-
-lm.probability(word='luna', context=[['está', 'la'], ['una', 'fruta']])
+    # Prueba de vectorizador
+    # test_vectorizer()
+    test_batch()
