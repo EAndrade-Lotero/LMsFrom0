@@ -36,10 +36,12 @@ class FFN(nn.Module):
         Returns:
             the resulting tensor. tensor.shape should be (batch, vocabulary_size)
         """
-        # Find the input shape
-        batch_size, n_x = x_in.size()
+        # # Find the input shape
+        # batch_size, n_x = x_in.size()
            
         # Propagate to hidden layer
+        x_in = x_in.to(torch.float32)
+        print(x_in.shape, x_in.dtype, self.fc1.weight.dtype)
         x_out = self.fc1(x_in)
         x_out = self.activation_fc1(x_out)
         

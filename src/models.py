@@ -1,6 +1,7 @@
 from utils import Vectorizer
 from networks import FFN
 import torch
+import numpy as np
 
 class FFNLM :
     '''
@@ -22,7 +23,7 @@ class FFNLM :
                        hidden_size=self.hidden_size)
         self.name = 'ffn'
 
-    def probability(self, word:str, context:list) -> float:
+    def probability(self, words:list, contexts:list) -> float:
         '''
         Returns the probability of a word w given a context.
         Input:
@@ -31,48 +32,42 @@ class FFNLM :
         Output:
             - probability (float) according to model
         '''
-        # Context needs to be of window_length
+        # Checking batched context
+        shape_context = np.array(contexts).shape
+        if len(shape_context) == 1:
+            coded_context = self._get_coded_context(contexts)
+        else:
+            coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
+            coded_context = torch.stack(coded_context)
+        print('Context:', contexts)
+        print(self.vectorizer.tokens)
+        print('Coded context:', coded_context)
+        print(coded_context.shape)
+        # Feed network to obtain probabilities
+        probabilities = self.FFN(coded_context)
+        print(probabilities, probabilities.shape)
+        if len(shape_context) == 1:
+            idx = self.vectorizer.token_to_index(words)
+            print(idx)
+            return probabilities[0][idx].item()
+        else:
+            indices = [self.vectorizer.token_to_index(word) for word in words]
+            probabilities = [probabilities[i][idx] for i, idx in enumerate(indices)]
+            return probabilities
+   
+    def _get_coded_context(self, context):            # Context needs to be of window_length
         wl = self.window_length
         if len(context) > wl:
             context_ = context[-wl:]
         elif len(context) < wl:
-            context_ = ['<BEGIN>']*(wl - len(context)) + context
+            context_ = ['<begin>']*(wl - len(context)) + context
         else:
             context_ = context
         assert(len(context_) == wl), f'\n\n{context_}\n\n{wl}'
         # Vector of word indexes
-        coded_context = self.vectorizer.one_hot(context_)
-        print('Context:', context_)
-        print('Coded context:', coded_context)
-        # context_coded = torch.stack([torch.tensor(self.vectorizer.lookup_token(w)) for w in context])
-        # context_coded = torch.unsqueeze(context_coded, dim=0)
-        # # Feed network to obtain probabilities
-        # probabilities = self.FFN(context_coded)
-        # probabilities = torch.squeeze(probabilities)
-        # idx = self.vectorizer.lookup_token(word)
-        # return probabilities[idx].item()
-
-    def probabilities_outp(self, context:list) -> float:
-        '''
-        Returns a distribution probability over words given a context.
-        Input:
-            - context_, list of words
-        Output:
-            - list of probabilities for each token according to model
-        '''
-        # Context needs to be of window_length
-        wl = self.FFN.window_length
-        if len(context) > wl:
-            context_ = context[-wl:]
-        elif len(context) < wl:
-            context_ = ['<BEGIN>']*(wl - len(context)) + context
-        else:
-            context_ = context
-        assert(len(context_) == wl), f'\n\n{context_}\n\n{wl}'
-        # Vector of word indexes
-        context_coded = torch.stack([torch.tensor(self.vectorizer.lookup_token(w)) for w in context_])
-        context_coded = torch.unsqueeze(context_coded, dim=0)
-        # Feed network to obtain probabilities
-        probabilities = self.FFN(context_coded)
-        probabilities = torch.squeeze(probabilities)
-        return probabilities.detach().numpy() 
+        context_ = ' '.join(context_)
+        one_hot_context = self.vectorizer.one_hot(context_)
+        # print(one_hot_context.shape)
+        one_hot_context = torch.flatten(one_hot_context, start_dim=1, end_dim=2)
+        # print(one_hot_context.shape)
+        return one_hot_context

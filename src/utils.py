@@ -16,7 +16,7 @@ class Vectorizer :
 
     def __init__(self, texto:Union[str, list]) -> None:
         tokens = self.get_tokens(texto)
-        self.vocabulary = build_vocab_from_iterator(tokens, specials=["<unk>", "<eos>"])
+        self.vocabulary = build_vocab_from_iterator(tokens, specials=["<unk>", "<eos>", "<begin>"])
         self.vocabulary.set_default_index(self.vocabulary["<unk>"])
         self.tokens = self.vocabulary.get_itos()
 

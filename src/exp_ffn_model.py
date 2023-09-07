@@ -1,14 +1,17 @@
 from utils import Vectorizer
 from models import FFNLM
 
-texto = ['Qué linda que está la luna, colgada como una fruta.', 'Si se llegara a caer, que golpe tan tenaz.']
+def test_probability():
+    texto = ['Ana Beto Carlos David']
+    vec = Vectorizer(texto)
+    parameters = {"vectorizer":vec,
+                "window_length": 2,
+                "hidden_size":10
+    }
+    lm = FFNLM(**parameters)
 
-vec = Vectorizer(texto)
-
-parameters = {"vectorizer":vec,
-              "window_length": 2,
-              "hidden_size":10
-}
-lm = FFNLM(**parameters)
-
-lm.probability(word='luna', context=[['está', 'la'], ['una', 'fruta']])
+    words = ['carlos', 'david']
+    contexts = [['ana', 'beto'], ['beto', 'carlos']]
+    prob = lm.probability(words=words, contexts=contexts)
+    for i, word in enumerate(words):
+        print(f'P({word}|{contexts[i]}) = {prob[i].item()}')
