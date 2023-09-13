@@ -3,6 +3,8 @@ import torch
 from torchtext.vocab import build_vocab_from_iterator
 import torch.nn.functional as F
 import stanza
+from torch.utils.data import Dataset
+import numpy as np
 
 # stanza.download(lang='es')
 dash_line = '-'*20
@@ -145,3 +147,33 @@ class Vectorizer :
             # Convertimos a batch de tamaño 1
             one_hot_encoding = one_hot_encoding.unsqueeze(dim=0)
         return one_hot_encoding
+    
+class LMDataset(Dataset):
+    '''
+    Dataset que toma un texto y devuelve los pares
+    X: contexto de tamaño k (ventana)
+    Y: siguiente palabra
+    '''
+    def __init__(self, texto:str, window_length:int=2) -> None: 
+        vec = Vectorizer(texto)
+        lista_tokens = vec.get_tokens(texto)
+        lista_tokens = [item for sublist in lista_tokens for item in sublist]
+        len_tokens = len(lista_tokens)
+        X = []
+        Y = []
+        for i in range(len_tokens - window_length):
+            ventana = lista_tokens[i:i+window_length]
+            next_token = lista_tokens[i+window_length]
+            X.append(ventana)
+            Y.append(next_token)
+        self.X = X
+        self.Y = Y
+
+    def __len__(self):
+        return len(self.X)
+
+    def __getitem__(self, idx):
+        x = self.X[idx]
+        y = self.Y[idx]
+        return x, y
+  
