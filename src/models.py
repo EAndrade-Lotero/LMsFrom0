@@ -25,6 +25,33 @@ class FFNLM :
                        vocabulary_size=self.vocabulary_size,\
                        hidden_size=self.hidden_size)
         self.name = 'ffn'
+        # Definimos la función de pérdida
+        self.loss_func = torch.nn.CrossEntropyLoss()
+        # Definimos el optimizer
+        self.optimizer = torch.optim.Adam(self.FFN.parameters())
+
+    def probabilities(self, contexts:list) -> float:
+        '''
+        Returns the estimated probabilities given a context.
+        Input:
+            - context_, list of words
+        Output:
+            - probabilities (tensor) according to model
+        '''
+        # Checking batched context
+        shape_context = np.array(contexts).shape
+        if len(shape_context) == 1:
+            coded_context = self._get_coded_context(contexts)
+        else:
+            coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
+            coded_context = torch.stack(coded_context)
+        # print('Context:', contexts)
+        # print(self.vectorizer.tokens)
+        # print('Coded context:', coded_context)
+        # print(coded_context.shape)
+        # Feed network to obtain probabilities
+        probabilities = self.FFN(coded_context)
+        return probabilities
 
     def probability(self, words:list, contexts:list) -> float:
         '''
@@ -80,15 +107,11 @@ class FFNLM :
         Entrenamos la red sobre un texto usando unos parametros dados.
         '''
         # Instanciamos los parámetros
-        learning_rate = parametros["learning_rate"]
+        self.optimizer.lr = parametros["learning_rate"]
         window_length = parametros["window_length"]
         batch_size = parametros["batch_size"]
         ds = LMDataset(texto=texto, window_length=window_length)
         ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
-        # Definimos la función de pérdida
-        loss_func = torch.nn.CrossEntropyLoss()
-        # Definimos el optimizer
-        optimizer = torch.optim.Adam(self.FFN.parameters(), lr=learning_rate)
         # Iteramos sobre los batches
         batch_index = -1
         for ds_features, ds_labels in ds_loader:
@@ -101,13 +124,13 @@ class FFNLM :
             # step 2. compute the output
             y_pred = self.FFN(ds_features)
             # step 3. compute the loss
-            loss = loss_func(y_pred, ds_labels)
+            loss = self.loss_func(y_pred, ds_labels)
             loss_batch = loss.to("cpu").item()
             running_loss += (loss_batch - running_loss) / (batch_index + 1)
             # step 4. use loss to produce gradients
             loss.backward()
             # step 5. use optimizer to take gradient step
-            optimizer.step()
+            self.optimizer.step()
 
 
 

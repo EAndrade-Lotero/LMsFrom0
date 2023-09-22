@@ -41,7 +41,7 @@ class FFN(nn.Module):
            
         # Propagate to hidden layer
         x_in = x_in.to(torch.float32)
-        print(x_in.shape, x_in.dtype, self.fc1.weight.dtype)
+        # print(x_in.shape, x_in.dtype, self.fc1.weight.dtype)
         x_out = self.fc1(x_in)
         x_out = self.activation_fc1(x_out)
         
