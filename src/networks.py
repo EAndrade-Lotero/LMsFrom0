@@ -47,6 +47,6 @@ class FFN(nn.Module):
         
         # Propagate to output layer
         y = self.fc2(x_out)
-        y = self.activation_fc2(y)
+        y = self.activation_fc2(y, dim=1)
         return y
 

@@ -110,27 +110,34 @@ class FFNLM :
         self.optimizer.lr = parametros["learning_rate"]
         window_length = parametros["window_length"]
         batch_size = parametros["batch_size"]
+        num_epochs = parametros["num_epochs"]
+        running_loss = 0
         ds = LMDataset(texto=texto, window_length=window_length)
-        ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
-        # Iteramos sobre los batches
-        batch_index = -1
-        for ds_features, ds_labels in ds_loader:
-            batch_index += 1
-            # Reconfiguramos los features
-            ds_features = [[x[i] for x in ds_features] for i in range(batch_size)]
-            # the training routine is these 5 steps:
-            # step 1. zero the gradients
-            optimizer.zero_grad()
-            # step 2. compute the output
-            y_pred = self.FFN(ds_features)
-            # step 3. compute the loss
-            loss = self.loss_func(y_pred, ds_labels)
-            loss_batch = loss.to("cpu").item()
-            running_loss += (loss_batch - running_loss) / (batch_index + 1)
-            # step 4. use loss to produce gradients
-            loss.backward()
-            # step 5. use optimizer to take gradient step
-            self.optimizer.step()
+        for epoch in range(num_epochs):
+            ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
+            # Iteramos sobre los batches
+            batch_index = -1
+            for ds_features, ds_labels in ds_loader:
+                batch_index += 1
+                # Reconfiguramos los features
+                ds_features = [[x[i] for x in ds_features] for i in range(batch_size)]
+                # Reconfiguramos los targets
+                ds_labels = list(ds_labels)
+                Y = torch.Tensor(self.vectorizer.token_to_index(ds_labels)).to(torch.int64)
+                # the training routine is these 5 steps:
+                # step 1. zero the gradients
+                self.optimizer.zero_grad()
+                # step 2. compute the output
+                Y_hat = self.probabilities(ds_features)
+                # step 3. compute the loss
+                loss = self.loss_func(Y_hat, Y)
+                loss_batch = loss.item()
+                running_loss += (loss_batch - running_loss) / (batch_index + 1)
+                print(loss_batch, running_loss)
+                # step 4. use loss to produce gradients
+                loss.backward()
+                # step 5. use optimizer to take gradient step
+                self.optimizer.step()
 
 
 

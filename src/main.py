@@ -1,13 +1,14 @@
-from exp_vectorizer import *
-from exp_ffn_model import *
-from exp_dataset import *
-from exp_training import *
+import exp_vectorizer as ExpV
+import exp_ffn_model as ExpFFN
+import exp_dataset as ExpDS
+import exp_training as ExpTr
 
 if __name__ == '__main__':
 
     # Prueba de vectorizador
-    # test_vectorizer()
-    # test_batch()
-    # test_probability()
-    # test_dataset()
-    test_cross_entropy()
+    # ExpV.test_vectorizer()
+    # ExpV.test_batch()
+    # ExpFFN.test_probability()
+    # ExpDS.test_dataset()
+    # ExpTr.test_cross_entropy()
+    ExpTr.test_training()
