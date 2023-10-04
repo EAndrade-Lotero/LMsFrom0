@@ -138,6 +138,13 @@ class FFNLM :
                 loss.backward()
                 # step 5. use optimizer to take gradient step
                 self.optimizer.step()
+       
+
+    def save_model(self):
+        torch.save(self.FFN, 'model.pth')
+
+    def load_model(self):
+        self.FFN = torch.load('model.pth')
 
 
 

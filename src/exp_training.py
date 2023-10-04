@@ -32,11 +32,11 @@ def test_cross_entropy():
 
 
 def test_training():
-    texto = ['Ana Beto Carlos David']
+    texto = ['Ana Beto Carlos Ana Beto David']
     lm = FFNLM(vectorizer=Vectorizer(texto),
                window_length=2,
                hidden_size=20)
-    parameters = {"learning_rate":1e-3,
+    parameters = {"learning_rate":1e-2,
                 "window_length": 2,
                 "batch_size":2,
                 "num_epochs":500
@@ -48,4 +48,4 @@ def test_training():
         ds_features = [[x[i] for x in ds_features] for i in range(2)]
         print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
         print(lm.probability(ds_labels, ds_features)) 
-
+    lm.save_model() 
