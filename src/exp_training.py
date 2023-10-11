@@ -32,7 +32,7 @@ def test_cross_entropy():
 
 
 def test_training():
-    texto = ['Ana Beto Carlos Ana Beto David']
+    texto = ['Ana Beto Carlos David']
     lm = FFNLM(vectorizer=Vectorizer(texto),
                window_length=2,
                hidden_size=20)

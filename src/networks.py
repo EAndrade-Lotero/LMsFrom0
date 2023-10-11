@@ -27,9 +27,8 @@ class FFN(nn.Module):
         # ----------------------------------------------------------
         # Intermediate layer
         self.fc_intermediate = nn.Linear(hidden_size, hidden_size)
-        self.activation_fci = nn.functional.log_softmax 
+        self.activation_fci = nn.functional.log_softmax
         # ----------------------------------------------------------
-        
         # Output layer
         self.fc2 = nn.Linear(hidden_size, vocabulary_size)
         self.activation_fc2 = nn.functional.softmax
@@ -55,7 +54,7 @@ class FFN(nn.Module):
         # Intermediate layer
         # Propagate to intermediate layer
         x_intermediate = self.fc_intermediate(x_out)
-        x_intermediate = self.activation_fci(x_intermediate)
+        x_intermediate = self.activation_fci(x_intermediate, dim=1)
         # ----------------------------------------------------------
     
         # Propagate to output layer

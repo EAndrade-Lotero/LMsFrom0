@@ -5,6 +5,8 @@ import numpy as np
 from  typing import Dict
 from utils import LMDataset
 from torch.utils.data import DataLoader
+from pathlib import Path
+
 
 class FFNLM :
     '''
@@ -29,6 +31,8 @@ class FFNLM :
         self.loss_func = torch.nn.CrossEntropyLoss()
         # Definimos el optimizer
         self.optimizer = torch.optim.Adam(self.FFN.parameters())
+        self.model_folder = Path.cwd() / Path('..').resolve() / Path('models', self.name)
+        self.model_folder.mkdir(parents=True, exist_ok=True)
 
     def probabilities(self, contexts:list) -> float:
         '''
@@ -138,13 +142,12 @@ class FFNLM :
                 loss.backward()
                 # step 5. use optimizer to take gradient step
                 self.optimizer.step()
-       
 
     def save_model(self):
-        torch.save(self.FFN, 'model.pth')
+        torch.save(self.FFN, Path(self.model_folder, 'model.pth'))
 
     def load_model(self):
-        self.FFN = torch.load('model.pth')
+        self.FFN = torch.load(Path(self.model_folder, 'model.pth'))
 
 
 
