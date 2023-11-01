@@ -14,4 +14,5 @@ if __name__ == '__main__':
     # ExpTr.test_cross_entropy()
     # ExpTr.test_training()
     # noobie.test_path()
-    noobie.test_perplexity()
+    # noobie.test_perplexity()
+    ExpTr.test_corpus()

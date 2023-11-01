@@ -6,6 +6,7 @@ from  typing import Dict
 from utils import LMDataset
 from torch.utils.data import DataLoader
 from pathlib import Path
+from tqdm import tqdm
 
 
 class FFNLM :
@@ -133,7 +134,7 @@ class FFNLM :
         num_epochs = parametros["num_epochs"]
         running_loss = 0
         ds = LMDataset(texto=texto, window_length=window_length)
-        for epoch in range(num_epochs):
+        for epoch in tqdm(range(num_epochs)):
             ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=False)
             # Iteramos sobre los batches
             batch_index = -1
@@ -154,7 +155,7 @@ class FFNLM :
                 loss = self.loss_func(Y_hat, Y)
                 loss_batch = loss.item()
                 running_loss += (loss_batch - running_loss) / (batch_index + 1)
-                print(loss_batch, running_loss)
+                # print(loss_batch, running_loss)
                 # step 4. use loss to produce gradients
                 loss.backward()
                 # step 5. use optimizer to take gradient step

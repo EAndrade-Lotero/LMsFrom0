@@ -17,10 +17,11 @@ class Vectorizer :
     '''
 
     def __init__(self, texto:Union[str, list]) -> None:
-        tokens = self.get_tokens(texto)
-        self.vocabulary = build_vocab_from_iterator(tokens, specials=["<unk>", "<eos>", "<begin>"])
+        flatten_tokens = self.get_tokens(texto)
+        self.vocabulary = build_vocab_from_iterator(flatten_tokens, specials=["<unk>", "<eos>", "<begin>"])
         self.vocabulary.set_default_index(self.vocabulary["<unk>"])
         self.tokens = self.vocabulary.get_itos()
+
 
     def __len__(self):
         return len(self.tokens)
@@ -41,16 +42,14 @@ class Vectorizer :
                               download_method=None,
                               verbose=False)
         if isinstance(texto, list):
-            listas_tokens = []
             for oracion in texto:
                 doc = nlp(oracion)
-                lista_listas = [[token.text.lower() for token in sentence.tokens] for sentence in doc.sentences]
-                listas_tokens.append(lista_listas[0])
+                listas_tokens = [token.text.lower() for sentence in doc.sentences for token in sentence.tokens]
             return listas_tokens
         elif isinstance(texto, str):
             doc = nlp(texto)
-            lista_listas = [[token.text.lower() for token in sentence.tokens] for sentence in doc.sentences]
-            return lista_listas[0]
+            listas_tokens = [token.text.lower() for sentence in doc.sentences for token in sentence.tokens]
+            return listas_tokens
         else:
             print('OOOOOps!, tipo no aceptado', type(texto))
             raise Exception
@@ -157,7 +156,6 @@ class LMDataset(Dataset):
     def __init__(self, texto:str, window_length:int=2) -> None: 
         vec = Vectorizer(texto)
         lista_tokens = vec.get_tokens(texto)
-        lista_tokens = [item for sublist in lista_tokens for item in sublist]
         len_tokens = len(lista_tokens)
         X = []
         Y = []

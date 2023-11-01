@@ -76,18 +76,18 @@ def test_training():
     # --------------------------------------
     # Loading Language Model
     # --------------------------------------
-    window_length = 3
-    batch_size = 8
+    window_length = 2
+    batch_size = 16
     lm = FFNLM(vectorizer=Vectorizer(texto),
                window_length=window_length,
                hidden_size=20)
     # --------------------------------------
     # Training
     # --------------------------------------
-    parameters = {"learning_rate":1e-2,
+    parameters = {"learning_rate":1e-4,
                 "window_length":window_length,
                 "batch_size":batch_size,
-                "num_epochs":500
+                "num_epochs":50
     }
     print('Training...')
     lm.train(texto=texto, parametros=parameters)
@@ -96,3 +96,29 @@ def test_training():
     # Finding perplexity
     # --------------------------------------
     print('Text perplexity:', lm.perplexity(texto))
+
+
+def test_corpus():
+    # --------------------------------------
+    # Loading corpus
+    # --------------------------------------
+    print('Loading corpus...')
+    texto = ''
+    lista_textos = [f for f in os.listdir(data_folder) if f.split('.')[-1] == 'txt']
+    for wiki_txt in lista_textos:
+        print(f'\tReading {wiki_txt}...')
+        with open(data_folder / Path(wiki_txt), encoding='utf-8') as fp:
+            texto += fp.read()
+        fp.close()
+        print(f'¡Ok! Texto de longitud {len(texto.split())}')
+    window_length = 2
+    batch_size = 16
+    ds = LMDataset(texto=texto, window_length=window_length)
+    ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=False)
+    for ds_features, ds_labels in ds_loader:
+        # Reconfiguramos los features
+        batch_len = len(ds_features[0])
+        ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
+        # Reconfiguramos los targets
+        ds_labels = list(ds_labels)
+        print(ds_features, ds_labels)
