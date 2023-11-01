@@ -42,17 +42,8 @@ class FFNLM :
         Output:
             - probabilities (tensor) according to model
         '''
-        # Checking batched context
-        shape_context = np.array(contexts).shape
-        if len(shape_context) == 1:
-            coded_context = self._get_coded_context(contexts)
-        else:
-            coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
-            coded_context = torch.stack(coded_context)
-        # print('Context:', contexts)
-        # print(self.vectorizer.tokens)
-        # print('Coded context:', coded_context)
-        # print(coded_context.shape)
+        # Context to one-hot
+        coded_context = self.code_context(contexts)
         # Feed network to obtain probabilities
         probabilities = self.FFN(coded_context)
         return probabilities
@@ -66,21 +57,12 @@ class FFNLM :
         Output:
             - probability (float) according to model
         '''
-        # Checking batched context
-        shape_context = np.array(contexts).shape
-        if len(shape_context) == 1:
-            coded_context = self._get_coded_context(contexts)
-        else:
-            coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
-            coded_context = torch.stack(coded_context)
-        # print('Context:', contexts)
-        # print(self.vectorizer.tokens)
-        # print('Coded context:', coded_context)
-        # print(coded_context.shape)
+        # Context to one-hot
+        coded_context = self.code_context(contexts)
         # Feed network to obtain probabilities
         probabilities = self.FFN(coded_context)
         # print(probabilities, probabilities.shape)
-        if len(shape_context) == 1:
+        if len(coded_context) == 1:
             idx = self.vectorizer.token_to_index(words)
             # print(idx)
             return probabilities[0][idx].item()
@@ -88,8 +70,42 @@ class FFNLM :
             indices = [self.vectorizer.token_to_index(word) for word in words]
             probabilities = [probabilities[i][idx] for i, idx in enumerate(indices)]
             return probabilities
-   
-    def _get_coded_context(self, context):            # Context needs to be of window_length
+
+    def perplexity(self, text):
+        '''
+        Returns the perplexity of the text
+        according to the probabilities of the model.
+        '''
+        ds = LMDataset(texto=text, window_length=self.window_length)
+        ds_loader = DataLoader(ds, batch_size=1, shuffle=False)
+        probs = []
+        for context, next_word in ds_loader:
+            # Reconfiguramos los features
+            context = [x[0] for x in context]
+            # Reconfiguramos los targets
+            next_word = list(next_word)
+            print(f'context: {context}')
+            print(f'next_word: {next_word}')
+            prob = self.probability(next_word, context)
+            print(f'probability: {prob}')
+            probs.append(prob)
+        n = len(probs)
+        log_perplexity = -1/n * np.sum(np.log(probs))
+        return np.exp(log_perplexity)
+
+
+    def code_context(self, contexts):
+        # Checking batched context
+        shape_context = np.array(contexts).shape
+        if len(shape_context) == 1:
+            coded_context = self._get_coded_context(contexts)
+        else:
+            coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
+            coded_context = torch.stack(coded_context)
+        return coded_context
+
+    def _get_coded_context(self, context):            
+        # Context needs to be of window_length
         wl = self.window_length
         if len(context) > wl:
             context_ = context[-wl:]
@@ -118,13 +134,14 @@ class FFNLM :
         running_loss = 0
         ds = LMDataset(texto=texto, window_length=window_length)
         for epoch in range(num_epochs):
-            ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
+            ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=False)
             # Iteramos sobre los batches
             batch_index = -1
             for ds_features, ds_labels in ds_loader:
                 batch_index += 1
                 # Reconfiguramos los features
-                ds_features = [[x[i] for x in ds_features] for i in range(batch_size)]
+                batch_len = len(ds_features[0])
+                ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
                 # Reconfiguramos los targets
                 ds_labels = list(ds_labels)
                 Y = torch.Tensor(self.vectorizer.token_to_index(ds_labels)).to(torch.int64)

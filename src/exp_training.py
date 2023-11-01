@@ -3,6 +3,11 @@ import torch
 from torch.utils.data import DataLoader
 from utils import Vectorizer
 from models import FFNLM
+from pathlib import Path
+import os
+
+data_folder = Path.cwd() / Path('..').resolve() / Path('data', 'clean')
+
 
 def test_cross_entropy():
 
@@ -31,21 +36,63 @@ def test_cross_entropy():
     print(f'Valor función pérdida actual: {perdida}')
 
 
-def test_training():
-    texto = ['Ana Beto Carlos David']
+def test_training_simple():
+    texto = ['Ana Beto Carlos Ana Beto David']
+    window_length = 3
+    batch_size = 2
     lm = FFNLM(vectorizer=Vectorizer(texto),
-               window_length=2,
+               window_length=window_length,
                hidden_size=20)
     parameters = {"learning_rate":1e-2,
-                "window_length": 2,
-                "batch_size":2,
+                "window_length":window_length,
+                "batch_size":batch_size,
                 "num_epochs":500
     }
     lm.train(texto=texto, parametros=parameters)
-    ds = LMDataset(texto=texto, window_length=2)
-    ds_loader = DataLoader(ds, batch_size=2, shuffle=True)
+    ds = LMDataset(texto=texto, window_length=window_length)
+    ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
     for ds_features, ds_labels in ds_loader:
-        ds_features = [[x[i] for x in ds_features] for i in range(2)]
+        batch_len = len(ds_features[0])
+        ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
+        ds_labels = list(ds_labels)
         print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
         print(lm.probability(ds_labels, ds_features)) 
     lm.save_model() 
+
+
+def test_training():
+    # --------------------------------------
+    # Loading corpus
+    # --------------------------------------
+    print('Loading corpus...')
+    texto = ''
+    lista_textos = [f for f in os.listdir(data_folder) if f.split('.')[-1] == 'txt']
+    for wiki_txt in lista_textos:
+        print(f'\tReading {wiki_txt}...')
+        with open(data_folder / Path(wiki_txt), encoding='utf-8') as fp:
+            texto += fp.read()
+        fp.close()
+        print(f'¡Ok! Texto de longitud {len(texto.split())}')
+    # --------------------------------------
+    # Loading Language Model
+    # --------------------------------------
+    window_length = 3
+    batch_size = 8
+    lm = FFNLM(vectorizer=Vectorizer(texto),
+               window_length=window_length,
+               hidden_size=20)
+    # --------------------------------------
+    # Training
+    # --------------------------------------
+    parameters = {"learning_rate":1e-2,
+                "window_length":window_length,
+                "batch_size":batch_size,
+                "num_epochs":500
+    }
+    print('Training...')
+    lm.train(texto=texto, parametros=parameters)
+    lm.save_model() 
+    # --------------------------------------
+    # Finding perplexity
+    # --------------------------------------
+    print('Text perplexity:', lm.perplexity(texto))
