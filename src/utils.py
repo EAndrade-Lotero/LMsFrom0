@@ -18,9 +18,11 @@ class Vectorizer :
 
     def __init__(self, texto:Union[str, list]) -> None:
         flatten_tokens = self.get_tokens(texto)
+        print(list(set(flatten_tokens)))
         self.vocabulary = build_vocab_from_iterator(flatten_tokens, specials=["<unk>", "<eos>", "<begin>"])
         self.vocabulary.set_default_index(self.vocabulary["<unk>"])
         self.tokens = self.vocabulary.get_itos()
+        print(self.tokens)
 
 
     def __len__(self):
@@ -153,8 +155,8 @@ class LMDataset(Dataset):
     X: contexto de tamaño k (ventana)
     Y: siguiente palabra
     '''
-    def __init__(self, texto:str, window_length:int=2) -> None: 
-        vec = Vectorizer(texto)
+    def __init__(self, texto:str, vectorizer: Vectorizer, window_length:int=2) -> None: 
+        vec = vectorizer
         lista_tokens = vec.get_tokens(texto)
         len_tokens = len(lista_tokens)
         X = []

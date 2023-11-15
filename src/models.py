@@ -77,7 +77,7 @@ class FFNLM :
         Returns the perplexity of the text
         according to the probabilities of the model.
         '''
-        ds = LMDataset(texto=text, window_length=self.window_length)
+        ds = LMDataset(texto=text, vectorizer=self.vectorizer, window_length=self.window_length)
         ds_loader = DataLoader(ds, batch_size=1, shuffle=False)
         probs = []
         for context, next_word in ds_loader:
@@ -98,10 +98,13 @@ class FFNLM :
     def code_context(self, contexts):
         # Checking batched context
         shape_context = np.array(contexts).shape
+        print('shape_context: ',shape_context)
         if len(shape_context) == 1:
             coded_context = self._get_coded_context(contexts)
         else:
             coded_context = [self._get_coded_context(context_).squeeze() for context_ in contexts]
+            shapes = [t.shape for t in coded_context]
+            print('Shapes:', shapes)
             coded_context = torch.stack(coded_context)
         return coded_context
 
@@ -133,16 +136,19 @@ class FFNLM :
         batch_size = parametros["batch_size"]
         num_epochs = parametros["num_epochs"]
         running_loss = 0
-        ds = LMDataset(texto=texto, window_length=window_length)
+        ds = LMDataset(texto=texto, vectorizer=self.vectorizer, window_length=window_length)
+        ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=False)
         for epoch in tqdm(range(num_epochs)):
-            ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=False)
             # Iteramos sobre los batches
             batch_index = -1
             for ds_features, ds_labels in ds_loader:
                 batch_index += 1
+                if batch_index<50:
+                    continue
                 # Reconfiguramos los features
                 batch_len = len(ds_features[0])
                 ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
+                print('batch_index: ', batch_index, 'ds_features: ',ds_features)
                 # Reconfiguramos los targets
                 ds_labels = list(ds_labels)
                 Y = torch.Tensor(self.vectorizer.token_to_index(ds_labels)).to(torch.int64)

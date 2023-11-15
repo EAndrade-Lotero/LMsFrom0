@@ -77,10 +77,12 @@ def test_training():
     # Loading Language Model
     # --------------------------------------
     window_length = 2
-    batch_size = 16
+    batch_size = 2
     lm = FFNLM(vectorizer=Vectorizer(texto),
                window_length=window_length,
                hidden_size=20)
+    print('vocabulary_size: ',lm.vocabulary_size)
+    print('vocabulary: ',lm.vectorizer.tokens)
     # --------------------------------------
     # Training
     # --------------------------------------
@@ -90,12 +92,12 @@ def test_training():
                 "num_epochs":50
     }
     print('Training...')
-    lm.train(texto=texto, parametros=parameters)
+    #lm.train(texto=texto, parametros=parameters)
     lm.save_model() 
     # --------------------------------------
     # Finding perplexity
     # --------------------------------------
-    print('Text perplexity:', lm.perplexity(texto))
+    #print('Text perplexity:', lm.perplexity(texto))
 
 
 def test_corpus():
