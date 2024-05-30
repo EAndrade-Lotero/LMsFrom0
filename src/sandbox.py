@@ -1,66 +1,69 @@
-from typing import Union, Iterable
+import copy
 import torch
-import torch.nn as nn
-import torchtext
-import torch.nn.functional as F
-from torchtext.data.utils import get_tokenizer
-from torchtext.vocab import build_vocab_from_iterator
-import stanza
-
-stanza.download(lang='es')
-
-def get_tokens(texto):
-    '''
-    ¿Qué hace esta función?
-
-    Input:
-        - ????
-
-    Output:
-        - ????
-    '''
-    nlp = stanza.Pipeline(lang='es', processors='tokenize', use_gpu=True, download_method=None)
-    doc = nlp(texto)
-    return [[token.text.lower() for token in sentence.tokens] for sentence in doc.sentences]
-
-def my_one_hot(voc, keys:Union[str, Iterable]):
-    '''
-    ¿Qué hace esta función?
-
-    Input:
-        - ????
-
-    Output:
-        - ????
-    '''
-    if isinstance(keys, str):
-        keys = [keys]
-    return F.one_hot(torch.tensor(voc(keys)), num_classes=len(voc))
+from torch import nn
+from typing import Optional
 
 
-def from_one_hot(voc, tensors: torch.Tensor):
-    '''
-    ¿Qué hace esta función?
+from lms.transformers import (
+	EncoderDecoder,
+	MultiHeadedAttention,
+    PositionwiseFeedForward,
+    PositionalEncoding,
+    Encoder,
+    EncoderLayer,
+    Decoder,
+    DecoderLayer,
+    Embeddings,
+    Generator
+)
 
-    Input:
-        - ????
+def make_model(
+    src_vocab:int, 
+    tgt_vocab:int, 
+    N:Optional[int]=6, 
+    d_model:Optional[int]=512, 
+    d_ff:Optional[int]=2048, 
+    h:Optional[int]=8, 
+    dropout:Optional[float]=0.1
+):
+    "Helper: Construct a model from hyperparameters."
+    c = copy.deepcopy
+    attn = MultiHeadedAttention(h, d_model)
+    ff = PositionwiseFeedForward(d_model, d_ff, dropout)
+    position = PositionalEncoding(d_model, dropout)
+    model = EncoderDecoder(
+        Encoder(EncoderLayer(d_model, c(attn), c(ff), dropout), N),
+        Decoder(DecoderLayer(d_model, c(attn), c(attn), c(ff), dropout), N),
+        nn.Sequential(Embeddings(d_model, src_vocab), c(position)),
+        nn.Sequential(Embeddings(d_model, tgt_vocab), c(position)),
+        Generator(d_model, tgt_vocab),
+    )
 
-    Output:
-        - ????
-    '''
-    indices = [torch.where(tensor == 1)[0].item() for tensor in tensors]
-    palabras = voc.lookup_tokens(indices)
-    return palabras
+    # This was important from their code.
+    # Initialize parameters with Glorot / fan_avg.
+    for p in model.parameters():
+        if p.dim() > 1:
+            nn.init.xavier_uniform_(p)
+    return model
 
-texto = '¡Hola mundo! Hola mundo no seas tan cruel'
-tokens = get_tokens(texto)
-print('tokens:', tokens)
-voc = build_vocab_from_iterator(tokens)
-x = voc.get_itos()
-print('itos: ', x)
+test_model = make_model(
+    src_vocab=5, 
+    tgt_vocab=5, 
+    N=1, 
+    d_model=4, 
+    d_ff=8, 
+    h=2, 
+    dropout=0
+)
 
-one_hots = my_one_hot(voc,['seas','mundo'])
-print('one hots:', one_hots)
-decoded = from_one_hot(voc, one_hots)
-print(decoded)
+src = torch.LongTensor([[1, 2, 3]])
+print('src.shape', src.shape)
+print(src)
 
+src_mask = torch.ones(1, 1, 3)
+print('src_mask.shape', src_mask.shape)
+print(src_mask)
+
+memory = test_model.encode(src, src_mask)
+print('src.shape', src.shape)
+print(memory)
