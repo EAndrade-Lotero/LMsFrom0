@@ -3,6 +3,11 @@ import exp_ffn_model as ExpFFN
 import exp_dataset as ExpDS
 import exp_training as ExpTr
 import exp_path_patching_noobie as noobie
+import pretty_errors
+pretty_errors.configure(
+    lines_before=3,
+    display_locals=True,  # Enable the display of local variables
+)
 
 if __name__ == '__main__':
 

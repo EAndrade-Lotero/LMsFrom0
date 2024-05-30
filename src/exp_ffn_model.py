@@ -5,8 +5,8 @@ def test_probability():
     texto = ['Ana Beto Carlos David']
     vec = Vectorizer(texto)
     parameters = {"vectorizer":vec,
-                "window_length": 2,
-                "hidden_size":10
+                "window_length": 2#,
+                #"hidden_size":10
     }
     lm = FFNLM(**parameters)
 

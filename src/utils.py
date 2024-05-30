@@ -1,13 +1,21 @@
-from typing import Union
+from typing import Union, Optional, List
 import torch
+import torchtext; torchtext.disable_torchtext_deprecation_warning()
 from torchtext.vocab import build_vocab_from_iterator
 import torch.nn.functional as F
 import stanza
 from torch.utils.data import Dataset
 import numpy as np
+from pathlib import Path
 
-# stanza.download(lang='es')
+
+
+#stanza.download(lang='es')
 dash_line = '-'*20
+
+DIRECTORIO_VECTORIZER = Path("..").resolve() / Path("data", "vectorizers")
+DIRECTORIO_VECTORIZER.mkdir(parents=True, exist_ok=True)
+ARCHIVO_VECTORIZER = Path(DIRECTORIO_VECTORIZER, "vectorizer.pth")
 
 class Vectorizer :
     '''
@@ -16,14 +24,16 @@ class Vectorizer :
         - texto, lista de strings.
     '''
 
-    def __init__(self, texto:Union[str, list]) -> None:
-        flatten_tokens = self.get_tokens(texto)
-        print(list(set(flatten_tokens)))
-        self.vocabulary = build_vocab_from_iterator(flatten_tokens, specials=["<unk>", "<eos>", "<begin>"])
+    def __init__(self, texto:Union[str, List[str], None]) -> None:
+        #flatten_tokens = self.get_tokens(texto)
+        #print(list(set(flatten_tokens)))
+        if texto is not None:
+            self.vocabulary = build_vocab_from_iterator(self.get_tokens_iterator(texto), specials=["<unk>", "<eos>", "<pad>", "<sos>"])
+        else:
+            self.load_vocabulary()
         self.vocabulary.set_default_index(self.vocabulary["<unk>"])
         self.tokens = self.vocabulary.get_itos()
-        print(self.tokens)
-
+        #print(self.tokens)
 
     def __len__(self):
         return len(self.tokens)
@@ -55,6 +65,9 @@ class Vectorizer :
         else:
             print('OOOOOps!, tipo no aceptado', type(texto))
             raise Exception
+
+    def get_tokens_iterator(self, texto):
+        yield self.get_tokens(texto)
 
     def token_to_index(self, keys:Union[str, list]):
         '''
@@ -95,6 +108,20 @@ class Vectorizer :
         if isinstance(keys, str):
             keys = [keys]
         return F.one_hot(torch.tensor(self.token_to_index(keys)), num_classes=len(self.vocabulary))
+    
+    def tokens_to_one_hot(self, keys:list):
+        '''
+        ¿Qué hace esta función?
+
+        Input:
+            - ????
+
+        Output:
+            - ????
+        '''
+        one_hot_encoding = [self.token_to_one_hot(token) for token in keys]
+        one_hot_encoding = torch.cat(tuple(one_hot_encoding),0)
+        return one_hot_encoding
 
     def one_hot_to_token(self, batch_tensors: torch.Tensor):
         '''
@@ -140,6 +167,7 @@ class Vectorizer :
             oraciones = [pad_sentence(oracion) for oracion in oraciones]
             one_hot_encoding = [self.token_to_one_hot(oracion) for oracion in oraciones] 
             one_hot_encoding = torch.stack(one_hot_encoding)
+            
         if isinstance(sentences, str):
             oracion = self.get_tokens(sentences)
             max_len = padding if padding is not None else len(oracion)
@@ -148,6 +176,15 @@ class Vectorizer :
             # Convertimos a batch de tamaño 1
             one_hot_encoding = one_hot_encoding.unsqueeze(dim=0)
         return one_hot_encoding
+    
+    def save_vocabulary(self):
+        torch.save(self.vocabulary, ARCHIVO_VECTORIZER)
+        print('Se guardó el vectorizer en ',ARCHIVO_VECTORIZER)
+
+    def load_vocabulary(self):
+        print('Intentando cargar vectorizer de', ARCHIVO_VECTORIZER)
+        self.vocabulary = torch.load(ARCHIVO_VECTORIZER)
+        print('Ok!')
     
 class LMDataset(Dataset):
     '''

@@ -2,11 +2,12 @@ from utils import LMDataset
 import torch
 from torch.utils.data import DataLoader
 from utils import Vectorizer
-from models import FFNLM
+from models import FFNLM, ZLT
 from pathlib import Path
+import pandas as pd
 import os
 
-data_folder = Path.cwd() / Path('..').resolve() / Path('data', 'clean')
+data_folder = Path.cwd() / Path('..').resolve() / Path('data', 'clean', 'wiki')
 
 
 def test_cross_entropy():
@@ -37,26 +38,36 @@ def test_cross_entropy():
 
 
 def test_training_simple():
-    texto = ['Ana Beto Carlos Ana Beto David']
-    window_length = 3
-    batch_size = 2
-    lm = FFNLM(vectorizer=Vectorizer(texto),
-               window_length=window_length,
-               hidden_size=20)
+    texto = ['ana beto carlos ana beto daniel ana beto edgar ana beto felipe ana beto gabriela']
+    window_length = 2
+    batch_size = 8
+    lm = ZLT(vectorizer=Vectorizer(texto),
+               window_length=window_length)
     parameters = {"learning_rate":1e-2,
                 "window_length":window_length,
                 "batch_size":batch_size,
-                "num_epochs":500
+                "num_epochs":1000
     }
+    print(lm.FFN.device)
     lm.train(texto=texto, parametros=parameters)
-    ds = LMDataset(texto=texto, window_length=window_length)
-    ds_loader = DataLoader(ds, batch_size=batch_size, shuffle=True)
+    ds = LMDataset(texto=texto, window_length=window_length, vectorizer=lm.vectorizer)
+    ds_loader = DataLoader(ds, batch_size=1, shuffle=False)
+    probas = []
+    df_features = []
+    df_labels = []
     for ds_features, ds_labels in ds_loader:
         batch_len = len(ds_features[0])
         ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
         ds_labels = list(ds_labels)
-        print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
-        print(lm.probability(ds_labels, ds_features)) 
+        #print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
+        #print(lm.probability(ds_labels, ds_features)) 
+        probas.append(lm.probability(ds_labels, ds_features))
+        df_features.append(ds_features[0])
+        df_labels.append(ds_labels[0])
+
+    data = {'Contexto': df_features, 'SgtePalabra': df_labels, 'Probabilidad': probas}
+    probabilities_df = pd.DataFrame(data)
+    print(probabilities_df)
     lm.save_model() 
 
 
@@ -76,28 +87,40 @@ def test_training():
     # --------------------------------------
     # Loading Language Model
     # --------------------------------------
-    window_length = 2
-    batch_size = 2
-    lm = FFNLM(vectorizer=Vectorizer(texto),
+    window_length = 3
+    batch_size = 16
+    
+    # ---------------------------------------
+    # Descomentar cada cambio de parámetros
+    vec = Vectorizer(texto)
+    vec.save_vocabulary()
+    # ---------------------------------------
+    vec = Vectorizer(None)
+
+    lm = FFNLM(vectorizer=vec,
                window_length=window_length,
                hidden_size=20)
     print('vocabulary_size: ',lm.vocabulary_size)
-    print('vocabulary: ',lm.vectorizer.tokens)
+    #print('vocabulary: ',lm.vectorizer.tokens)
     # --------------------------------------
     # Training
     # --------------------------------------
     parameters = {"learning_rate":1e-4,
                 "window_length":window_length,
                 "batch_size":batch_size,
-                "num_epochs":50
+                "num_epochs":10
     }
+    print(lm.FFN.device)
+    lm.summary()
     print('Training...')
-    #lm.train(texto=texto, parametros=parameters)
+    lm.train(texto=texto, parametros=parameters)
     lm.save_model() 
     # --------------------------------------
     # Finding perplexity
     # --------------------------------------
-    #print('Text perplexity:', lm.perplexity(texto))
+    print('Text perplexity:', lm.perplexity(texto))
+
+
 
 
 def test_corpus():
