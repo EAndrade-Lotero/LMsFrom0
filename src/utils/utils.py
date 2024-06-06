@@ -1,16 +1,14 @@
-from typing import Union, Optional, List
 import torch
-import torchtext; torchtext.disable_torchtext_deprecation_warning()
-from torchtext.vocab import build_vocab_from_iterator
-import torch.nn.functional as F
 import stanza
-from torch.utils.data import Dataset
+import torchtext
 import numpy as np
+import torch.nn.functional as F
 from pathlib import Path
+from typing import Union, Optional, List
+from torchtext.vocab import build_vocab_from_iterator
+from torch.utils.data import Dataset
 
-
-
-#stanza.download(lang='es')
+stanza.download(lang='es')
 dash_line = '-'*20
 
 DIRECTORIO_VECTORIZER = Path("..").resolve() / Path("data", "vectorizers")

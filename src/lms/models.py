@@ -2,6 +2,7 @@ import torch
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from torch import nn
 from tqdm import tqdm
 from pathlib import Path
 from  typing import Dict, Optional
@@ -13,50 +14,48 @@ from utils.utils import Vectorizer
 from lms.networks import FFN, ZeroLayerTransformer
 
 
-class FFNLM :
+class LanguageModel :
     '''
-    Defines a Feed-Forward Neural Network language model
+    Defines a Language Model
         Args:
             vectorizer (Vocabulary): object to find one-hot encodings
             window_length (int): the length of the window of words
             embedding_dim (int): the output size of the word embedding
-            hidden_size (int): the output size of the first Linear layer
             batch_first (bool): whether the 0th dimension is batch
     '''
-    def __init__(self, vectorizer:Vectorizer, window_length:int, hidden_size:int):
+    def __init__(
+                self, 
+                vectorizer: Vectorizer,
+                window_length: int,
+                name: str, 
+                model: nn.Module,
+                batch_first: Optional[bool]=True
+            ) -> None:
         self.vectorizer = vectorizer
-        self.window_length = window_length
         self.vocabulary_size = len(vectorizer)
-        self.hidden_size = hidden_size
-        self.FFN = FFN(window_length=self.window_length,\
-                       vocabulary_size=self.vocabulary_size,\
-                       hidden_size=self.hidden_size)
-        self.name = 'ffn'
-        # Definimos la función de pérdida
-        self.loss_func = torch.nn.CrossEntropyLoss()
-        # Definimos el optimizer
-        self.optimizer = torch.optim.Adam(self.FFN.parameters())
+        self.window_length = window_length
+        self.name = name
         self.model_folder = Path.cwd() / Path('..').resolve() / Path('models', self.name)
         self.model_folder.mkdir(parents=True, exist_ok=True)
-    
+        self.model = model
+
     def summary(self):
         table = PrettyTable(['Modules', 'Parameters'])
         total_params = 0
-        for name, parameter in self.FFN.named_parameters():
+        for name, parameter in self.model.named_parameters():
             if not parameter.requires_grad: continue
             params = parameter.numel()
             table.add_row([name, params])
             total_params+=params
         print(table)
         print(f'Total Trainable Params: {total_params}')
-        if next(self.FFN.parameters()).is_cuda:
+        if next(self.model.parameters()).is_cuda:
             print('Model device: cuda')
-        elif next(self.FFN.parameters()).is_mps:
+        elif next(self.model.parameters()).is_mps:
             print('Model device: mps')
         else:
             print('Model device: cpu')
         
-
     def probabilities(self, contexts:list) -> float:
         '''
         Returns the estimated probabilities given a context.
@@ -68,7 +67,7 @@ class FFNLM :
         # Context to one-hot
         coded_context = self.code_context(contexts)
         # Feed network to obtain probabilities
-        probabilities = self.FFN(coded_context)
+        probabilities = self.model(coded_context)
         return probabilities
 
     def probability(self, words:list, contexts:list) -> float:
@@ -83,7 +82,7 @@ class FFNLM :
         # Context to one-hot
         coded_context = self.code_context(contexts)
         # Feed network to obtain probabilities
-        probabilities = self.FFN(coded_context)
+        probabilities = self.model(coded_context)
         #print('HOLA', len(coded_context.shape))
         if len(coded_context.shape) == 1:
             idx = self.vectorizer.token_to_index(words)
@@ -115,7 +114,6 @@ class FFNLM :
         n = len(probs)
         log_perplexity = -1/n * np.sum(np.log(probs))
         return np.exp(log_perplexity)
-
 
     def code_context(self, contexts):
         # Checking batched context
@@ -183,12 +181,12 @@ class FFNLM :
                 #print('porcentaje_batch_index: ',round(100*batch_index/(len(ds)/batch_size),2),'%')
                 # Reconfiguramos los targets
                 ds_labels = list(ds_labels)
-                Y = torch.Tensor(self.vectorizer.token_to_index(ds_labels)).to(torch.int64).to(self.FFN.device)
+                Y = torch.Tensor(self.vectorizer.token_to_index(ds_labels)).to(torch.int64).to(self.model.device)
                 # the training routine is these 5 steps:
                 # step 1. zero the gradients
                 self.optimizer.zero_grad()
                 # step 2. compute the output
-                Y_hat = self.probabilities(ds_features).to(self.FFN.device)
+                Y_hat = self.probabilities(ds_features).to(self.model.device)
                 # step 3. compute the loss
                 loss = self.loss_func(Y_hat, Y)
                 loss_batch = loss.item()
@@ -212,10 +210,10 @@ class FFNLM :
         plt.show()
 
     def save_model(self):
-        torch.save(self.FFN, Path(self.model_folder, 'model.pth'))
+        torch.save(self.model, Path(self.model_folder, 'model.pth'))
 
     def load_model(self):
-        self.FFN = torch.load(Path(self.model_folder, 'model.pth'))
+        self.model = torch.load(Path(self.model_folder, 'model.pth'))
 
     def next_word(self, context:list) -> str:
         '''
@@ -255,6 +253,36 @@ class FFNLM :
             context.append(word)
             contador += 1
         return generated
+
+
+class FFNLM(LanguageModel) :
+    '''
+    Defines a Feed-Forward Neural Network language model
+        Args:
+            vectorizer (Vocabulary): object to find one-hot encodings
+            window_length (int): the length of the window of words
+            embedding_dim (int): the output size of the word embedding
+            hidden_size (int): the output size of the first Linear layer
+            batch_first (bool): whether the 0th dimension is batch
+    '''
+    def __init__(self, vectorizer:Vectorizer, window_length:int, hidden_size:int):
+        self.hidden_size = hidden_size
+        model = FFN(
+            window_length=self.window_length,\
+            vocabulary_size=self.vocabulary_size,\
+            hidden_size=self.hidden_size
+        )
+        super().__init__(
+            vectorizer=vectorizer, 
+            window_length=window_length,
+            name='ffn',
+            model = model,
+        )
+        # Definimos la función de pérdida
+        self.loss_func = torch.nn.CrossEntropyLoss()
+        # Definimos el optimizer
+        self.optimizer = torch.optim.Adam(self.model.parameters())
+           
 
 
 class ZLT :
