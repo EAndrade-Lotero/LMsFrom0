@@ -8,7 +8,7 @@ from typing import Union, Optional, List
 from torchtext.vocab import build_vocab_from_iterator
 from torch.utils.data import Dataset
 
-stanza.download(lang='es')
+# stanza.download(lang='es')
 dash_line = '-'*20
 
 DIRECTORIO_VECTORIZER = Path("..").resolve() / Path("data", "vectorizers")
@@ -22,7 +22,11 @@ class Vectorizer :
         - texto, lista de strings.
     '''
 
-    def __init__(self, texto:Union[str, List[str], None]) -> None:
+    def __init__(
+                self, 
+                texto: Union[str, List[str], None],
+                embeddings=None
+            ) -> None:
         #flatten_tokens = self.get_tokens(texto)
         #print(list(set(flatten_tokens)))
         if texto is not None:
@@ -32,6 +36,22 @@ class Vectorizer :
         self.vocabulary.set_default_index(self.vocabulary["<unk>"])
         self.tokens = self.vocabulary.get_itos()
         #print(self.tokens)
+        self.embeddings = embeddings
+
+    def token_to_code(self, keys:Union[str, list]) -> Union[torch.tensor, int]:
+        if self.embeddings is None:
+            return self.token_to_index(keys)
+        else:
+            return self.token_to_embeddings(keys)
+
+    def tokens_to_code(
+                self, 
+                keys:list
+            ) -> Union[List[int], List[torch.tensor]]:
+        if self.embeddings is None:
+            return self.tokens_to_one_hot(keys)
+        else:
+            return self.tokens_to_embeddings(keys)
 
     def __len__(self):
         return len(self.tokens)
@@ -80,6 +100,17 @@ class Vectorizer :
         if isinstance(keys, str):
             keys = [keys]
         return self.vocabulary(keys)
+
+    def token_to_embedding(self, keys:Union[str, list]) -> torch.tensor:
+        if isinstance(keys, str):
+            keys = [keys]
+        token_indices = torch.tensor(self.vocabulary(keys))
+        return self.embeddings(token_indices)
+
+    def tokens_to_embedding(self, keys:Union[str, list]) -> torch.tensor:
+        word_embeddings = [self.token_to_embedding(token) for token in keys]
+        word_embeddings = torch.cat(tuple(word_embeddings),0)
+        return word_embeddings
 
     def index_to_token(self, indices:list):
         '''
@@ -184,6 +215,8 @@ class Vectorizer :
         self.vocabulary = torch.load(ARCHIVO_VECTORIZER)
         print('Ok!')
     
+
+
 class LMDataset(Dataset):
     '''
     Dataset que toma un texto y devuelve los pares

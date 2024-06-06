@@ -1,11 +1,12 @@
-from utils.utils import LMDataset
+import os
 import torch
+import pandas as pd
+from pathlib import Path
 from torch.utils.data import DataLoader
+
+from utils.utils import LMDataset
 from utils.utils import Vectorizer
 from lms.models import FFNLM, ZLT
-from pathlib import Path
-import pandas as pd
-import os
 
 data_folder = Path.cwd() / Path('..').resolve() / Path('data', 'clean', 'wiki')
 
@@ -110,7 +111,7 @@ def test_training():
                 "batch_size":batch_size,
                 "num_epochs":5
     }
-    print(lm.FFN.device)
+    print(lm.model.device)
     lm.summary()
     print('Training...')
     lm.train(texto=texto, parametros=parameters)
