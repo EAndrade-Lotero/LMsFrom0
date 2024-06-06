@@ -1,0 +1,60 @@
+La biología evolutiva es el área de la biología que estudia los cambios de los seres vivos a través del tiempo (evolución biológica),[1]​ así como las relaciones de parentesco entre las especies (filogenia). Quien se especializa en esta disciplina se denomina biólogo(a) evolutivo(a).[cita requerida]La biología evolutiva estudia los procesos evolutivos (selección natural, antepasado común, especiación) que produjeron la diversidad de la vida en la Tierra
+
+
+== Historia ==
+
+En la década de 1930, la disciplina de la biología evolutiva surgió a través de lo que Julian Huxley llamó la síntesis moderna de comprensión, un enfoque holístico que juntó campos de estudio no relacionados previamente, como la genética y la ecología, la sistemática y la paleontología.
+La biología evolutiva como una disciplina académica propiamente dicha emergió como resultado del neodarwinismo desarrollado durante las décadas del 30 y del 40. Sin embargo, no fue hasta los años 70 y 80 que la mayor parte de las universidades incorporaron departamentos de biología evolutiva.
+En los Estados Unidos, gracias a los avances en los campos de la biología celular y molecular, una gran parte de las universidades han creado departamentos orientados hacia la biología molecular y celular, la ecología y la biología evolutiva, estos últimos reemplazando a los departamentos de paleontología, zoología y otras demás ciencias.
+A inicios del siglo XXI la microbiología también se convirtió en una disciplina evolutiva importante, gracias a los estudios de la fisiología microbiana, la genómica comparativa y las técnicas de secuenciación del ADN se pudieron elucidar los orígenes del último antepasado común universal. Actualmente, las bacterias y virus se usan como modelos para experimentar y abordar preguntas evolutivas de manera amplia, ya que estos organismos sufren una evolución rápida, debido a su alto número de generaciones en un periodo de tiempo corto (años).
+Muchos biólogos han contribuido a dar forma a la disciplina moderna de la biología evolutiva. Theodosius Dobzhansky y E. B. Ford establecieron un programa de investigación empírica. Ronald Fisher, Sewall Wright y J. S. Haldane crearon un marco teórico sólido. Ernest Mayr creó la sistemática, George Gaylord Simpson aportó en paleontología y G. Ledyard Stebbins en botánica y también ayudaron a formar la síntesis moderna. James Crow, Richard Lewontin, Dan Hartl, Marcus Feldman, y Brian Charlesworth entrenaron a una generación de biólogos evolutivos. Carl Woese, Thomas Cavalier-Smith, James A. Lake aportaron con la evolución de los microorganismos y su implicación con el origen de los animales, plantas y hongos.
+
+
+== Áreas de estudio de la biología evolutiva ==
+La investigación actual en biología evolutiva cubre diversos temas e incorpora ideas de diversas áreas, como la genética molecular y la informática.
+Muchas información de la biología evolutiva, se usa actualmente en la medicina genómica, epidemiología y medicina evolutiva.
+La biología evolutiva intenta explicar los fenómenos que fueron mal explicados en la síntesis evolutiva moderna. Ya que la síntesis evolutiva moderna fue ideada en un momento en que nadie entendía la base molecular de los genes. 
+Los fenómenos a explicar incluyen la especiación, la evolución de la reproducción sexual, la evolución de la cooperación, la evolución del envejecimiento, la capacidad de adaptación, la capacidad de resiliencia, los trade-offs evolutivos entre otros.
+Otro campo o pregunta evolutiva es: "¿qué pasó y cuándo pasó?". Esto incluye campos como la paleobiología, así como la sistemática y la filogenética.
+Hoy en día, los biólogos evolutivos buscan respuestas a preguntas como: ¿cuántos genes están involucrados?, ¿qué tan grandes son los efectos de cada gen?, ¿qué tan interdependientes son los efectos de diferentes genes?, ¿qué hacen los genes y qué cambios les suceden? (por ejemplo, mutaciones puntuales, duplicación de genes o incluso duplicación del genoma). 
+Un desafío al estudiar la arquitectura genética es que la genética de la poblaciones clásica que concluyó en la síntesis evolutiva moderna se debe actualizar para tener en cuenta el conocimiento molecular moderno. Esto requiere una gran cantidad de desarrollo matemático para relacionar los datos de la secuencia de ADN con la teoría de la evolución molecular.
+La síntesis evolutiva moderna implicaba un acuerdo sobre qué fuerzas contribuyen a la evolución, pero no sobre su importancia relativa. La investigación actual busca determinar esto. Las fuerzas evolutivas incluyen la selección natural, la selección sexual, la deriva genética, el autoestop genético, las limitaciones del desarrollo, el sesgo de mutación y la biogeografía.
+Un enfoque evolutivo es importante en la ecología organísmica y la historia de vida de los organismos vivos. Así mismo, la anotación de genes y su función depende en gran medida de enfoques comparativos.
+Uno de los temas de estudio más importantes de la biología evolutiva es el estudiar el desarrollo evolutivo ("evo-devo") de los organismos, que investiga cómo funcionan los procesos de desarrollo y compara diferentes organismos para determinar su relación taxonómica y cómo evolucionaron. 
+
+
+== Biólogos evolutivos importantes ==
+Científicos que han contribuido notablemente a la materia:
+
+Personas que buscaron popularizar la evolución en su forma más general:
+
+Daniel Dennett
+Steven Pinker
+Matt Ridley
+
+
+== Referencias ==
+
+
+== Véase también ==
+Evolución biológica
+Teoría de juegos
+Evolución de la moralidad
+
+
+== Bibliografía ==
+
+
+=== Libros de Texto ===
+Douglas J. Futuyma, Evolutionary Biology, Sinauer Associates, 3rd edition (1998) ISBN 0878931899
+Mark Ridley, Evolution, Blackwell, 3rd edition (2003) ISBN 1405103450
+
+
+=== Trabajos y monografías ===
+Charles Darwin: El Origen de las Especies (The Origin of Species) (1859) and El Origen del Hombre (The Descent of Man and Selection in Relation to Sex) (1871)
+Ronald Fisher: The Genetical Theory of Natural Selection (1930)
+John Maynard Smith and Eörs Szathmáry: The Major Transitions in Evolution (1997)
+
+
+== Enlaces externos ==
+ Wikiversidad alberga proyectos de aprendizaje sobre Biología evolutiva.

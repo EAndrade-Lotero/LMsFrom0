@@ -1,0 +1,133 @@
+La ingeniería genética es la manipulación y modificación de los genes de un organismo alterando, eliminando o insertando material genético en su genoma por medio de las diferentes tecnologías de edición genética. Las técnicas de ingeniería genética suelen implicar el aislamiento, la manipulación y la introducción de ADN en un ser vivo, normalmente para expresar un gen que codifica para alguna proteína o enzima de interés. El objetivo es eliminar o introducir nuevas características en un ser vivo para aumentar su utilidad. Dado que una proteína está codificada por una secuencia de ADN específica llamada gen, las versiones futuras pueden modificarse cambiando el ADN. Una forma de hacerlo es aislar el fragmento de ADN que contiene el gen, cortarlo con precisión y reintroducirlo en un segmento de ADN diferente.
+La ingeniería genética tiene aplicaciones muy diversas en campos como la medicina, la biotecnología, la agricultura industrial y la investigación científica. Los organismos creados mediante ingeniería genética son conocidos como organismos genéticamente modificados u OGM y son la base de productos orgánicos sintéticos como los alimentos transgénicos. Los procesos de inducción de la modificación genética han permitido descifrar la estructura de secuencias completas de ADN, facilitando así la clonación de genes. La clonación genética es una técnica muy utilizada en microbiología para identificar y copiar un gen concreto en un organismo simple empleado como receptor, una bacteria por ejemplo. Este proceso es muy importante en la síntesis de algunos subproductos utilizados para el tratamiento de diversas enfermedades.
+
+
+== Técnicas ==
+La ingeniería genética incluye un conjunto de técnicas biotecnológicas, entre ellas destacan:[1]​
+
+La secuenciación del ADN
+La reacción en cadena de la polimerasa (PCR).
+Plasmocitosis
+Clonación molecular
+Mutación excepcional
+Bloqueo génico
+
+
+=== Tecnología del ADN recombinante ===
+
+La tecnología del ADN recombinante consiste en aislar y manipular un fragmento de ADN de un organismo para «recombinarlo» con el de otro organismo[2]​
+Generalmente se trata el ADN con una endonucleasa de restricción que origina en este caso un corte escalonado en las dos hebras dobles de ADN. Los extremos escalonados de ambas hebras de ADN son complementarios, una condición que deben tener si se quieren unir. Los dos ADN así cortados se mezclan, se calientan y se enfrían suavemente. Sus extremos cohesivos se aparearán dando lugar a un nuevo ADN recombinado, con uniones no covalentes. Las uniones covalentes se forman añadiendo ADN ligasa y una fuente energética para formar los enlaces. 
+Otra enzima clave para unir ADN es la transferasa terminal, que puede adicionar muchos residuos de desoxirribonucleótidos sucesivos al extremo 3´de las hebras del ADN. De este modo pueden construirse colas de poli Guanina en los extremos 3´ de una de las hebras de ADN y colas de poli Citosina en los extremos de la otra cadena. Como estas colas son complementarias, permitirán que los dos ADN se unan por complementariedad. Posteriormente, se forman los enlaces covalentes por la ADN ligasa.
+El ADN recombinado se inserta en un ADN vector que actúe como vehículo para introducirlo en una célula hospedadora que lo replique, los vectores o transportadores más utilizados son los plásmidos y el ADN del fago lambda.
+
+
+=== Secuenciación del ADN ===
+
+Es un conjunto de técnicas que permiten conocer el orden en que aparecen los nucleótidos en el ADN,[3]​ que es la base de la información genética de los organismos. Esta técnica tiene aplicaciones médicas, como la búsqueda de algún polimorfismo genético que se asocie con una enfermedad; básicas: comparar la historia evolutiva de un organismo; o forenses.
+
+
+=== Reacción en cadena de la polimerasa (PCR) ===
+
+La técnica de la PCR aprovecha la actividad enzimática por la que se replica el ADN en las células para conseguir una gran cantidad de copias de ADN a partir de cantidades pequeñas.[4]​ Se utiliza una polimerasa o una mezcla de varias que puedan resistir temperaturas elevadas, siendo la más común la polimerasa taq.
+La técnica consiste en realizar varios ciclos de temperaturas elevadas para conseguir la desnaturalización del ADN y temperaturas más bajas para la amplificación del ADN desnaturalizado mediante la polimerasa.
+
+
+== Biotecnología genética ==
+En la década de 1970 se abrieron nuevas perspectivas en el campo de las biotecnologías gracias a la elaboración de nuevas técnicas que permiten llegar directamente al material que está en el origen de todas las características y procesos vitales, es decir, el ADN. Este conjunto de técnicas moleculares de manipulación genética recibe el nombre de ingeniería genética.
+Su objetivo es la manipulación in Vitro del ADN, la introducción de este ADN así modificado en células vivas y la incorporación del mismo como parte del material hereditario de dichas células. De este modo, ADN de diversas procedencias, por ejemplo, la fracción de ADN humano que regula la síntesis de insulina, puede introducirse en bacterias de manera que pasa a formar parte de su genoma y lograr así que la bacteria adquiera la capacidad de elaborar insulina.
+
+
+=== Terapia genética ===
+La terapia genética consiste en sustituir o añadir, según el caso, una copia normal de la región defectuosa del ADN para poder solucionar y restablecer la función alterada, evitando el desarrollo de enfermedades de origen genético,[5]​ como por ejemplo la facultad defensiva ante las enfermedades infecciosas. Las enfermedades con las que se ha empezado a trabajar son, entre otras, la deficiencia de la enzima ADA (adenosina desaminasa), conocida como la de los niños burbuja y la DMD o distrofia muscular de Duchenne.
+La posibilidad de curar las enfermedades genéticas con un tratamiento específico justifica los esfuerzos que se están realizando en este sentido.
+
+
+=== Implicaciones éticas ===
+La ingeniería genética tiene aplicaciones en campos muy diversos; dos de los más importantes son la medicina y la creación de nuevas especies o mejora de las existentes. El progreso en estos ámbitos puede aportar resultados capaces de aliviar algunos problemas de gran importancia, pero no se debe olvidar que la explotación comercial de las tecnologías requeridas sólo está al alcance de unas pocas empresas multinacionales. Como era de esperar, la tradicional dependencia económica de los países subdesarrollados tiene en la ingeniería genética un nuevo elemento de desequilibrio. En otro orden de cosas, la ingeniería genética puede plantear graves problemas éticos. Hay opiniones muy diversas sobre dónde han de situarse los límites de manipulación del material que está en la base de todos los procesos vitales.
+Al inicio de los experimentos del ADN recombinante, varios investigadores mostraron su preocupación por los riesgos que se pueden realizar con dichas técnicas. En varios países se crearon comités para discutir el uso y la aplicación de técnicas de ingeniería genética.[6]​
+
+
+== Ingeniería genética en seres vivos ==
+
+
+=== En bacterias ===
+
+Son los seres vivos más utilizados en Ingeniería Genética. La más utilizada es la Escherichia coli. Se usa prácticamente en todos los procesos de I.G.[7]​
+Otra de las aplicaciones más actuales que se han hecho, ha sido modificar genéticamente bacterias que vivan en el sistema digestivo del ser humano en un lapso mínimo de 6 meses a 1 año, con el objetivo de disminuir el apetito. Esta investigación se basa en N-acil-fosfatidiletanolamina, y N-acil-etanolamina, encargadas de mandar señales al hipotálamo, que es el encargado de la ingesta de alimentos.[cita requerida]
+
+
+=== En levaduras y hongos ===
+Son junto con las bacterias los sistemas más utilizados. El Saccharomyces cerevisiae fue el primer sistema eucariota secuenciado completamente.[8]​ Otra levadura importante es P. pastoris, utilizada para conseguir proinsulina en cultivo discontinuo y quitinasa en cultivo continuo. En el campo de los hongos destaca por su labor médica el Penicillium.
+Otra aplicación ha sido la levadura P. pastoris se ha usado para producir grandes cantidades de proteínas, gracias a que es capaz de crecer en los reactores hasta alcanzar muy altas densidades celulares. Por ejemplo, se ha utilizado para producir quitinasa humana en cultivo continuo (0,3 g/L/día) o proinsulina humana en un sistema discontinuo (1,5 g/L).
+
+
+=== En animales ===
+Producción animal por ingeniería genética:
+La manipulación genética de los animales persigue múltiples objetivos: aumentar el rendimiento del ganado, producir animales con enfermedades humanas para la investigación, elaborar fármacos, etc.
+Peces transgénicos: las aplicaciones principales en animales se han realizado en peces, debido a que la fecundación es externa, lo cual permite la introducción del gen en el cigoto antes de que se unan el núcleo del espermatozoide y el del óvulo. Se han producido carpas transgénicas que crecen mucho más rápido, debido a la incorporación del gen de la hormona del crecimiento de la trucha, y salmones transgénicos, que resisten mejor las bajas temperaturas.
+Mamíferos: se han obtenido ratones transgénicos, con distintos genes modificados.[9]​ Sin embargo, todavía su aplicación para la mejora de especies es preliminar, enfocándose el estudio desde un punto de vista más bien puramente científico.
+
+
+=== En plantas ===
+Actualmente se han desarrollado plantas transgénicas de más de cuarenta especies.
+Mediante ingeniería genética se han conseguido plantas resistentes a enfermedades producidas por virus, bacterias o insectos.[10]​ Estas plantas son capaces de producir antibióticos, toxinas y otras sustancias que atacan a los microorganismos. También se han conseguido otro tipo de mejoras, como la producción de distintas sustancias en los alimentos que aumentan su calidad nutricional, mejorar las cualidades organolépticas de un producto o que ciertas plantas sean más resistentes a determinados factores ambientales, como el frío. 
+Un gran ejemplo de ello es la bacteria Agrobacterium tumefaciens que tiene la capacidad  de transferir ADN entre reinos diferentes. El impacto de este hallazgo ha tenido grandes aplicaciones en diversos campos de la biología vegetal, agricultura y biotecnología. Así mismo, esta interacción ha dado pie a formular modelos de señalización celular, transporte célula a célula, importe nuclear de proteínas y ADN y mecanismos de integración  genómica (Tzfira y Citovsky, 2000). Durante el proceso de infección A. tumefaciens introduce en la célula vegetal una parte de su ADN (ADN de transferencia) el cual es integrado dentro del genoma de la planta. Los genes del ADN-T son expresados en su hospedero e inducen la formación de tumores y la síntesis de unos derivados de aminoácidos llamados opinas los cuales son aprovechados por la bacteria.[11]​
+Las técnicas de ingeniería genética también permiten el desarrollo de plantas que den frutos de maduración muy lenta. Así, es posible recoger tomates maduros de la tomatera y que lleguen al consumidor conservando intactos su sabor, olor, color y textura. La mejora de la calidad de las semillas es también un objetivo.
+Las aplicaciones farmacéuticas son otro gran punto de interés. La biotecnología permite desarrollar plantas transgénicas que producen sustancias de interés farmacológico, como anticuerpos, ciertas proteínas u hormonas, como la hormona del crecimiento.
+
+
+== Aplicaciones en medicina e industria farmacéutica ==
+
+
+=== Obtención de proteínas de seres vivos ===
+Una serie de hormonas como la insulina, la hormona del crecimiento, factores de coagulación, etc., tienen un interés médico y comercial muy grande. Antes, la obtención de estas proteínas se realizaba mediante su extracción directa a partir de tejidos o fluidos corporales. En la actualidad, gracias a la tecnología del ADN recombinante, se clonan los genes de ciertas proteínas humanas en microorganismos adecuados para su fabricación comercial. Un ejemplo típico es la producción de insulina[12]​ que se obtiene a partir de la levadura Sacharomyces cerevisae, donde se copia el gen de la insulina en humanos.
+
+
+=== Obtención de vacunas recombinantes ===
+El sistema tradicional de obtención de vacunas a partir de microorganismos patógenos inactivos, puede comportar un riesgo potencial. Muchas vacunas, como la de la hepatitis B,[13]​ se obtienen actualmente por ingeniería genética. Como la mayoría de los factores antigénicos son proteínas lo que se hace es clonar el gen de la proteína correspondiente.
+Vacunas atenuadas: Se eliminan los genes de virulencia de un agente infeccioso para provocar una respuesta inmune. El organismo modificado genéticamente puede usarse como lo que es llamado una vacuna «viva» sin que exista riesgo de que se revierta al tipo virulento.
+Actualmente se está ensayando una vacuna de cepas estables del Vibrio cholerae, éste se encuentra desprovisto del gen que codifica para su enterotoxina, la cual provoca la enfermedad. Otro ensayo existente ha sido en la Salmonella, donde se le han quitado ciertos genes que aunque no son virulentos, convierten a la cepa en atenuada una vez desaparecidos, es decir que disminuyen su virulencia 1, 000, 000 de veces. Su efectividad ha logrado demostrarse en ovejas, bovinos, pollos y hasta en humanos recientemente
+Vacunas de organismos recombinantes vivos: Para estas se utilizan microorganismos no patógenos a los cuales se incorporan genes de agentes patógenos que codifican para los antígenos que desencadenan la respuesta inmune. El virus vacunal tiene un genoma amplio y secuenciado que permite acomodar varios genes foráneos en su interior por lo que es un vector recombinante muy utilizado. A partir de este método se ha logrado desarrollar la vacuna contra la rabia insertando el genoma del virus, provocando la respuesta inmune en el organismo del hospedador. De igual manera se han ensayado las expresiones de genes que codifican para antígenos de virus de la hepatitis B, de la gripe y del herpes simple. Con este método, se podría lograr el desarrollo de vacunas que inmunicen simultáneamente para varias enfermedades, insertando en el virus recombinante varios genes de distintos organismos patógenos a la vez.
+Vacunas de subunidades: Para agentes infecciosos que no se pueden mantener en cultivo, se aíslan los genes que codifican para las proteínas causantes de la respuesta. Dichos genes se pueden clonar y expresar en un huésped alternativo tales como bacterias, levaduras o líneas celulares de mamíferos. Luego de insertado el gen de interés, la bacteria o levadura recombinante inicia con la producción de subunidades de proteínas en grandes cantidades, mismas que son recolectadas y purificadas para utilizarlas como vacunas. La vacuna contra la hepatitis B fue la primera puesta en el mercado y siendo producida por este método.
+Vacunas de ADN: Consisten en plásmidos en los que se introduce tan sólo una diminuta cantidad del material genético del patógeno contra el que se pretende luchar. Al inyectar el plásmido en el músculo o la piel, éste penetra dentro de la célula y llega al núcleo, comandando entonces la producción de los antígenos del patógeno que desencadenarán la respuesta inmune. Así, se traslada la fábrica de la vacuna a los tejidos del huésped. En la actualidad se realizan ensayos de diversas vacunas de este tipo, algunos ejemplos son la vacuna para la hepatitis B, para la malaria, para la gripe, para el herpes simple y para el SIDA.
+
+
+=== Diagnóstico de enfermedades de origen genético ===
+
+Conociendo la secuencia de nucleótidos de un gen responsable de una cierta anomalía, se puede diagnosticar si este gen anómalo está presente en un determinado individuo.
+Hasta ahora ha sido posible la localización de los genes responsables de la fibrosis quística, la distrofia muscular, la hemofilia o el Alzheimer.[14]​ Para identificar estos genes se usan sondas de ADN.
+La clonación de genes puede rendir dos tipos de productos: el ADN clonado, útil como reactivo específico en ensayos de diagnóstico por hibridación o bien los productos proteicos de los genes clonados (antígenos purificados para inmunodiagnóstico en producción de vacunas).
+Hay descritas cerca de 500 enfermedades hereditarias producidas por mutaciones recesivas. Las técnicas de ingeniería genética han servido para diagnosticar algunas de ellas, por ejemplo, la anemia falciforme.
+
+
+=== Obtención de anticuerpos monoclonales ===
+Este proceso abre las puertas para luchar contra enfermedades como el cáncer y diagnosticarlo incluso antes de que aparezcan los primeros síntomas.
+El interferón fue el primer medicamento producido por ingeniería genética.[15]​ Es utilizado como medicamento complementario a la quimioterapia para la cura del cáncer. Su producción era cara hasta 1980, pero genes de interferón fueron introducidos en bacterias usando tecnología de recombinación del ADN permitiendo así el cultivo masivo y purificación de las emisiones bacterianas.
+
+
+== Referencias ==
+
+
+== Véase también ==
+
+
+== Bibliografía relacionada ==
+ Portal:Ingeniería. Contenido relacionado con Ingeniería.
+Sandel, Michael J. (2007). Contra la perfección: la ética en la época de la ingeniería genética. Marbot Ediciones SCP. ISBN 978-84-935744-4-4. 
+Marta Izquierdo Rojo (1999). Ingeniería Genética y Transferencia Génica. Pirámide. 
+JVC (2008). Enciclopedia JVC´s Inc. JVC´s Studios. 
+«Ingeniería Genética». Consultado el 30 de marzo de 2010. 
+«Introducción a la Biotecnología». 1970. Consultado el 30 de marzo de 2010. 
+
+
+== Enlaces externos ==
+General
+
+Si como tomates transgénicos, ¿me saldrán escamas? Los transgénicos en el Museo Virtual Leyendo el Libro de la Vida.
+Las Nuevas Technologías de la Modificación Genética Humana: Un Umbral de Desafío para la Humanidad
+La Ingeniería Genética y el Xenotrasplante Archivado el 25 de mayo de 2010 en Wayback Machine.
+Ingeniería genética, clonación y evolución humanaNoticias
+
+Hallan proteína que induciría la clonación natural de las plantas.
+Control of female gamete formation by a small RNA pathway in Arabidopsis.
+IPN reproduce plantas sin semillas. Archivado el 5 de septiembre de 2014 en Wayback Machine.

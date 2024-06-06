@@ -1,0 +1,261 @@
+La teoría de juegos es un área de la matemática aplicada que utiliza modelos para estudiar interacciones en estructuras formalizadas de incentivos (los llamados «juegos»). La teoría de juegos se ha convertido en una herramienta sumamente importante tanto para la ciencia económica como para la administración de empresas y ha contribuido a comprender más adecuadamente la conducta humana frente a la toma de decisiones. Sus investigadores estudian las estrategias óptimas, así como el comportamiento previsto y observado de individuos en juegos. Tipos de interacción aparentemente distintos pueden presentar en realidad una estructura de incentivo similar y, por lo tanto, se puede representar mil veces conjuntamente un mismo juego.[1]​
+Desarrollada en sus comienzos como una herramienta para entender el comportamiento de la economía, la teoría de juegos se ha ido extendiendo a muchos otros campos, como la biología, las ciencias de la computación, la sociología, la politología, la psicología y la filosofía. Experimentó un crecimiento sustancial y se formalizó por primera vez a partir de los trabajos de John von Neumann y Oskar Morgenstern, antes y durante la Guerra Fría, debido sobre todo a su aplicación a la estrategia militar, en particular a causa del concepto de destrucción mutua garantizada. Desde los setenta, la teoría de juegos se ha aplicado a la conducta animal, incluyendo el desarrollo de las especies por la selección natural. A raíz de juegos como el dilema del prisionero, en los que el egoísmo generalizado perjudica a los jugadores, la teoría de juegos ha atraído también la atención de los investigadores en informática, usándose en inteligencia artificial y cibernética.
+Los conflictos entre seres racionales que recelan uno del otro, o la pugna entre competidores que interactúan y se influyen mutuamente, que piensan y que, incluso, pueden ser capaces de traicionarse uno al otro, constituyen el campo de estudio de la teoría de juegos, la cual se basa en un análisis matemático riguroso pero que, sin embargo, surge de manera natural al observar y analizar un conflicto desde un punto de vista racional. Desde el enfoque de esta teoría, un «juego» es una situación conflictiva en la que priman intereses contrapuestos de individuos o instituciones, y en ese contexto una parte, al tomar una decisión, influye sobre la decisión que tomará la otra; así, el resultado del conflicto se determina a partir de todas las decisiones tomadas por todos los actuantes.
+La teoría de juegos plantea que debe haber una forma racional de jugar a cualquier «juego» (o de negociar en un conflicto), especialmente en el caso de haber muchas situaciones engañosas y segundas intenciones; así, por ejemplo, la anticipación mutua de las intenciones del contrario, que sucede en juegos como el ajedrez o el póquer, da lugar a cadenas de razonamiento teóricamente infinitas, las cuales pueden también trasladarse al ámbito de resolución de conflictos reales y complejos. En síntesis, y tal como se comentó, los individuos, al interactuar en un conflicto, obtendrán resultados que de algún modo son totalmente dependientes de tal interacción.[2]​
+Así, desde que Von Neumann, Morgenstern y John Nash delinearon los postulados básicos de esta teoría durante las décadas del 40 y 50, varias han sido las aplicaciones que se le han otorgado a esta herramienta en el campo de las decisiones económicas, llegando incluso a modificar el modo en que los economistas interpretaban la toma de decisiones y la consecución del bienestar común.
+
+
+== Representación de juegos ==
+El dilema del prisionero
+Uno de los problemas que plantea el equilibrio de Nash se halla en que no conduce necesariamente a situaciones eficientes en el sentido de Pareto1. El análisis original de este juego se basa en una situación en la que se interroga en habitaciones distintas a dos personas que han cometido conjuntamente un robo armado a un banco; sin embargo, el dinero sustraído no se encuentra en sus manos y, por ello, la policía solo puede inculparlos por tenencia ilícita de armas, al carecer de otras pruebas. Así, al ser interrogados por separado, cada uno de ellos tendría la posibilidad de confesarse culpable, implicar al otro prisionero o negar haber participado en el atraco. Sin embargo, la policía puede proponerles un trato y, a través del uso de un adecuado esquema de incentivos, hacer que ambos confiesen la participación en el hecho, lograr que la verdad salga a la luz y condenarlos. A continuación se verá que una adecuada propuesta efectuada por el cuerpo de policías, puede conducir a que la racionalidad y el egoísmo individual con el que suelen ser tomadas las decisiones puede volverse en contra del interés conjunto de estos sujetos. Para demostrar esto, considérese por ejemplo, el juego denominado El dilema del prisionero. Este juego permite comprender que mantener la cooperación es algo sumamente difícil. Muchas veces los individuos no cooperan (este caso es un ejemplo paradójico, ya que demuestra los beneficios que se obtendrían al mantener la cooperación entre cualquier grupo de individuos, pero a la vez demuestra que ello, bajo ciertos postulados, es imposible de conseguir), y sus decisiones individuales no necesariamente conducen al mutuo bienestar.
+
+
+=== Forma normal de un juego ===
+
+La forma normal (o forma estratégica) de un juego es una matriz de pagos, que muestra los jugadores, las estrategias y las recompensas (ver el ejemplo a la derecha). Hay dos tipos de jugadores; uno elige la fila y otro la columna. Cada jugador tiene dos estrategias, que están especificadas por el número de filas y el número de columnas. Las recompensas se especifican en el interior. El primer número es la recompensa recibida por el jugador de las filas (el Jugador 1 en nuestro ejemplo); el segundo es la recompensa del jugador de las columnas (el Jugador 2 en nuestro ejemplo). Si el jugador 1 elige arriba y el jugador 2 elige izquierda entonces sus recompensas son 4 y 3, respectivamente.
+Cuando un juego se presenta en forma normal, se presupone que todos los jugadores actúan simultáneamente o, al menos, sin saber la elección que toma el otro. Si los jugadores tienen alguna información acerca de las elecciones de otros jugadores el juego se presenta habitualmente en la forma extensiva.
+También existe una forma normal reducida. Ésta combina estrategias asociadas con el mismo pago.
+
+
+=== Forma extensiva de un juego ===
+
+La representación de juegos en forma extensiva modela juegos con algún orden que se debe considerar. Los juegos se presentan como árboles (como se muestra a la derecha). Cada vértice o nodo representa un punto donde el jugador toma decisiones. El jugador se específica por un número situado junto al vértice. Las líneas que parten del vértice representan acciones posibles para el jugador. Las recompensas se especifican en las hojas del árbol.
+En el juego que se muestra en el ejemplo hay dos jugadores. El jugador 1 mueve primero y elige F o U. El jugador 2 ve el movimiento del jugador 1 y elige A o R. Si el jugador 1 elige U y entonces el jugador 2 elige A, entonces el jugador 1 obtiene 8 y el jugador 2 obtiene 2.
+Los juegos en forma extensiva pueden modelar también juegos de movimientos simultáneos. En esos casos se dibuja una línea punteada o un círculo alrededor de dos vértices diferentes para representarlos como parte del mismo conjunto de información (por ejemplo, cuando los jugadores no saben en qué punto se encuentran).
+La forma normal da al matemático una notación sencilla para el estudio de los problemas de equilibrio, porque desestima la cuestión de cómo las estrategias son calculadas o, en otras palabras, de cómo el juego es jugado en realidad. La notación conveniente para tratar estas cuestiones, más relevantes para la teoría combinatoria de juegos, es la forma extensiva del juego.
+
+
+== Tipos de juegos y ejemplos ==
+La teoría clasifica los juegos en muchas categorías que determinan qué métodos particulares se pueden aplicar para resolverlos (y, de hecho, también cómo se define "resolución" en una categoría particular). Las categorías comunes incluyen:
+
+
+=== Juegos simétricos y asimétricos ===
+
+Un juego simétrico es un juego en el que las recompensas por jugar una estrategia en particular dependen solo de las estrategias que empleen los otros jugadores y no de quien las juegue.
+Si las identidades de los jugadores pueden cambiarse sin que cambien las recompensas de las estrategias, entonces el juego es simétrico. Muchos de los juegos 2×2 más estudiados son simétricos. Las representaciones estándar del juego del gallina, el dilema del prisionero y la caza del ciervo son juegos simétricos.[3]​
+Los juegos asimétricos más estudiados son los juegos donde no hay conjuntos de estrategias idénticas para ambos jugadores. Por ejemplo, el juego del ultimátum y el juego del dictador tienen diferentes estrategias para cada jugador; no obstante, puede haber juegos asimétricos con estrategias idénticas para cada jugador. Por ejemplo, el juego mostrado a la derecha es asimétrico a pesar de tener conjuntos de estrategias idénticos para ambos jugadores.
+
+
+=== Juegos de suma cero y de suma distinta de cero ===
+
+En los juegos de suma cero el beneficio total para todos los jugadores del juego, en cada combinación de estrategias, siempre suma cero (en otras palabras, un jugador se beneficia solamente a expensas de otros). El go, el ajedrez, el póker y el juego del oso son ejemplos de juegos de suma cero, porque se gana exactamente la cantidad que pierde el oponente. Como curiosidad, el fútbol dejó hace unos años de ser de suma cero, pues las victorias reportaban 2 puntos y el empate 1 (considérese que ambos equipos parten inicialmente con 1 punto), mientras que en la actualidad las victorias reportan 3 puntos y el empate 1.
+La mayoría de los ejemplos reales en negocios y política, al igual que el dilema del prisionero, son juegos de suma distinta de cero, porque algunos desenlaces tienen resultados netos mayores o menores que cero. Es decir, la ganancia de un jugador no necesariamente se corresponde con la pérdida de otro. Por ejemplo, un contrato de negocios involucra idealmente un desenlace de suma positiva, donde cada oponente termina en una posición mejor que la que tendría si no se hubiera dado la negociación.
+Se puede analizar más fácilmente un juego de suma distinta de cero, y cualquier juego se puede transformar en un juego de suma cero añadiendo un jugador "ficticio" adicional ("el tablero" o "la banca"), cuyas pérdidas compensen las ganancias netas de los jugadores.
+La matriz de pagos de un juego es una forma conveniente de representación. Por ejemplo, un juego de suma cero de dos jugadores con la matriz que se muestra a la derecha.
+
+
+=== Criterios «maximin» y «minimax» ===
+Los criterios «maximin» y «minimax» establecen que cada jugador debe minimizar su pérdida máxima:
+
+Criterio «maximin»: el jugador A, elige que su cobro mínimo posible sea el mayor.
+Criterio «minimax»: el jugador B elige que el pago máximo a A sea el menor posible.
+
+
+=== Equilibrio de Nash ===
+Los equilibrios de las estrategias dominantes están muy bien cuando aparecen en los juegos, pero desafortunadamente, eso no ocurre con frecuencia.
+Un par de estrategias es un equilibrio de Nash si la elección del jugador A es óptima, dada elección de B, y la de B es óptima, dada la de A.
+El equilibrio de Nash puede interpretarse como un par de expectativas sobre la elección de cada persona tal que, cuando la otra revela su elección, ninguna de las dos quiere cambiar de conducta.
+Cada jugador conoce y ha adoptado su mejor estrategia, y todos conocen las estrategias de los otros. Consecuentemente, cada jugador individual no gana nada modificando su estrategia mientras los otros mantengan las suyas. Así, cada jugador está ejecutando el mejor "movimiento" que puede dados los movimientos de los demás jugadores.
+
+
+=== Juegos cooperativos ===
+
+Un juego cooperativo se caracteriza por un contrato que puede hacerse cumplir. La teoría de los juegos cooperativos da justificaciones de contratos plausibles. La plausibilidad de un contrato está muy relacionada con la estabilidad.
+Dos jugadores negocian tanto quieren invertir en un contrato. La teoría de la negociación axiomática nos muestra cuánta inversión es conveniente para nosotros. Por ejemplo, la solución de Nash para la negociación demanda que la inversión sea justa y eficiente.
+De cualquier forma, podríamos no estar interesados en la justicia y exigir más. De hecho, existe un juego no cooperativo creado por Ariel Rubinstein consistente en alternar ofertas, que apoya la solución de Nash considerándola la mejor, mediante el llamado equilibrio de Nash.
+El juego cooperativo en la hora de Matemática
+
+En este sentido, proponemos analizar secuencias didácticas para que nuestros
+alumnos “hagan matemática”, es decir, exploren, establezcan relaciones, confronten
+sus producciones con las de otros, discutan con sus pares, tomen decisiones,
+argumenten, validen proposiciones, produzcan conocimiento. Para que este trabajo
+sea posible, es necesario plantear problemas que impliquen un cierto nivel de desafío;
+un contexto fértil para el planteo de esos desafíos es el de los juegos.
+
+
+=== Simultáneos y secuenciales ===
+Los juegos simultáneos son juegos en los que los jugadores mueven simultáneamente o en los que éstos desconocen los movimientos anteriores de otros jugadores. Los juegos secuenciales (o dinámicos) son juegos en los que los jugadores posteriores tienen algún conocimiento de las acciones previas. Este conocimiento no necesariamente tiene que ser perfecto; solo debe consistir en algo de información. Por ejemplo, un jugador1 puede conocer que un jugador2 no realizó una acción determinada, pero no saber cuál de las otras acciones disponibles eligió.
+La diferencia entre juegos simultáneos y secuenciales se recoge en las representaciones discutidas previamente. La forma normal se usa para representar juegos simultáneos, y la extensiva para representar juegos secuenciales.
+
+
+=== Juegos de información perfecta ===
+Un subconjunto importante de los juegos secuenciales es el conjunto de los juegos de información perfecta. Un juego es de información perfecta si todos los jugadores conocen los movimientos que han efectuado previamente todos los otros jugadores; así que solo los juegos secuenciales pueden ser juegos de información perfecta, pues en los juegos simultáneos no todos los jugadores (a menudo ninguno) conocen las acciones del resto. La mayoría de los juegos estudiados en la teoría de juegos son juegos de información imperfecta, aunque algunos juegos interesantes son de información perfecta, incluyendo el juego del ultimátum y el juego del ciempiés. También muchos juegos populares son de información perfecta, incluyendo el ajedrez y el go.
+La información perfecta se confunde a menudo con la información completa, que es un concepto similar. La información completa requiere que cada jugador conozca las estrategias y recompensas del resto pero no necesariamente las acciones.
+En los juegos de información completa cada jugador tiene la misma "información relevante al juego" que los demás jugadores. El ajedrez y el dilema del prisionero ejemplifican juegos de información completa. Los juegos de información completa ocurren raramente en el mundo real, y los teóricos de los juegos, usualmente los ven solo como aproximaciones al juego realmente jugado.
+El matemático inglés, y catedrático emérito de la Universidad de Princeton, John Conway, desarrolló una notación para algunos juegos de información completa y definió varias operaciones en esos juegos, originalmente para estudiar los finales de go, aunque buena parte de este análisis se enfocó en nim. Esto devino en la teoría de juegos combinatoria.
+Conway descubrió que existe una subclase de esos juegos que pueden ser usados como números, como describió en su libro On Numbers and Games (1976), llegando a la clase muy general de los números surreales.
+
+
+=== Juegos de longitud infinita ===
+Por razones obvias, los juegos estudiados por los economistas y los juegos del mundo real finalizan generalmente tras un número finito de movimientos. Los juegos matemáticos puros no tienen estas restricciones y la teoría de conjuntos estudia juegos de infinitos movimientos, donde el ganador no se conoce hasta que todos los movimientos se conozcan.
+El interés en dicha situación no suele ser decidir cuál es la mejor manera de jugar a un juego, sino simplemente qué jugador tiene una estrategia ganadora (Se puede probar, usando el axioma de elección, que hay juegos —incluso de información perfecta, y donde las únicas recompensas son "perder" y "ganar"— para los que ningún jugador tiene una estrategia ganadora.) La existencia de tales estrategias tiene consecuencias importantes en la teoría descriptiva de conjuntos.
+
+
+=== Juegos combinatorios ===
+
+Los juegos en los que la dificultad de encontrar una estrategia óptima proviene de la multiplicidad de movimientos posibles se denominan juegos combinatorios. Algunos ejemplos de estos juegos pueden ser ajedrez y go. Los juegos que implican información imperfecta o incompleta también pueden tener un fuerte carácter combinatorio, por ejemplo el backgammon. No hay una teoría unificada que se ocupa de los elementos combinatorios en los juegos. Hay, sin embargo, herramientas matemáticas que pueden resolver problemas particulares y responder a preguntas generales.
+Se han estudiado juegos de información perfecta en la teoría combinatoria de juegos, que ha desarrollado nuevas representaciones, como por ejemplo los números surreales, así como métodos de prueba combinatorios y algebraicos (y a veces no constructivos) para resolver juegos de ciertos tipos, incluyendo juegos "loopy" que pueden dar lugar a secuencias de movimientos infinitamente largas. Estos métodos se dirigen a juegos con mayor complejidad combinatoria que los normalmente considerados en la teoría de juegos tradicional (o "económica"). Un juego típico que se ha resuelto de esta manera es hexadecimal. Un campo relacionado de estudio, basado en la teoría de la complejidad computacional, es la complejidad del juego, que se ocupa de estimar la dificultad computacional de encontrar estrategias óptimas.
+La investigación en inteligencia artificial ha abordado juegos de información perfectos e imperfectos (o incompletos) que tienen estructuras combinatorias muy complejas (como ajedrez, go o backgammon) para los cuales no se han encontrado estrategias óptimas comprobables. Las soluciones prácticas implican la heurística computacional, como la poda alfa-beta o el uso de redes neuronales artificiales entrenadas por el aprendizaje de refuerzo, que hacen que los juegos sean más manejables en la práctica de la computación.
+
+
+=== Juego continuo ===
+Gran parte de la teoría de juegos se refiere a juegos finitos y discretos, que tienen un número finito de jugadores, movimientos, eventos, resultados, etc. Sin embargo, muchos conceptos pueden extenderse. Los juegos continuos permiten a los jugadores elegir una estrategia a partir de un conjunto de estrategias continuas. Por ejemplo, la competición de Cournot se modela típicamente con las estrategias de los jugadores cualesquiera cantidades no negativas, incluyendo cantidades fraccionarias.
+
+
+=== Juegos diferenciales ===
+Los juegos diferenciales  son juegos continuos donde la evolución de las variables de estado de los jugadores se rige por ecuaciones diferenciales. El problema de encontrar una estrategia óptima en un juego diferencial está estrechamente relacionado con la teoría del control óptimo. En particular, existen dos tipos de estrategias: las estrategias de bucle abierto utilizan el principio de Pontryagin máximo, mientras que las estrategias de bucle cerrado utilizan el método de programación dinámica de Bellman.
+Un caso particular de juegos diferenciales son los juegos con un horizonte temporal aleatorio. En estos juegos, el tiempo terminal es una variable aleatoria con una función de distribución de probabilidad dada. Por lo tanto, los jugadores maximizar la expectativa matemática de la función de costo. Se demostró que el problema de optimización modificado se puede reformular como un juego diferencial con descuento en un intervalo de tiempo infinito.
+
+
+=== Juegos de muchos jugadores y poblaciones ===
+Los juegos con un número arbitrario, pero finito, de jugadores a menudo se denominan juegos de n-personas. La teoría evolutiva de los juegos considera los juegos que involucran a una población de tomadores de decisiones, donde la frecuencia con la que se toma una decisión particular puede cambiar con el tiempo en respuesta a las decisiones tomadas por todos los individuos de la población. En biología, esto se utiliza para modelar la evolución (biológica), donde los organismos programados genéticamente pasan a lo largo algo de su programación de la estrategia a su descendencia. En economía, la misma teoría está destinada a captar los cambios de población porque las personas juegan el juego muchas veces dentro de su vida, y conscientemente (y quizás racionalmente) cambiar las estrategias.
+
+
+=== Resultados estocásticos (y relación con otros campos) ===
+Los problemas individuales de decisión con resultados estocásticos a veces se consideran "juegos de un solo jugador". Estas situaciones no se consideran teóricas de juego por parte de algunos autores. Pueden ser modeladas utilizando herramientas similares dentro de las disciplinas relacionadas de la teoría de la decisión, la investigación de operaciones y áreas de inteligencia artificial, particularmente, la planificación de IA (con incertidumbre) y sistemas multi-agentes. Aunque estos campos pueden tener motivadores diferentes, las matemáticas implicadas son sustancialmente las mismas, por ejemplo, usando procesos de decisión de Markov (MDP). Los resultados estocásticos también pueden ser modelados en términos de la teoría de juegos agregando a un jugador de acción aleatoria que hace "movimientos de la casualidad" ("movimientos por naturaleza").Este jugador no suele ser considerado un tercer jugador en lo que de otro modo es un juego de dos jugadores, sino que simplemente sirve para proporcionar un rol de dado cuando sea requerido por el juego.
+Para algunos problemas, los diferentes enfoques para modelar resultados estocásticos pueden conducir a soluciones diferentes. Por ejemplo, la diferencia en el enfoque entre MDPs y la solución minimax es que este último considera el peor caso sobre un conjunto de movimientos adversarios, en lugar de razonar en la expectativa sobre estos movimientos dados una distribución de probabilidad fija. El enfoque minimax puede ser ventajoso cuando no se dispone de modelos estocásticos de incertidumbre, pero también puede estar sobreestimando eventos extremadamente improbables (pero costosos), cambiando dramáticamente la estrategia en tales escenarios si se supone que un adversario puede forzar que suceda tal evento. También se han estudiado modelos generales que incluyen todos los elementos de resultados estocásticos, adversarios y observabilidad parcial o ruidosa (de movimientos de otros jugadores). Se considera que el "patrón oro" es un juego estocástico parcialmente observable (POSG), pero pocos problemas realistas son computacionalmente factibles en la representación POSG.
+
+
+=== Metagames ===
+Estos son juegos en los que se trata de desarrollar las reglas para otro juego, el objetivo o el jugador. Los metagames buscan maximizar el valor de utilidad del conjunto de reglas desarrollado. La teoría de los metagames está relacionada con la teoría del diseño de mecanismos.
+El término análisis metagame también se utiliza para referirse a un enfoque práctico desarrollado por Nigel Howard. Por lo que una situación se enmarca como un juego estratégico en el que las partes interesadas tratan de realizar sus objetivos por medio de las opciones disponibles. Los acontecimientos posteriores han llevado a la formulación del análisis de la confrontación.
+
+
+== Aplicaciones ==
+La teoría de juegos tiene la característica de ser un área en que la sustancia subyacente es principalmente una categoría de matemáticas aplicadas, pero la mayoría de la investigación fundamental es desempeñada por especialistas en otras áreas. En algunas universidades se enseña y se investiga casi exclusivamente fuera del departamento de matemática.
+Esta teoría tiene aplicaciones en numerosas áreas, entre las cuales caben destacar las ciencias económicas, la biología evolutiva, la psicología, las ciencias políticas, el diseño industrial, la investigación operativa, la informática y la estrategia militar.
+
+
+=== Economía y negocios ===
+Los economistas han usado la teoría de juegos para analizar un amplio abanico de problemas económicos, incluyendo subastas, duopolios, oligopolios, la formación de redes sociales, y sistemas de votaciones. Estas investigaciones normalmente están enfocadas a conjuntos particulares de estrategias conocidos como conceptos de solución. Estos conceptos de solución están basados normalmente en lo requerido por las normas de racionalidad perfecta. El más famoso es el equilibrio de Nash. Un conjunto de estrategias es un equilibrio de Nash si cada una representa la mejor respuesta a otras estrategias. De esta forma, si todos los jugadores están aplicando las estrategias en un equilibrio de Nash, no tienen ningún incentivo para cambiar de conducta, pues su estrategia es la mejor que pueden aplicar dadas las estrategias de los demás.
+Las recompensas de los juegos normalmente representan la utilidad de los jugadores individuales. A menudo las recompensas representan dinero, que se presume corresponden a la utilidad de un individuo. Esta presunción, sin embargo, puede no ser correcta.
+Un documento de teoría de juegos en economía empieza presentando un juego que es una abstracción de una situación económica particular. Se eligen una o más soluciones, y el autor demuestra qué conjunto de estrategias corresponden al equilibrio en el juego presentado. Los economistas y profesores de escuelas de negocios sugieren dos usos principales.
+
+
+==== Descriptiva ====
+El uso principal es informar acerca del comportamiento de las poblaciones humanas actuales. Algunos investigadores creen que encontrar el equilibrio de los juegos puede predecir cómo se comportarían las poblaciones humanas si se enfrentasen a situaciones análogas al juego estudiado. Esta visión particular de la teoría de juegos se ha criticado en la actualidad. En primer lugar, se la crítica porque los supuestos de los teóricos se violan frecuentemente. Los teóricos de juegos pueden suponer jugadores que se comportan siempre racionalmente y actúan para maximizar sus beneficios (el modelo Homo oeconomicus), pero los humanos reales a menudo actúan irracionalmente o racionalmente pero buscando el beneficio de un grupo mayor (altruismo).
+Los teóricos de juegos responden comparando sus supuestos con los que se emplean en física. Así, aunque sus supuestos no se mantienen siempre, pueden tratar la teoría de juegos como una idealización razonable, de la misma forma que los modelos usados por los físicos. Sin embargo, este uso de la teoría de juegos se ha seguido criticando porque algunos experimentos han demostrado que los individuos no se comportan según estrategias de equilibrio. Por ejemplo, en el juego del ciempiés, el juego de adivinar ⅔ de la media y el juego del dictador, las personas a menudo no se comportan según el equilibrio de Nash. Esta controversia se está resolviendo actualmente.[4]​
+Por otra parte, algunos autores aducen que los equilibrios de Nash no proporcionan predicciones para las poblaciones humanas, sino que proporcionan una explicación de por qué las poblaciones que se comportan según el equilibrio de Nash permanecen en esa conducta. Sin embargo, la cuestión acerca de cuánta gente se comporta así permanece abierta.
+Algunos teóricos de juegos han puesto esperanzas en la teoría evolutiva de juegos para resolver esas preocupaciones. Tales modelos presuponen o no racionalidad o una racionalidad acotada en los jugadores. A pesar del nombre, la teoría evolutiva de juegos no presupone necesariamente selección natural en sentido biológico. La teoría evolutiva de juegos incluye las evoluciones biológica y cultural y también modela el aprendizaje individual.
+
+
+==== Normativa ====
+Por otra parte, algunos matemáticos no ven la teoría de juegos como una herramienta que predice la conducta de los seres humanos, sino como una sugerencia sobre cómo deberían comportarse. Dado que el equilibrio de Nash constituye la mejor respuesta a las acciones de otros jugadores, seguir una estrategia que es parte del equilibrio de Nash parece lo más apropiado. Sin embargo, este uso de la teoría de juegos también ha recibido críticas. En primer lugar, en algunos casos es apropiado jugar según una estrategia ajena al equilibrio si uno espera que los demás también jugarán de acuerdo al equilibrio. Por ejemplo, en el juego adivina ⅔ de la media.
+El dilema del prisionero presenta otro contraejemplo potencial. En este juego, si cada jugador persigue su propio beneficio ambos jugadores obtienen un resultado peor que de no haberlo hecho. Algunos matemáticos creen que esto demuestra el fallo de la teoría de juegos como una recomendación de la conducta a seguir.
+
+
+=== Psicología y psiquiatría ===
+Los diseños experimentales con base en juegos de intercambio económico han comenzado a utilizarse para el estudio de personas con trastornos psiquiátricos y la comprensión del funcionamiento neural que subyace a los procesos cognitivos y de procesamiento afectivo; haciendo énfasis en la toma de decisiones, entre dos o más personas ante la posibilidad de distribuir bienes económicos[5]​ En este sentido, se sabe que las personas toman decisiones en los juegos económicos de acuerdo a su capacidad para experimentar confianza,[6]​[7]​[8]​ así como su procesamiento implícito[9]​ y explícito de la confiabilidad de sus compañeros.
+
+
+=== Biología ===
+A diferencia del uso de la teoría de juegos en la economía, las recompensas de los juegos en biología se interpretan frecuentemente como adaptación. Además, su estudio se ha enfocado menos en el equilibrio que corresponde a la noción de racionalidad, centrándose en el equilibrio mantenido por las fuerzas evolutivas. El equilibrio mejor conocido en biología se conoce como estrategia evolutivamente estable, y fue introducido por primera vez por John Maynard Smith. Aunque su motivación inicial no comportaba los requisitos mentales del equilibrio de Nash, toda estrategia evolutivamente estable es un equilibrio de Nash.
+En biología, la teoría de juegos se emplea para entender muchos problemas diferentes. Se usó por primera vez para explicar la evolución (y estabilidad) de las proporciones de sexos 1:1 (mismo número de machos que de hembras). Ronald Fisher sugirió en 1930 que la proporción 1:1 es el resultado de la acción de los individuos tratando de maximizar el número de sus nietos sujetos a la restricción de las fuerzas evolutivas.
+Cabe recalcar que, los biólogos han usado la teoría de juegos evolutiva y el concepto de estrategia evolutivamente estable para explicar el surgimiento de la comunicación animal (John Maynard Smith y Harper en el año 2003). El análisis de juegos con señales y otros juegos de comunicación ha proporcionado nuevas interpretaciones acerca de la evolución de la comunicación en los animales.
+Finalmente, los biólogos han usado el problema halcón-paloma (también conocido como problema de la gallina) para analizar la conducta combativa y la territorialidad.
+
+
+=== Informática y lógica ===
+La teoría de juegos ha empezado a desempeñar un papel importante en la lógica y la informática. Muchas teorías lógicas se asientan en la semántica de juegos. Además, los investigadores de informática han usado juegos para modelar programas que interactúan entre sí.
+
+
+=== Ciencia política ===
+La investigación en ciencia política también ha usado resultados de la teoría de juegos. Una explicación de la teoría de la paz democrática es que el debate público y abierto en la democracia envía información clara y fiable acerca de las intenciones de los gobiernos hacia otros estados. Por otra parte, es difícil conocer los intereses de los líderes no democráticos, qué privilegios otorgarán y qué promesas mantendrán. Según este razonamiento, habrá desconfianza y poca cooperación si al menos uno de los participantes de una disputa no es una democracia.[10]​
+La aplicación de teoría de juegos, en ciencia política se extiende en otras áreas como la división equitativa, la política económica, decisiones públicas, negociaciones de guerra, teoría políticas positivas y la teoría de la elección social. En cada una de esas áreas, los investigadores han desarrollado modelos de teoría de juegos en donde los jugadores son votantes, estados, grupos de interés o burocráticos y políticos.
+Algunos de estos ejemplos de teoría de juegos fueron explicados por Anthony Downs. En su libro An Economic Theory of Democracy, en el cual aplicó la Ley de Hotelling al proceso político. En el modelo de Downsian, los candidatos políticos perpetran en ideologías en un espacio de dimensión política. Downs primero muestra como los candidatos políticos van a converger a la ideología preferida del votante mediano si los votantes están completamente informados. Pero entonces, argumenta que los votantes escogen permanecer racionales ignorando lo que permite que se dé la divergencia de los candidatos. También, fue aplicada en 1962 en la crisis de misiles de Cuba durante la presidencia de John. F. Kennedy.[11]​
+
+
+=== Derecho Penal y Criminología ===
+Recientemente, se está abordando la utilidad de la teoría de juegos y sus metodologías de análisis para fundamentar la responsabilidad penal de las personas jurídicas (empresas, asociaciones, fundaciones, etc.) y para la elaboración de modelos de predicción, detección y reacción frente a delitos cometidos por directivos y empleados en este tipo de organizaciones. El jurista español Rafael Aguilera ha sido pionero en esta línea de investigación[12]​ al proponer en sus estudios la utilización de la teoría de juegos y teorías socioeconómicas en el Derecho Penal corporativo y la Criminología, en concreto para:
+a) Erigir un modelo antrópico de responsabilidad penal de la persona jurídica.[13]​
+En esta representación el ente corporativo no es una verdadera entidad, independiente y con capacidad para autodirigirse, sino que se configura por los puntos (que son los individuos de la organización) y las constricciones, limitaciones y procedimientos (representadas por líneas) que, en puridad, son decididas y configuradas por los propios individuos. La persona jurídica no tiene capacidad de cometer un injusto o de culpabilidad, sino que se le transfiere la responsabilidad, previo análisis de las constricciones. Se concibe al ente como posible destinatario de la responsabilidad penal por la «visibilidad» que detenta en virtud de las constricciones y los propios individuos que las originan e implementan. Si, a raíz de una conducta delictiva de un individuo, se aprecia la inexistencia de unas constricciones y procedimientos tendentes a impedir delitos o se observan que son defectuosas o favorecedoras de la comisión de ilícitos (representado por líneas rojas), se está observando un déficit organizativo, aspecto implícito en el «hecho de conexión» y ello deriva en la trasmisión de responsabilidad penal a la persona jurídica. 
+Modelo antrópico de responsabilidad penal corporativa de Aguilera.
+b) La elaboración de programas de prevención de delitos o corporate compliance programs que posibiliten una respuesta más eficaz frente al delito en la empresa.
+Aguilera aborda la extraordinaria utilidad de la teoría de juegos para el ámbito jurídico-penal y criminológio empresarial, pues permite un estudio riguroso de las dinámicas de actuación y la interacción de carácter estratégico entre participantes que actúan dirigidos por sus propios intereses.[14]​ La teoría de juegos permite explicar cómo los individuos, a través de su comportamiento racional y con sustento en las interacciones con otros, se dotan de regulación o adoptan determinadas decisiones. Además, la teoría de juegos viene acompañada de un valioso desarrollo metodológico que posibilita el análisis de los procesos decisorios teniendo en consideración elementos tan importantes para analizar y dilucidar responsabilidades penales como las  asimetrías informativas y el cumplimiento o incumplimiento de las normas por razones estratégicas (como ocurre, por ejemplo, en el famoso Dilema del Prisionero).
+Igualmente, Aguilera argumenta por qué los Estados están promoviendo, a través de la posibilidad de exoneración de responsabilidad penal corporativa, la incorporación de la figura del compliance officer u oficial de cumplimiento y es que esta teoría demuestra matemáticamente que el compliance officer aminora la tendencia al incumplimiento de las empresas o resto de organizaciones (lo que se conoce en teoría de juegos como solución externa al dilema).
+
+Este autor defiende que la teoría de juegos es totalmente asumible y extraordinariamente útil para elaborar programas de prevención de delitos o corporate compliance programas más eficaces, pues posibilitan la predicción de conductas ilícitas al tener en cuenta aspectos como los flujos de información, las relaciones interpersonales, los aspectos tácticos con respecto a otros individuos o grupos de individuos, así como la propia influencia que ejercen las organizaciones; se analizan los riesgos desde una óptica dinámica y viva, como es la propia realidad empresarial y no desde la habitual perspectiva estática (que es como tradicionalmente se ha venido haciendo a través del uso de las clásicas matrices de riesgo).
+El resultado de utilizar la teoría de juegos en el contexto empresarial es la obtención de una mayor clarificación del amplio elenco de conductas que puede realizar cada trabajador según el puesto que ocupa, no de manera aislada y estática, sino teniendo en consideración que la decisión de cada empleado pende, a su vez de decisiones de otros empleados -decisiones estratégicas en entornos dinámicos-. De este modo, puede resolverse, por ejemplo, cómo actuaría un empleado que se ocupa de la contabilidad de una empresa u otro cuya función es suscribir los contratos de compra con terceros; con fundamento en esa información global que tiene en cuenta todos los factores estratégicos (con arreglo a una metodología científicamente contrastada) pueden establecerse unos procedimientos singulares que «obliguen» a cada miembro de la empresa a actuar de un modo u otro según los sujetos que intervinieron, circunstancias concretas y contexto para respectar el marco legal. La aplicación de la teoría de juegos en la elaboración de programas de prevención de delitos junto con la jurimetría permite obtener lo que Aguilera denomina un modelo de organización y gestión o compliance jurimétrico. Es decir, el autor defiende que el uso de la modelización para elaborar compliance más efectivos para combatir los delitos en las empresas.
+Además, la utilización de esta metodología para elaborar un corporate compliance program o programa de prevención de delitos evidencia que, en la organización, se tiene un firme compromiso con la prevención del delito y el cumplimiento normativo, lo que multiplica las opciones de exclusión o libración de responsabilidad penal a la propia persona jurídica cuando alguno de sus miembros logró cometer un delito.
+Por otro lado, el autor relaciona la utilidad de la teoría de juegos con el actual auge de programas y herramientas informáticas de análisis de riesgos, costes y beneficios en los procesos de toma de decisiones empresariales. Estos programas hacen uso de una ingente cantidad de datos y realizan millones de operaciones matemáticas teniendo en consideración el conjunto de decisiones posibles, todas sus consecuencias y el elenco de estrategias a adoptar; sus resultados arrojan información muy preciada, por ejemplo, cuál es la decisión que conlleva más peligro, cuál es la más conservadora, la más costosa, etc. Al fin y al cabo, se trata de la traslación al lenguaje informático de modelos matemáticos y metodología que traen consigo las propias teorías economicistas, la teoría de juegos o el nuevo institucionalismo de la elección racional. Es decir, desde la informática también viene asumiendo la validez y utilidad de las referidas teorías a la hora de analizar y predecir conductas de los individuos en organizaciones. Sin embargo, esta vinculación entre ambos ámbitos no se contempla desde el plano jurídico-penal. A este respecto, propone una decidida asimilación por el Derecho Penal de las propuestas desarrolladas en la investigación permitiría el establecimiento de lo que el Aguilera viene a denominar nexo lógico de raíz socio-jurídica, lo que permitiría abordar con mayor solvencia las dificultades, retos legales y dilemas éticos que plantean y plantearán el uso de estas nuevas herramientas informáticas por las empresas. 
+
+
+=== Filosofía ===
+La teoría de juegos ha demostrado tener muchos usos en filosofía. A partir de dos trabajos de W. V. O. Quine publicados en 1960 y 1967, David Lewis (1969) usó la teoría de juegos para desarrollar el concepto filosófico de convención. De esta forma, proporcionó el primer análisis del conocimiento común y lo empleó en analizar juegos de coordinación. Además, fue el primero en sugerir que se podía entender el significado en términos de juegos de señales. Esta sugerencia se ha seguido por muchos filósofos desde el trabajo de Lewis.[15]​
+Leon Henkin, Paul Lorenzen y Jaakko Hintikka iniciaron una aproximación a la semántica de los lenguajes formales que explica con conceptos de teoría de juegos los conceptos de verdad lógica, validez y similares. En esta aproximación los "jugadores" compiten proponiendo cuantificaciones e instancias de oraciones abiertas; las reglas del juego son las reglas de interpretación de las sentencias en un modelo, y las estrategias de cada jugador tienen propiedades de las que trata la teoría semántica (ser dominante si y solo si las oraciones con que se juega cumplen determinadas condiciones, etc.).
+
+En ética, algunos autores han intentado continuar la idea de Thomas Hobbes de derivar la moral del interés personal. Dado que juegos como el dilema del prisionero presentan un conflicto aparente entre la moralidad y el interés personal, explicar por qué la cooperación es necesaria para el interés personal es una componente importante de este proyecto. Esta estrategia general es un componente de la idea de contrato social en filosofía política (ejemplos en Gauthier 1987 y Kavka 1986).[16]​
+Otros autores han intentado usar la teoría evolutiva de juegos para explicar el nacimiento de las actitudes humanas ante la moralidad y las conductas animales correspondientes. Estos autores han buscado ejemplos en muchos juegos, incluyendo el dilema del prisionero, la caza del ciervo, y el juego del trato de Nash para explicar la razón del surgimiento de las actitudes acerca de la moral (véase Skyrms 1996, 2004; Sober y Wilson 1999).
+Finalmente, Margit Gaffal y Jesús Padilla Gálvez han ampliado la teoría de los juegos estudiando las interrelaciones que generan el uso que hacen los jugadores cuando utilizan determinados juegos de lenguaje y han investigado el modo cómo interviene las formas de vida de los negociadores en las decisiones y estrategias que se llevan a cabo en los juegos. Por tanto han ampliado la teoría de los juegos a dos campos distintos: las formas de vida de los jugadores y los juegos de lenguaje que usan ya que ambos determinan las estrategias que se desarrollan en los juegos (véase Gaffal, Margit  y Jesús Padilla Gálvez 2023).
+
+
+=== Música ===
+Un compositor que usa la teoría de juegos en sus composiciones es Iannis Xenakis, en sus obras Duel o Stratégie.  
+
+
+=== Optimización de diseño ===
+La teoría de optimización de diseño dicta cinco principios característicos de un juego, sin los cuales, este dejaría de poder ser llamado de tal forma:
+
+Reglas: Deben ser fáciles de entender, pero solo a través de la experiencia ser completamente dominadas.
+Interacción (Participación): Los jugadores, por medio de la intervención del mundo creado, deben olvidarse del mundo real.
+Oposición: El juego debe ser balanceado. Se requiere habilidad para ganar, no suerte.
+Toma de Decisiones: Todas las tomas de decisiones deben tener un incitador de interés y un mérito por más pequeñas que sean.
+Meta: Un punto final al cual llegar. Debe ir acompañado de un incremento de emociones y tensión mientras el juego se acerca a su conclusión.
+
+
+== Críticas y límites a la Teoría de Juegos ==
+A lo largo de los años, la Teoría de Juegos ha enfrentado diversas críticas y limitaciones desde el ámbito académico. Uno de los principales detractores de la teoría es el economista y filósofo Amartya Sen, quien argumenta que la Teoría de Juegos se centra demasiado en la racionalidad individual y en la maximización de la utilidad, obviando aspectos como la empatía, el compromiso y la responsabilidad social. Otro crítico es el economista y psicólogo Herbert Simon, quien sostiene que la Teoría de Juegos asume que los individuos son capaces de procesar y evaluar toda la información disponible para tomar decisiones óptimas, mientras que en la realidad, los agentes económicos suelen tomar decisiones basadas en una "racionalidad limitada". Además, algunos académicos han señalado que la Teoría de Juegos no siempre es aplicable en situaciones de incertidumbre, pues sus modelos tienden a asumir que los agentes conocen las probabilidades y las posibles acciones de los demás jugadores.
+
+
+== Historia de la teoría de juegos ==
+La primera discusión conocida de la teoría de juegos aparece en una carta escrita por James Waldegrave en 1713. En esta carta, Waldegrave proporciona una solución mínima de estrategia mixta a una versión para dos personas del juego de cartas le Her. Sin embargo no se publicó un análisis teórico de teoría de juegos en general hasta la publicación de Recherches sur les príncipes mathématiques de la théorie des richesses, de Antoine Augustin Cournot en 1838. En este trabajo, Cournot considera un duopolio y presenta una solución que es una versión restringida del equilibrio de Nash.
+Aunque el análisis de Cournot es más general que el de Waldegrave, la teoría de juegos realmente no existió como campo de estudio aparte hasta que John von Neumann publicó una serie de artículos en 1928. Estos resultados fueron ampliados más tarde en su libro de 1944, Theory of Games and Economic Behavior[18]​, escrito junto con Oskar Morgenstern. Este trabajo contiene un método para encontrar soluciones óptimas para juegos de suma cero de dos personas. Durante este período, el trabajo sobre teoría de juegos se centró, sobre todo, en teoría de juegos cooperativos. Este tipo de teoría de juegos analiza las estrategias óptimas para grupos de individuos, asumiendo que pueden establecer acuerdos entre sí acerca de las estrategias más apropiadas.
+En 1950 Albert W. Tucker planteó formalmente las primeras discusiones del dilema del prisionero, y se emprendió un experimento acerca de este juego en la corporación RAND. En ese año John Nash desarrolló una definición de una estrategia óptima para juegos de múltiples jugadores donde el óptimo no se había definido previamente, conocido como equilibrio de Nash, bajo la supervisión del mencionado Tucker. Este equilibrio es suficientemente general, permitiendo el análisis de juegos no cooperativos además de los juegos cooperativos.
+La teoría de juegos experimentó una notable actividad en la década de 1950, momento en el cual los conceptos base, el juego de forma extensiva, el juego ficticio, los juegos repetitivos, y el valor de Shapley fueron desarrollados. Además, en ese tiempo, aparecieron las primeras aplicaciones de la teoría de juegos en la filosofía y las ciencias políticas.
+En 1965, Reinhard Selten introdujo su concepto de solución de los equilibrios perfectos del subjuego y el concepto de equilibrio perfecto de mano temblorosa, que más adelante refinaron el concepto de equilibrio de Nash. En 1967 John Harsanyi desarrolló los conceptos de la información completa y de los juegos bayesianos. Él, junto con John Forbes Nash y Reinhard Selten, ganaron el Premio en Ciencias Económicas en memoria de Alfred Nobel en 1994.
+En la década de 1970 la teoría de juegos se aplicó extensamente a la biología, en gran parte como resultado del trabajo de John Maynard Smith y su concepto estrategia estable evolutiva. Además, los conceptos del equilibrio correlacionado, equilibrio perfecto de mano temblorosa, y del conocimiento común fueron introducidos y analizados.[19]​
+En 2005, los teóricos de juegos Thomas Schelling y Robert Aumann ganaron el Premio en Ciencias Económicas en memoria de Alfred Nobel. Schelling trabajó en modelos dinámicos, los primeros ejemplos de la teoría de juegos evolutiva. Por su parte, Aumann contribuyó más a la escuela del equilibrio.
+En el 2007, Roger Myerson, junto con Leonid Hurwicz y Eric Maskin, recibieron el Premio en Ciencias Económicas en memoria de Alfred Nobel por "sentar las bases de la teoría de diseño de mecanismos."
+En el 2012, Lloyd Stowell Shapley y Alvin E. Roth ganan el Premio en Ciencias Económicas en memoria de Alfred Nobel por dar nombre dentro de este campo a media docena de teoremas, algoritmos, principios, soluciones e índices.
+
+
+== Véase también ==
+Teoría de los juegos de rol
+Dinámica de sistemas
+Sistema dinámico
+Sistema complejo
+
+
+== Bibliografía ==
+
+
+=== Referencias generales ===
+
+
+=== Lecturas adicionales ===
+
+
+=== Textos de importancia histórica ===
+
+
+== Notas ==
+
+
+== Enlaces externos ==
+
+
+=== En español ===
+Introducción a la teoría de juegos, Eumed.net.
+Literatura sobre teoría de juegos, Rubén Osuna.
+Teoría de Juegos y Canales de Denuncia: Explorando estrategias óptimas para promover la integridad empresarial 2023
+"La teoría de los juegos y el origen de las instituciones", Martín Krause, RIIM/ESEADE.
+Sencilla introducción a la teoría de juegos, Raúl Bajo.
+
+
+=== En inglés ===
+"Game Theory", Wilfrid Hodges, Stanford Encyclopedia of Philosophy.
+"A framework for the unification of the behavioral sciences", Herbert Gintis, Behavioral and Brain Sciences (2007) 30:1-61.
+Game Theory, Experimental Economics, and Market Design Page, Alvin Roth.
+A Chronology of Game Theory, Paul Walker.
+GameTheory.net: A resource for educators and students of game theory, Mike Shor.
+Introduction to Game Theory. Lecture by Benjamin Polak.

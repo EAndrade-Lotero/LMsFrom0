@@ -1,0 +1,366 @@
+La arquitectura gótica es la forma artística sobre la que se formó la definición del arte gótico, el estilo artístico comprendido entre el románico y el Renacimiento, que se desarrolló en Europa Occidental —cristiandad latina— en la Baja Edad Media, desde finales del siglo XII hasta el siglo XV, aunque más allá de Italia las pervivencias góticas continuaron hasta los comienzos del siglo XVI.
+Iniciada en la experimentación arquitectónica del siglo XII en la región de la Île de France, se extendió por toda Europa como un estilo de marcada verticalidad, tanto en las torres como en las elevadísimas naves, permitida por los arcos apuntados y las bóvedas de crucería, cuyo peso se desplazaba por los arbotantes a contrafuertes exteriores, aligerando los muros, que acogen una cada vez mayor multiplicidad de capillas laterales. Pintura y escultura se libran de su dependencia de los muros (retablos).
+El vocablo «gótico» es el adjetivo correspondiente a godo y fue utilizado en este contexto por primera vez por el tratadista italiano Giorgio Vasari (1511-1574), quien en su famosa obra de biografías de pintores toscanos incluye varios capítulos sobre el arte en la Edad Media. En sentido peyorativo usó este término para denominar la arquitectura anterior al Renacimiento, propia de los bárbaros o godos, cuyos componentes le parecían confusos, desordenados y poco dignos, por contraste a la perfección y racionalidad del arte clásico. En su propia época, se solía denominar como opus francigenum (estilo francés), por referencia al origen de la innovación. Paradójicamente, en la España del siglo XVI se calificaba al gótico final (isabelino o plateresco) como la forma de construir a lo moderno, mientras que la arquitectura clasicista que introducía el renacimiento italiano era vista como una forma de construir a la antigua o a lo romano.[1]​
+La arquitectura gótica puso especial énfasis en la ligereza estructural y la iluminación de las naves del interior de los edificios. Surgió del románico pero acabó oponiéndose a los volúmenes masivos y a la escasa iluminación interior de sus iglesias. Se desarrolló fundamentalmente en la arquitectura religiosa (monasterios e iglesias), teniendo su mayor éxito en la construcción de grandes catedrales, secular tarea en que competían las ciudades rivales; aunque también tuvieron importancia la arquitectura civil (palacios, lonjas comerciales, ayuntamientos, universidades, hospitales y viviendas particulares de la nueva burguesía urbana) y la arquitectura militar (castillos y murallas urbanas).
+Los dos elementos estructurales básicos de la arquitectura gótica son el arco apuntado u ojival y la bóveda de crucería, cuyos empujes, más verticales que en el arco de medio punto, permiten una mejor distribución de las cargas y una altura muy superior. Además, la parte principal de estas son transmitidas desde las cubiertas directamente a contrafuertes exteriores al cuerpo central del edificio mediante arbotantes. El resultado libera a la mayor parte de los muros de su función sustentante (confiada a esbeltos pilares y baquetones), pudiendo ser perforados con vanos ocupados por amplias vidrieras y rosetones que dejan paso a la luz.
+La arquitectura gótica tuvo su origen en las regiones de Normandía y la Isla de Francia, desde donde se difundió primero a todo el reino de Francia y posteriormente (ya a mediados del siglo XIII), sobre todo por la extensión del arte cisterciense y las rutas jacobeas, por el Sacro Imperio Romano Germánico y los reinos cristianos del norte de España (que durante ese periodo de la Reconquista se estaban imponiendo a los musulmanes del sur). En Inglaterra penetró pronto el estilo francés, aunque adquirió un fuerte carácter nacional. A Italia llegó tarde, no tuvo mucha aceptación, y su impacto fue muy desigual en las distintas regiones, siendo pronto sustituido por el Renacimiento.
+El medievalismo suscitado por el romanticismo y el nacionalismo del siglo XIX hizo reelaborar como arquitectura historicista un neogótico que reproducía el lenguaje arquitectónico propio del estilo con formas más o menos genuinas, destacando la labor restauradora y reconstructora del francés Eugène Viollet-le-Duc.
+
+
+== Cronología de la arquitectura gótica ==
+
+
+=== Antecedentes ===
+Los elementos esenciales que caracterizan el estilo gótico ya existían con anterioridad al nacimiento de este estilo arquitectónico, toda vez que se hallan dispersos en edificios de edades anteriores. El arco apuntado fue conocido por los egipcios, asirios, indios y persas de la dinastía sasánida, aunque su uso no era muy corriente. La arquitectura islámica también lo conoció e hizo un uso amplio de él, su ejemplo conocido más antiguo se encuentra en la Cúpula de la Roca, en Jerusalén, construido entre los años 687 y 691, otros ejemplos de gran calidad y belleza de su uso son las mezquitas de Samarra en Irak y la mezquita de Amr en Egipto, cuyas construcciones se realizaron a mediados del siglo IX.
+La bóveda de crucería, fue empleada en construcciones árabes de Córdoba del siglo IX y en algunas mozárabes del siglo X y aún virtualmente en las bóvedas romanas desde el primer siglo del Imperio cuando entraban en ellas arcos diagonales embebidos en las mismas. Los arbotantes se encuentran originariamente y de forma rudimentaria en las bóvedas de cuarto de cañón cuando sirven de contrarresto. El principio y distinción de elementos activos y pasivos que caracteriza la arquitectura ojival se extendió y aplicó por los antiguos asirios.
+Parece claro que pudo existir una transmisión de estos elementos a través de las visitas realizadas por los cruzados a Jerusalén y a través del norte de África para llegar a España y de ahí al resto de Europa. Fue, sin embargo, la nueva relación entre todos estos elementos la que dio como resultado un nuevo tipo de edificio con unas proporciones diferentes, mucho más esbelto que los edificios románicos y con mayor luminosidad, en el que los muros pueden casi llegar a desaparecer.[2]​
+
+
+=== Origen del arte gótico ===
+
+Un error mantenido hasta muy avanzado el siglo XIX, fue suponer que la arquitectura gótica había nacido en Alemania y era peculiar del genio germánico. Los alemanes, basándose principalmente en los textos renacentistas, abogaban porque el estilo gótico, de las grandes catedrales, se había originado a orillas del río Rin.
+El estilo gótico nació como tal en el norte de Francia, a mediados del siglo XII. Se da la fecha del 14 de julio de 1140, en que se inició la restauración del abad Suger al deambulatorio de la basílica de Saint-Denis, como la fecha de nacimiento de este estilo, sin embargo debe hablarse más bien de una evolución técnica de las formas de las escuelas románicas regionales. Así, ya a finales del siglo XI, se había comenzado a construir en Inglaterra la catedral de Durham, con bóveda de crucería y estructura gótica. En los primeros momentos, durante el denominado estilo de transición, que se alargó hasta finales del siglo XII, se siguió manteniendo cierta forma o fisonomía románica. Por ejemplo, en el primer gótico se mantuvo una estructura de proporcionalidad clásica en las fachadas, propia del románico, que se puede observar en la catedral de Notre Dame de París, que más adelante se perdió en beneficio de efectos mucho más verticales. De forma esquemática se dice que la arquitectura de este período fue una arquitectura románica con bóvedas y arcos apuntados.[3]​
+
+
+=== Plenitud ===
+
+Al comenzar el siglo XIII, el estilo gótico, denominado en este periodo como «gótico clásico», llega a su perfección en las regiones de Normandía y la Isla de Francia, territorio de dominio real de los alrededores de París. Desde allí se extendió a todo el resto de Francia. Se difundió durante el siglo XIII al Sacro Imperio Romano, Inglaterra, reinos hispánicos y principados itálicos, llevado sobre todo por los monjes del Císter. Este estilo llegó a alcanzar las islas de Rodas y Chipre e incluso Siria, transmitido por las cruzadas.
+
+
+=== Gótico radiante ===
+
+En los inicios del siglo XIV la arquitectura aumenta su esbeltez, tiende a la estilización, iniciándose la independización de la pintura y escultura. El estilo evolucionó hacia una mayor altura, la expansión de los vanos y el mayor apuntamiento de los arcos. Las vidrieras pasaron a cubrir el espacio del muro, sirviendo la arquitectura únicamente de soporte y marco, tiene su máxima expresión en la Sainte Chapelle de París.[4]​
+
+
+=== Gótico tardío ===
+ A partir de la mitad del siglo XV, comienza el denominado gótico tardío, su fase más adornada, con una creciente riqueza decorativa. Su variedad de lugar, tiempo y circunstancia produjo una gama estilística amplia que escapa a la generalización. Su vigencia es variable dependiendo de las zonas, mientras que en Italia, durante el siglo XV el gótico es desplazado de forma temprana por la arquitectura renacentista, en otras zonas, el estilo propio del gótico perduró hasta bien entrado el siglo XVI, y en Inglaterra, en concreto, perduró una tradición gótica hasta su renovación a través del neogótico, durante el siglo XIX.[5]​
+
+
+== Interpretaciones históricas sobre los orígenes y esencia del gótico ==
+La interpretación del arte gótico ha sido causa de enfrentamientos doctrinales a lo largo de los siglos XIX y XX, además de ser expuesta a grandes transformaciones pasando por una gran variedad de modificación en su estructura.
+
+Interpretación de la escuela alemana, sustentada principalmente por Wilhelm Worringer. Se trata de una interpretación espiritualista, para la que el gótico es la expresión del alma nórdica, en oposición al alma mediterránea o clásica. Entre los antecesores de esta línea se encuentran autores del siglo XVIII que se oponen a la predominancia del gusto francés. Es significativo, en este contexto, el encuentro entre Johann Gottfried Herder y Johann Wolfgang von Goethe ante la catedral de Estrasburgo en 1770, en que Herder le hará ver a Goethe la sublimidad de ese arte alemán. Esta línea de interpretación ha sido seguida por algunos historiadores del siglo XX, como Max Dvořák, Wilhelm Pinder y Hans Seldmayr. La concepción germánica del arte gótico presta atención a las ideas y no tanto a los medios técnicos para su realización. Las formas solo interesan en relación con su significación mental.  Worringer tuvo una gran influencia que actualmente ha sido superada.[6]​
+Interpretación de la escuela francesa, encabezada por Viollet-le-Duc. Esta línea ha sido seguida por relevantes historiadores de la Escuela de Archiveros de París —Quicherat, Félix de Verneiuil y después Lasteyrie y Enlart—, que defienden la teoría funcional. Se ha caracterizado por poner el acento en la técnica, en los procesos de construcción y sus condicionamientos formales. Han determinado el origen territorial y técnico del estilo.[7]​[8]​
+Interpretación de Erwin Panofsky desarrollada  en su obra Arquitectura gótica y pensamiento escolástico, que establece una analogía entre la arquitectura gótica y el sistema de pensamiento escolástico:. la catedral gótica se trataría de una summa de saberes, que constituye un conjunto inteligible, que participa de una estructura mental común. Se basa en la idea de totalidad.[9]​
+
+
+== Entorno económico y social del gótico ==
+
+La arquitectura gótica nació, durante la denominada Baja Edad Media, en un momento de cambios económicos, sociales y políticos que supusieron el incremento de la actividad económica y de la producción agrícola, esto conllevó un auge del comercio y una potenciación del poder urbano, mientras que en lo político se fortaleció la autoridad de las monarquías frente a la nobleza. Todas estas circunstancias supusieron la renovación de la estructura socioeconómica que potenció una nueva concepción de Dios y del hombre. En el entorno urbano destacaron dos nuevos grupos que florecieron gracias al rápido desarrollo de las ciudades, los artesanos y mercaderes, organizados en torno a los gremios y las logias. En el ámbito cultural, el protagonismo se desplazó desde los monasterios hacia las escuelas catedralicias y urbanas.[10]​
+De estas circunstancias surgieron nuevas formas constructivas, por un lado, la catedral gótica, que representaba la expresión del esfuerzo común ciudadano. La iniciativa de las catedrales solía corresponder a las autoridades políticas, religiosas o municipales. Para su construcción se requerían amplios recursos, para algunas obras se obtenía el patrocinio real, que agilizaban la construcción, merced a los recursos de los monarcas. La financiación no solía quedar asegurada por la fortuna particular de los obispos y canónigos, que cedían una parte de sus ingresos, sino que había que recurrir a otras vías como colectas, aportaciones gremiales, reliquias, impuestos sobre ferias y mercados etc. La disponibilidad de recursos marcaba el ritmo de las obras, y se encuentran pocos ejemplos de grandes templos que fueron levantados de una sola vez. Durante el siglo XIV, las obras se detuvieron casi totalmente por la grave depresión económica que se atravesó.
+Por otra lado el renacer urbano supuso también la aparición de nuevos tipos de edificios no religiosos, comunitarios como los almacenes gremiales, tiendas y lonjas; públicos como los ayuntamientos, hospitales, las nacientes universidades y puentes, y otros de carácter privado como casas señoriales y palacios, que dejaron de ser monopolio de la nobleza.[11]​
+
+
+== Edificios góticos ==
+
+
+=== Arquitectura religiosa ===
+La catedral es el edificio donde el gótico alcanza su expresión más plena, en la que se refleja el esfuerzo y la aportación de toda una ciudad. A su construcción suelen colaborar las cofradías y gremios que suelen tener su manifestación en las capillas laterales.
+También destaca la arquitectura monasterial, entre la que se distingue:
+
+La arquitectura cisterciense, con monasterios situados en el campo, desconectados de la vida civil, que desarrollan un estilo protogótico y que servirá para la propagación del estilo gótico por toda Europa. Aunque tampoco todos los componentes de esta arquitectura servirán de fundamento para el gótico.
+La orden cartuja
+Dominicos y franciscanosEjemplos de arquitectura gótica religiosa
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Arquitectura civil ===
+La arquitectura civil muestra la pujanza económica en la Baja Edad Media, el auge de las actividades comerciales y artesanales, la apertura de nuevas rutas comerciales y el próximo descubrimiento de América. En la arquitectura militar se desarrolla y perfecciona la construcción de castillos y murallas; los puentes se fortifican con puertas a los extremos y en medio. La arquitectura civil muestra la consolidación de formas municipales frente al poder señorial o eclesiástico con la construcción de grandes edificios destinados a servir de sede de sus instituciones y gobiernos municipales, entre los que destacan los de las ciudades italianas de Florencia y Siena y también los de la región de Flandes. En Cataluña sobresalen la Casa de Ciudad y el Palacio de la Generalidad en Barcelona. También se desarrolló la construcción de lonjas comerciales, palacios urbanos, universidades, hospitales y viviendas particulares para la nueva burguesía urbana que desplazaba a la nobleza. Asimismo, destacó durante el siglo XV, concretamente durante el último periodo del gótico, toda la arquitectura civil en Flandes.
+
+
+== Elementos de la arquitectura gótica ==
+La arquitectura gótica presenta innovaciones técnicas y constructivas notables, que permitieron levantar estructuras esbeltas con medios y materiales sencillos. Las principales aportaciones constructivas, al igual que en el románico, se centran en las cubiertas.
+
+
+=== Planta ===
+La planta de las  iglesias góticas responde a dos tipos principales:
+
+de tradición románica. En él se observan casi las mismas formas que en el estilo románico y más comúnmente la de cruz latina, con girola o sin ella pero con los brazos poco salientes y con los absidiolos o capillas absidiales frecuentemente poligonales. Las iglesias abaciales, sobre todo, cistercienses, siguen este tipo con brazos muy salientes como en la época románica. Y en las iglesias menores o populares se adopta como planta más común la de cruz latina o la rectangular y con un solo ábside poligonal en la cabecera.[12]​
+de salón. La planta carece de crucero de brazos salientes (aunque no deja de ostentarse más o menos la simbólica cruz de en medio), el templo de salón presenta una disposición basilical y posee, como mínimo, tres naves de igual altura y, por consiguiente, un sistema de iluminación lateral. Los espacios interiores son amplios y desahogados, abarcables con una sola mirada y tremendamente unitarios, de ahí que parezcan o tengan el aspecto de un gran salón.En todo caso, la planta se divide en tramos rectangulares o cuadrados determinados por las columnas y arcos transversales y sobre estos, cargan las bóvedas de crucería. Desde mediados del siglo XIII se hace común el abrir capillas en los lados de las iglesias, entre los contrafuertes, para satisfacer la devoción de los gremios o cofradías y del pueblo en general, ya que antes de esta época era raro admitirlas fuera de los ábsides.
+
+
+=== Arco apuntado ===
+
+El arco apuntado es uno de los elementos técnicos más característicos de la arquitectura gótica, y vino a suceder al de medio punto, propio de la arquitectura románica. El arco ojival es el resultado de la intersección de dos secciones de círculo, es más esbelto y ligero por transmitir menores tensiones laterales, lo que permite elevar la altura de las construcciones, pues gracias a su verticalidad las presiones laterales son menores que en el arco de medio punto, permitiendo salvar mayores espacios.[13]​ A lo largo del gótico el arco apuntado mostró variantes como el trilobulado, el arco conopial utilizado durante el denominado gótico flamígero o el arco Tudor, durante el denominado gótico perpendicular inglés.
+
+Arcos en el gótico
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Bóveda de crucería o nervada ===
+
+La bóveda de crucería, conformada por arcos apuntados, a modo de esqueleto, es más ligera que cualquier otro tipo de bóveda construida hasta esa fecha. La utilización de ese tipo de arco formando un esqueleto tridimensional unitario refleja el alto conocimiento técnico que alcanzaron los constructores de catedrales. Ahora los empujes y el peso de las cubiertas es soportado por los pilares en los que descargan y no por los muros como sucedía en el Románico, con lo que los muros pueden llegar en caso extremos con el de la Sainte Chapeile de París casi a desaparecer, por la gran cantidad de vanos que se pueden abrir que se cubren con vidrieras.[13]​
+En el transcurso del gótico, la bóveda de crucería fue adquiriendo una mayor complejidad estructural y decorativa, desde la simple o cuatripartita hasta llegar a las bóvedas de abanico. El primer periodo se distingue por la sencillez de los arcos cruceros o diagonales que son simples y llevan pocas molduras, en este mismo periodo se usó también la denominada bóveda sexpartita (dividida en seis témpanos) para los tramos de bóveda de la nave central, cuando esos se hacían cuadrados, correspondiendo cada uno de ellos con dos de las naves laterales. En el segundo, se aumenta la crucería con arcos o nervios secundarios y los llamados terceletes para sostener los témpanos de plementería ya que las bóvedas se hacen más amplias. A la vez, se molduran todos los arcos, mayormente los diagonales y estos y demás nervios reciben más perfiles y se ligan con nervios transversales. En el tercer periodo se añaden nuevos terceletes y nervios secundarios con sus ligaduras aun sin necesidad alguna y se generaliza la bóveda llamada estrellada (por la figura del conjunto) y los nervios y arcos se perfilan con más delicadeza.
+Desde finales del siglo XV, se adornaban las claves de las crucerías en muchos edificios con florones de madera o de metal, dorados o policromados conocidos con el nombre de arandelas. Pero ya desde los principios del estilo se decoran dichas claves con variados relieves.
+Los ábsides góticos se cubren también con diferentes bóvedas de crucería pero de tal suerte que los arcos o nervios concurren todos a una clave central formando crucería radiada y muy a menudo se da al cascarón una forma gallonada o dividida en compartimentos de boveditas parciales más o menos salientes o profundas. Esta disposición, al paso que refuerza y embellece el ábside, contribuye mucho a la sonoridad de la iglesia sobre todo, para los cantos desde el presbiterio.
+
+Bóvedas de crucería
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Contrafuertes y arbotantes ===
+
+Para soportar el empuje del peso de las bóvedas, en vez de construir gruesos muros como se realizaba en el románico, en el que los contrafuertes adoptaban la forma de pilares adosados exteriormente al muro, con un ancho creciente en su base; los arquitectos góticos idearon un sistema más eficiente: los contrafuertes con arbotantes. Los contrafuertes se separan de la pared, recayendo el empuje sobre ellos por medio de un arco de transmisión denominado arco arbotante. Todavía se puede alcanzar una mayor resistencia colocando a continuación un segundo contrafuerte. Los arbotantes también cumplen la misión de albergar los canales por donde descienden las aguas de los tejados y evitar así que resbalen por las fachadas.
+Por un lado, la disposición de estos machones transversales permitía hacer fachadas no portantes, esbeltas, con enormes huecos. Por otra parte, al conectar los contrafuertes por medio de arcos arbotantes a la estructura principal se ganaba brazo de palanca y se liberaba espacio para situar naves laterales, paralelas a la nave principal.
+Los botareles y demás contrafuertes se decoran, montando pináculos sobre ellos para que tengan más peso y resistencia, logrando así con estos remates el doble fin constructivo y estético.
+El sistema de arbotantes y contrafuertes de las iglesias góticas constituye un elemento característico que embellecen el exterior de los edificios, pero a la vez, ponen de manifiesto la propia fragilidad estructural, ya que sujetan el edificio a modo de apuntalamiento externo.
+
+
+=== Alzado ===
+El sistema constructivo gótico, eficiente y ligero en su conjunto, permitió ganar altura para los edificios. El alzado de los templos góticos presenta diversas alternativas que se fueron sucediendo en el tiempo:
+
+Alzado cuatripartito: estructurado en cuatro niveles es utilizado en el gótico inicial, en especial de la región de Normandía como en las catedrales de Laon y Noyon. Los cuatro niveles que forman este modo son:[14]​
+1.er piso: arcadas o arquerías
+2.º piso: tribuna
+3.er piso: triforio
+4.º piso: claristorio
+el alzado tripartito se estructura en tres niveles, se impone desde fines del siglo XII. En este modelo se distinguen dos variantes, una primera que presenta el triforio ciego y una segunda con el triforio calado. Los distintos niveles que forman el modo tripartito son:[13]​[14]​
+1.er piso: arquería
+2.º piso: triforio
+3.er piso: claristorio o ventanales.
+el alzado bipartito: A partir de 1300 se empieza a utilizar un nuevo alzado con solo dos plantas:[13]​
+1.er piso: arquerías
+2.º piso: claristorio
+
+
+=== Columnas ===
+Los soportes o columnas del arte gótico consisten en el pilar compuesto el cual, durante el periodo de transición, es el mismo soporte románico aunque dispuesto para el enjarje de arcos cruceros. Pero en el estilo gótico perfecto se presenta cilíndrico el núcleo del pilar, rodeado de semicolumnillas (pilastras) y apoyado sobre un zócalo poligonal o sobre un basamento moldurado, a diferencia del estilo románico en que tal zócalo era uniforme y cilíndrico.
+Estos basamentos se hallan más divididos y moldurados conforme avanza más la madurez del estilo gótico, distinguiéndose especialmente los de periodo flamígero por destacarse de ellos pequeñas basas parciales de diferentes alturas correspondiendo éstas a las columnillas que rodean el núcleo del pilar. Pero en el siglo XVI se vuelve con frecuencia al uso del zócalo primitivo prismático o cilíndrico sin divisiones. Las columnillas adosadas alrededor del núcleo se corresponden con los arcos y nervios de las bóvedas, cada una con el suyo, según el principio seguido en el estilo románico de que debe corresponder a cada pieza sostenida su propio sostén o soporte.
+Estas columnillas van aumentando en número a medida que progresa el estilo. Al principio, suelen ser cuatro o seis en los pilares aislados, de suerte que la sección transversal u horizontal de estos forme en la mayoría de los casos una especie de cruz de núcleo prismático. Pero luego se van multiplicando de tal manera en las nuevas construcciones, desde mediados del siglo XIII, apenas queda visible el núcleo central (que en adelante suele ser redondo). Aparece ahora todo el soporte como un haz de cilindros, los cuales en el siglo XV se reducen a simples junquillos o baquetones por haber aumentado su número y no tener ya cabida si no es con esta forma; pues no solo se adjudica una columnilla para cada arco y nervio de la bóveda sino que hasta las molduras principales de estos tienen su columnilla correspondiente en el soporte.
+
+
+=== Capiteles ===
+El capitel gótico va perdiendo su importancia según adelanta la época del estilo. Después del periodo de transición en el que se sigue el capitel románico se presenta como un tambor algo cónico abrazado con follaje cuyos motivos se toman de la flora del país (aunque, a veces, sobre todo durante el siglo XIV admite figurillas e historias entre el follaje siempre con más pulcritud que en el estilo románico) y se corona por un ábaco circular o poligonal de varias molduras.
+Posteriormente, el capitel se va haciendo más pequeño y delicado y por fin, llega hasta suprimirse cuando en el siglo XV el haz de junquillos se ramifica directamente en los nervios de la bóveda sin que medie solución de continuidad en muchos casos o se queda en forma de simple anillo.[cita requerida]
+
+
+=== Cúpulas ===
+Las cúpulas se forman de témpanos sostenidos por nervios radiantes que arrancando del octógono formado por los arcos torales y por una especie de trompas muy artísticas situadas en los ángulos determinados por ellos, se unen concurriendo a una clave superior y céntrica.
+El cimborrio se manifiesta al exterior en forma de prisma octógono o hexágono coronado por una pirámide con más atrevimiento y elegancia que en el arte románico. Muchas veces, en lugar de cúpula se alza una simple linterna prismática a modo de torre sobre el crucero.
+
+
+=== Ventanas y vidrieras ===
+La reducción de la estructura sustentante al mínimo imprescindible permitió abrir grandes huecos en los muros de las fachadas. Los artistas de la época pudieron dar rienda suelta a su imaginación creando un arte desconocido hasta la fecha.
+Las ventanas del periodo de transición suelen ser como las románicas de arco apuntado. Pero luego se ostenta el verdadero ventanal gótico amplio y decorado en su parte superior con hermosos calados de piedra, los cuales se forman de rosetones combinados, siempre sostenidos por columnas o parteluces. En el siglo XIV se complica la tracería multiplicándose los rosetones y adelantando ya el XV se combinan las líneas formando curvas serpenteantes constituyendo el calado flamígero.
+Una cosa parecida se observa en los grandes rosetones que se colocan en lo alto de las fachadas: al principio, toman la forma radiante y sencilla aunque en iglesias suntuosas es algo más complicada. Se multiplican los adornos de la rosa en el siglo XIV y en el XV llega a ser la tracería un verdadero laberinto de curvas enlazadas. No faltan en todas las épocas sin embargo ventanas menores de traza más sencilla y pequeños aljimeces. Ventanas y rosetones suelen cerrarse con magníficas vidrieras polícromas e historiadas donde a su modo se ejercita el arte pictórico monumental ya que apenas le dejan espacio para su desarrollo los escasos lienzos de pared que median entre los referidos vanos en las iglesias suntuosas.
+
+Ventanas y vidrieras
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Fachadas y puertas ===
+En las fachadas y en las puertas el arte gótico despliega toda su magnificencia y su concepción teológica. La portada gótica admite la misma composición fundamental de forma abocinada, que la románica pero se multiplican las arquivoltas y se añade una mayor elevación de líneas con más riqueza y finura escultórica guardando siempre en arcos y adornos la forma propia del nuevo estilo. Sobre la puerta se coloca en ocasiones un gablete.
+Las portadas más suntuosas llevan imágenes de apóstoles y de otros santos bajo doseletes entre las columnillas (y a menudo, también otras menores entre las arquivoltas) flanqueando el ingreso el cual puede estar dividido por un parteluz que sirve de apoyo a una estatua de la Virgen María o del titular de la iglesia.
+Las iglesias del Cister y otras menores que se modelan a imitación suya carecen de imaginería en la portada, la cual se compone del grande arco abocinado y decorado con simples baquetones y alguna ornamentación vegetal o geométrica. La finura en la ejecución de la obra escultórica y la multiplicación progresiva de las columnillas y molduras con el adelgazamiento de ellas, denuncian mejor que otras las señales de la época de la construcción de las portadas. Pero las del último periodo desde mediados del siglo XV se reconocen sobre todo por la multitud y pequeñez de los detalles por la arquivolta conopial, cargada de frondas retorcidas y por otros ornamentos de la época.
+
+
+=== Elementos secundarios ===
+Entre los elementos secundarios de un edificio gótico son notables por lo característico de su forma:
+
+ apoyos, a modo de repisa, ya sola ya con una media columna encima de ella, adosados a cierta altura de los muros, sostienen los arcos y los nervios que parten como arrancando del muro, según se observa sobre todo en la arquitectura cisterciense
+repisas y doseletes para estatuas que en los siglos XII y XIII suelen llevar figuras de castillitos, en el siglo XIV semejan boveditas de crucería con pequeños gabletes y en el XV se adornan con calados flamígeros y arquitos conopiales o se terminan por una elevada torrecilla y altos gabletes
+antepechos para triforios y galerías que al principio constan de arcaditas ojivales y después tienen la forma de pretil con calados propios de la época
+pináculos, agujas, gárgolas, caireles, crestería, etc., cuya traza de estilo gótico es inconfundible con la de otros.
+
+
+=== Ornamentación ===
+La ornamentación gótica se funda en la construcción y sirve para acentuar más los elementos de ésta. Los motivos más comunes y propios, en el terreno escultórico, son en los comienzos del estilo gótico, sobre todo, en el periodo de transición los adornos geométricos heredados del estilo románico, molduras y calados geométricos que nacen del propio arco. La utilización del arco conopial en el siglo XV permite una amplia utilización de la curva y contracurva en la ornamentación.
+La parte más novedosa en cuanto a la decoración viene de la flora y fauna local que se interpreta en forma estilizada durante los siglos XII y primera mitad del XIII. La naturaleza se interpreta con bastante realismo y en este último siglo se propende a las formas retorcidas. El trébol, la hiedra retorcida, los brotes de vid, las hojas de roble o de encina se encaraman por los arcos y las agujas de los edificios góticos, asociándose al nuevo estilo. Posteriormente se abandonan para dar lugar a las frondas, cardinas (hojas de cardo), grumos, trifolios, cuadrifolios, etc. En el arte clásico, solo dos o tres plantas, el acanto, la hiedra y el laurel, habían tenido aceptación en el repertorio decorativo, pero el gótico se vale de todas las especies del reino vegetal y reproduce también pájaros y hasta seres fantásticos, monstruos que una veces están derechos como guardianes en los alto de balaustradas y otras agazapados condenados a servir de gárgolas para arrojar el agua de las lluvias recogidas en los tejados.
+
+Las molduras góticas se distinguen de las grecorromanas en que no ofrecen corte o sección circular como éstas sino semielíptica, piriforme, cordiforme, etc. todo para que a la vista aparezcan muy tenues y casi aéreos los arcos y demás miembros que se molduran.
+La decoración pictórica de varios de los mencionados elementos debió ser en su tiempo común pero ha llegado escasa a nuestros días. Con frecuencia se pintaban las esculturas de las portadas, sepulcros, capiteles, claves de bóvedas, nervios de éstas y más la techumbre si se hacía de madera. Y aunque fueron poco abundantes los cuadros de figuras en los muros, se suplieron en gran parte por las vidrieras policromadas. En muchos edificios de España, participando más o menos en la arquitectura mudéjar se usó la decoración de azulejos en frisos y zócalos.
+
+
+== La arquitectura gótica en Europa ==
+La difusión de la arquitectura gótica fue muy amplia, desde su nacimiento en Francia alcanzó plenamente a Inglaterra, España, Italia y Alemania y con ella todo el Sacro Imperio Romano. Uno de los grandes elementos que contribuyó a su difusión fue la expansión de la orden de Cluny. Alcanzó puntos tan lejanos como los países nórdicos y lugares del oriente mediterráneo como Rodas, Chipre y Siria donde arribaría de la mano de los cruzados.
+
+
+=== Gótico francés ===
+
+
+=== Gótico inglés ===
+
+
+=== España ===
+
+La arquitectura gótica se introdujo en España a través de los monasterios de la Orden del Císter y alcanzó una amplia difusión en todo el país. El estilo de transición desde el Románico se plasma en las catedrales de Tarragona, Lérida y Ávila.
+En el siglo XIII, de máximo apogeo del gótico, se construyen las manifestaciones más puras de este estilo en España: las catedrales de Burgos, León y Toledo.[13]​ En la Meseta están presentes dos influencias, la borgoñona, en el Reino de León, debido al origen de la dinastía leonesa; y la inglesa, en el Reino de Castilla, llegada a través de la alianza matrimonial de los reyes castellanos con la Casa de Lancaster.
+El siglo XIV supone el esplendor del gótico en la zona de la antigua Corona de Aragón, especialmente en Cataluña, Valencia y Baleares; son construcciones de exteriores sobrios y macizos, las iglesias presentan la denominada planta de salón, con naves laterales de la misma altura que la central, y ausencia de contrafuertes, con escasa decoración escultórica, caracterizado por la influencia de las iglesias del sur de Francia y la casi nula aportación del arte mudéjar. Estos estilos se corresponden con el gótico valenciano, el gótico catalán o el gótico balear, según su localización, por ciertas características propias y originales. Sus mejores ejemplos son las catedrales de Barcelona, comenzada a construir en 1298, Gerona, comenzada a construir en 1317, y la de Palma de Mallorca, que dispone de tres naves sin girola y fue consagrada en 1346, y también numerosas construcciones civiles.[13]​
+Durante los siglos XV y XVI, mientras en Italia ya crecía con fuerza el Renacimiento, la actividad constructiva del gótico fue abrumadora en España, surgiendo numerosos edificios de grandes proporciones, caracterizados por la sencillez de la construcción y la complicación ornamental. Se erigen las grandes catedrales de Sevilla, Segovia y Salamanca.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+=== Italia ===
+
+
+=== Alemania ===
+
+
+=== Polonia ===
+
+
+=== República Checa ===
+
+
+=== Bélgica, Países Bajos y otros ===
+Por su situación geográfica, esta región recibe de forma temprana y directa la influencia del arte gótico francés. Durante el siglo XV, el poderío económico se transmite a la arquitectura que se levanta durante este periodo, llena de suntuosidad.
+Predomina la arquitectura civil, en la que una burguesía acomodada, agrupada en gremios de artes y oficios, erige casas corporativas y en las plazas de las ciudades se edifican soberbios ayuntamientos —como los de Brujas (1376-1421) o Bruselas (1401-1455) y Lovaina (1439-1469)— y lonjas de contratación, entre las que destaca la Lonja de Paños de Ypres, reconstruida tras la primera guerra mundial. También abundan viviendas particulares, que se caracterizan por el remate denominado de piñón, de forma escalonada y triangular de gran altura; los tejados suelen ser altos y de gran pendiente.[41]​
+Ejemplos de viviendas y barrios de la época que han llegado hasta nosotros en buen estado de conservación son el Grasslei o Muelle de la hierba de Gante, la plaza central de Delft o la Grand Place de Bruselas.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+==== Gótico escaldino ====
+
+
+==== Gótico brabantino ====
+
+
+=== Gótico báltico ===
+El gótico báltico, a veces llamado gótico de ladrillos (en alemán: Backsteingotik) es un estilo simplificado de arquitectura gótica y neogótica prevaleciente en Europa septentrional, especialmente el norte de Alemania y las zonas aledañas al mar Báltico, o sea, regiones que no poseen recursos naturales para hacer edificios de piedra.
+
+
+== Véase también ==
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Martín González, J. J. (1982). Historia del arte. Gredos. ISBN 9788424931391.  
+Andrew Martindale, El arte gótico, ISBN 84-233-2347-1
+Ortega y Gasset, José (1946). «Arte de este mundo y del otro». Obras completas. Volumen 1. Madrid: Revista de Occidente. pp. 186-190. Consultado el 14 de mayo de 2016. 
+Joaquín Yarza/Marisa Melero, Arte medieval, ISBN 84-7679-306-5
+Trachtenberg, Martin; Hyman, Isabelle. Arquitectura, de la prehistoria a la modernidad. Akal. ISBN 84-7600-628-4. Consultado el 22 de enero de 2017. 
+VV. AA., Historia del arte Salvat.
+VV., AA. (2021). Las artes en la Edad del Gótico. Editorial Universitaria Ramón Areces. ISBN 9788499613802. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Arquitectura gótica.
+ Wikimedia Commons alberga una galería multimedia sobre Arquitectura gótica.
+Fotografías. (en inglés)
+GothicMed. Un museo virtual de arquitectura gótica mediterránea.
+Artehistoria.
+Gothic architecture; English

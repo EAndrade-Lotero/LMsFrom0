@@ -1,0 +1,196 @@
+La neurociencia (también en plural, neurociencias) es una disciplina científica que estudia el sistema nervioso y todos sus aspectos: por ejemplo, estructura, función, desarrollo ontogenético y  filogenético, bioquímica, farmacología y patología, y cómo sus diferentes elementos interactúan, dando lugar a las bases biológicas de la cognición y la conducta.[1]​[2]​[3]​
+La neurociencia engloba una amplia gama de interrogantes acerca de cómo se organizan los sistemas nerviosos de los seres humanos y de otros animales, cómo se desarrollan y cómo funcionan para generar la conducta. Estas preguntas pueden explorarse usando las herramientas analíticas de la genética y la genómica, la biología molecular y la biología celular, la anatomía y la fisiología de los aparatos y sistemas, la filosofía, la biología conductual y la psicología.[4]​
+
+ 
+
+El estudio biológico del cerebro es un área multidisciplinar que abarca muchos niveles de estudio,[3]​ desde el puramente molecular hasta el específicamente conductual y cognitivo, pasando por el nivel celular (neuronas individuales), los ensambles y redes pequeñas de neuronas (como las columnas corticales) y los ensambles grandes (como los propios de la percepción visual), incluyendo sistemas como la corteza cerebral o el cerebelo, e incluso el nivel más alto del sistema nervioso.[cita requerida]En el nivel más alto, las neurociencias se combinan con la psicología para crear la neurociencia cognitiva,[5]​ una disciplina que al principio fue dominada totalmente por psicólogos cognitivos. Hoy en día, la neurociencia cognitiva proporciona una nueva manera de entender el cerebro y la conciencia, pues se basa en un estudio científico que une disciplinas tales como la neurobiología, la psicobiología o la propia psicología cognitiva, un hecho que con seguridad cambiará la concepción actual que existe acerca de los procesos mentales implicados en el comportamiento y sus bases biológicas.
+El principal objetivo de la neurociencia cognitiva es el estudio de las representaciones internas de los fenómenos mentales. La neurociencia cognitiva se basa en cinco aproximaciones principales:
+
+En el encéfalo, hay una representación ordenada del espacio personal: la precisión de los exámenes neurológicos clínicos se basa en mapas corticales fiables del cuerpo. En el córtex hay un mapa del cuerpo para cada modalidad de sensación.
+La representación interna del espacio personal puede modificarse con la experiencia: la capacidad de modificación de la representación interna puede explicar el síndrome del miembro fantasma.
+La representación interna del espacio personal puede estudiarse a nivel celular: cada neurona del sistema nervioso central tiene un campo receptor específico.
+El espacio real, así como el imaginado y el recordado, se representan en las áreas de asociación parietales posteriores.[6]​Las neurociencias ofrecen un apoyo a la psicología con la finalidad de entender mejor la complejidad del funcionamiento mental. La tarea central de las neurociencias es la de intentar explicar cómo funcionan millones de neuronas en el encéfalo para producir la conducta, y cómo a su vez estas células están influidas por el medio ambiente. Tratando de desentrañar cómo la actividad del cerebro se relaciona con la psiquis y el comportamiento, revolucionando la manera de entender las conductas y lo que es más importante aún: cómo aprende nuestro cerebro, cómo guarda información y cuáles son los procesos biológicos que facilitan el aprendizaje.[cita requerida]Es cierto que las formas espontáneas de desarrollo parecen una condición necesaria para las formas de funcionamiento cognoscitivo, pero no son condición suficiente.[7]​ Existen nomenclaturas psicopatológicas, hoy aplicadas a los niños, que puede llevar a la medicalización de la infancia.[8]​
+
+
+== Temas de interés ==
+Algunos de los problemas aún no resueltos de la neurociencia son:
+
+Conciencia: ¿cuál es la base neuronal de la experiencia subjetiva y las sensaciones, la cognición, la vigilia, el estado de alerta, la excitación y la atención? ¿cómo se resuelve el problema difícil de la conciencia? ¿Cuál es su función?[9]​
+Percepción: ¿cómo transfiere el cerebro información sensorial en percepción interna coherente? ¿Cuáles son las normas por las cuales se organiza la percepción? ¿Cuáles son las características que constituyen nuestra experiencia perceptual de acontecimientos internos y externos? ¿cómo están integrados los sentidos? ¿Cuál es la relación entre la experiencia subjetiva y el mundo físico?
+Aprendizaje y memoria: ¿dónde se almacenan los recuerdos y cómo se recuperan de nuevo? ¿Cómo puede ser mejorado el aprendizaje? ¿Cuál es la diferencia entre recuerdos explícitos e implícitos?
+Plasticidad neuronal: ¿qué tan plástico es el cerebro maduro?[10]​
+Desarrollo y evolución: ¿cómo y por qué evolucionó el cerebro? ¿Cuáles son las determinantes moleculares del desarrollo cerebral individual?
+Sueño: ¿Por qué soñamos? ¿cuáles son los mecanismos cerebrales subyacentes? ¿Cuál es su relación con la anestesia?[11]​
+Cognición y decisiones: ¿cómo y dónde evalúa el cerebro la recompensa y el esfuerzo (costo) para modular el comportamiento? ¿Cómo modifica la experiencia previa la percepción y el comportamiento? ¿Cuáles son las contribuciones genéticas y ambientales para el funcionamiento del cerebro?
+Idioma: ¿cómo se implementa neuralmente? ¿Cuál es la base del significado semántico?
+Enfermedades: ¿cuáles son las bases neurales (causas orgánicas) de enfermedades mentales como los trastornos psicóticos (por ejemplo, la manía, la esquizofrenia), la enfermedad de Parkinson, la enfermedad de Alzheimer o la adicción? ¿Es posible recuperarse de la pérdida de la función motora o sensorial?[12]​
+
+
+== Áreas relacionadas ==
+
+Las neurociencias exploran campos tan diversos como:
+
+La operación de neurotransmisores en la sinapsis;
+los mecanismos biológicos responsables del aprendizaje;
+el control genético del desarrollo neuronal desde la concepción;
+la operación de redes neuronales;
+la estructura y funcionamiento de redes complejas involucradas en la memoria, la percepción y el habla.Entre las áreas relacionadas con las neurociencias, se encuentran las siguientes:
+
+el neurodesarrollo
+la neuroanatomía
+la neurociencia aplicada
+la neurociencia cognitiva
+la neurociencia computacional
+la neuroeconomía
+la neurofisiología
+la neurolingüística
+la neurología
+la neuropsicología
+la psiquiatría
+la neuropsiquiatría
+la neurotecnología
+la psicofarmacología
+la neurogenética
+la neurocirugía
+la neurobiología
+el neuromarketing
+
+
+== Aspectos históricos: la neurona ==
+
+
+=== Luigi Galvani ===
+En 1791, Luigi Galvani, un fisiólogo de Bolonia, descubrió la existencia de actividad eléctrica en los animales. Había colgado la pata de una rana en un gancho de cobre suspendido de un balcón de hierro. La interacción entre los dos metales hacía que la pata se contrajera.[cita requerida]El fisiólogo llamó a esta forma de producir energía «bioelectrogénesis». A través de numerosos y espectaculares experimentos —como electrocutar cadáveres humanos para hacerlos bailar la «danza de las convulsiones tónicas»—, llegó a la conclusión de que la electricidad necesaria no provenía del exterior, sino que era generada en el interior del propio organismo vivo que, una vez muerto, seguía conservando la capacidad de conducir el impulso y reaccionar a él consecuentemente.[cita requerida]
+
+
+=== Hermann von Helmholtz ===
+Hermann von Helmholtz descubrió que la generación de electricidad por parte de los axones de las células nerviosas no es un producto secundario de su actividad, sino un medio para transmitir mensajes de un extremo a otro. Logró medir, en 1859, la velocidad de propagación de tales mensajes, y llegó a la conclusión de que se propagan a 27 m/s (metros por segundo).[cita requerida]
+
+
+=== Camillo Golgi ===
+Camillo Golgi desarrolló un método de tinción con cromato de plata, que permite colorear una neurona entre muchas otras, supuso una revolución en los laboratorios de estudio de tejidos nerviosos. Con este método identifico una clase de célula nerviosa dotada de extensiones que se conectan a otras células nerviosas[3]​ Compartió el Premio Nobel de Medicina de 1906 con Santiago Ramón y Cajal.
+
+
+=== Santiago Ramón y Cajal ===
+Santiago Ramón y Cajal dio a la célula nerviosa el nombre de neurona, unidad elemental del sistema de señalización del sistema nervioso. Descubre que el axón de una neurona solo se comunica con las dendritas de otra en regiones especializadas: las sinapsis. Además, una neurona determinada solo se comunica con ciertas células, y no con otras. En el interior de la neurona, las señales fluyen en una dirección única. Este principio permite determinar el flujo de la información en los circuitos neurales. Encontró que existen tres tipos principales de neuronas: sensorial, motora e interneurona.[cita requerida]
+
+
+=== Charles Sherrington ===
+Charles Sherrington estudió los fundamentos neurales del comportamiento reflejo. Descubrió que es posible inhibir las neuronas además de excitarlas, y que la integración de esas señales determina la acción del sistema nervioso.[cita requerida]
+
+
+=== Edgar Adrian ===
+Edgar Adrian ideó métodos para registrar los potenciales de acción, que son las señales eléctricas utilizadas por las neuronas para la comunicación. Descubre que son señales de tipo todo o nada, es decir, o bien se presentan completas o bien no se presentan en absoluto. Compartió el Premio Nobel de Medicina con Charles Sherrington.[cita requerida]
+
+
+=== Julius Bernstein ===
+Julius Bernstein, discípulo de Wilhelm Helmholtz, propuso en 1902 la hipótesis de la membrana porosa para describir el proceso de conducción eléctrica en las neuronas. Dedujo que hay una diferencia de potencial entre el interior y el exterior de la célula nerviosa, incluso cuando la célula está en reposo. (Véase potencial de acción y potencial de reposo.)[cita requerida]
+
+
+=== Alan Hodgkin y Andrew Huxley ===
+Alan Hodgkin y Andrew Huxley desarrollaron investigaciones sobre el axón gigante de las células nerviosas de los calamares (véase Otto Schmitt). Confirmaron la hipótesis de Julius Bernstein de que el potencial de membrana en reposo se genera por el desplazamiento de iones de potasio hacia el exterior de la célula y de iones de sodio hacia su interior. Compartieron el Premio Nobel de Medicina de 1963 con John Eccles, por la investigación sobre las bases iónicas de la transmisión nerviosa.[cita requerida]
+
+
+=== Henry Dale y Otto Loewi ===
+Henry Dale y Otto Loewi propusieron la teoría química de la transmisión sináptica. Descubrieron, en forma independiente, que cuando el potencial de acción de una neurona del sistema nervioso autónomo llega a los terminales del axón, causa la liberación de una sustancia química en la hendidura sináptica. Recibieron el Premio Nobel de Medicina en 1936.[cita requerida]
+
+
+=== Edwin Furshpan y David Potter ===
+Edwin Furshpan y David Potter descubrieron, en una langosta de río, que también es posible la transmisión eléctrica entre dos células nerviosas, si bien la mayoría de las sinapsis son de origen químico.[cita requerida]
+
+
+=== Bernard Katz ===
+Bernard Katz descubrió que cuando un potencial de acción ingresa en la terminal presináptica causa la apertura de los canales de calcio, lo que permite la afluencia de este elemento químico al interior de la célula. La abundancia de calcio, a su vez, determina la liberación de los neurotransmisores en la hendidura sináptica. El neurotransmisor se une a los receptores superficiales de la neurona postsináptica, y las señales químicas se retraducen a señales eléctricas. Compartió el Premio Nobel de Medicina de 1970 con Ulf von Euler y Julius Axelrod por los estudios realizados sobre neurotransmisores.
+
+
+=== Rodolfo Llinás ===
+Rodolfo Llinás cambió el dogma establecido desde que Santiago Ramón y Cajal enunció la ley de la polarización sobre el aspecto funcional de las neuronas. Rodolfo Llinás presentó el nuevo punto de vista funcional sobre la neurona en su artículo «The Intrinsic Electrophysiological Properties of Mammalian Neurons: Insights into Central Nervous System Function» ("Las propiedades electrofisiológicas intrínsecas de las neuronas de los mamíferos: nuevas ideas sobre el funcionamiento del sistema nervioso central ").[13]​ Rodolfo Llinás y sus colaboradores investigaron durante los años 80 el funcionamiento electrofisiológico de las neuronas en los vertebrados y descubrieron las propiedades electrofisiológicas. Anteriormente se habían observado propiedades intrínsecas en los invertebrados, y se pensaba que éstas eran únicamente una cuestión relativa a esa línea, pero Llinás y sus colaboradores demostraron que las neuronas de los vertebrados tienen propiedades electrofisiológicas intrínsecas. El nuevo punto de vista funcional sobre la neurona quedó resumido en lo que hoy es conocido como la ley de Llinás.[cita requerida]
+
+
+=== Arvid Carlsson, Paul Greengard y Eric Kandel ===
+El descubrimiento de cada sustancia química considerada mediadora de la intercomunicación neuronal aportaba nuevos elementos de conocimiento de la compleja red de conexiones entre células nerviosas y de sus correspondientes características funcionales.
+Eric Kandel esclareció el papel de los transmisores en el complejo proceso de la memoria y el aprendizaje, estableciendo que la memoria es evocada por cambios directos en los millones y millones de sinapsis que forman los puntos de contacto entre las neuronas.[14]​
+
+
+=== Antonio Alcalá Malavé ===
+En el 2002, Antonio Alcalá Malavé descubrió que las áreas cerebrales 17,18 y 19 de Brodmann (véase Korbinian Brodmann), además de inducir el fenómeno físico y químico de la visión, sirven para informar del riesgo cardiovascular y algunas demencias. Ese "informe biológico" se traduce como fallo visual en la calidad, cantidad, color y contraste de las imágenes que llegaban al cerebro o que eran procesadas por el mismo aunque ya aberradas. Sus trabajos pueden verificarse mediante campimetría computarizada y análisis computarizado cromático.[cita requerida]
+
+
+=== Roderick MacKinnon ===
+Roderick MacKinnon obtuvo en el 2004 la primera imagen tridimensional de los átomos que forman la proteína de los dos canales iónicos: un canal pasivo de potasio y un canal de potasio activado por voltaje. Recibió el Premio Nobel de Química.[cita requerida]
+
+
+=== John O'Keefe, Edvard Moser y May-Britt Moser ===
+En el 2014, el matrimonio formado por los psicólogos y neurocientíficos noruegos Edvard Moser y May-Britt Moser compartió con el británico John O’Keefe el Premio Nobel de Fisiología o Medicina por sus estudios sobre las células de lugar del hipocampo: una clase de neuronas que codifican la ubicación espacial de mamíferos como las ratas y los seres humanos y que les permiten orientarse en el espacio. Ciertos grupos de neuronas hipocampales se activan o no, dependiendo del lugar de una habitación en el que nos encontremos en un momento determinado.[cita requerida]
+
+
+== Aspectos históricos: localización ==
+Además de la secuencia histórica asociada a la neurona y a los conjuntos neuronales, es posible seguir la evolución de las neurociencias considerando la secuencia histórica de las teorías destinadas a establecer la función de cada sector del cerebro, o bien la consideración de que no existiría una localización concreta de las funciones cerebrales.
+
+
+=== Franz J. Gall ===
+La frenología (del griego: φρήν, fren, ‘mente’, y λόγος, logos, ‘conocimiento’) es una antigua teoría pseudocientífica, sin ninguna validez en la actualidad, que afirmaba la posible determinación del carácter y los rasgos de la personalidad, así como las tendencias criminales, basándose en la forma del cráneo, cabeza y facciones. También expuso la idea de que el cerebro poseía partes especializadas para cada función.[15]​
+
+
+=== Pierre Flourens ===
+El fisiólogo francés Pierre Flourens efectuaba la ablación de partes del cerebro de animales y estudiaba su conducta. De manera que, según lo que los animales dejaban de hacer, podía inferir las funciones de la parte extraída. Observó que, con el tiempo, se restablecía la función original, con independencia de la parte dañada.[cita requerida]
+
+
+=== Paul Broca ===
+Luego del fallecimiento de un paciente con trastornos en el lenguaje, el neurólogo y antropólogo francés Paul Broca estudió su cerebro y encontró una lesión en el tercio posterior de la circunvolución frontal inferior del hemisferio izquierdo.[3]​ Estudió a otros pacientes con problemas similares y encontró las mismas lesiones en la ahora denominada área de Broca. Este especialista llegó a afirmar: "Nosotros hablamos con el hemisferio izquierdo".
+
+
+=== Carl Wernicke ===
+Carl Wernicke descubrió la que ahora se denomina área de Wernicke, una zona del cerebro cuyas lesiones producen perturbaciones en la comprensión del habla. Sus descubrimientos, junto a los de Paul Broca, estimularon los estudios localizacionistas durante el siglo XIX.[cita requerida]
+
+
+=== Walter R. Hess ===
+Walter Rudolf Hess descubrió la organización funcional del cerebro medio como coordinador de las actividades de los órganos internos. Empleando estimulación eléctrica en ciertas zonas del mesencéfalo, Hess pudo reproducir funciones autónomas espontáneas, modificaciones en la respiración o la circulación, entre otras respuestas.[cita requerida]
+
+
+=== Roger W. Sperry ===
+Los estudios de Roger W. Sperry permitieron determinar que, aunque cada uno de los dos hemisferios del cerebro (izquierdo y derecho) intercambia información con el otro a través del cuerpo calloso y de otras comisuras más pequeñas, existen notables diferencias en la forma de procesamiento de la información entre uno y otro.[cita requerida]
+
+
+=== Hubel y Wiesel ===
+David H. Hubel y Torsten Wiesel descubrieron las características del procesamiento de la información visual. Estudiando su desarrollo en gatos pequeños, detectaron la capacidad de las neuronas corticales para reorganizarse ante situaciones de privación sensorial y determinaron que la reorganización de las neuronas corticales ocurre solo en periodos determinados.[14]​
+
+
+== Véase también ==
+circuito neuronal
+neurobiología
+neurociencia aplicada
+neurociencia cognitiva
+neurociencia social
+neuroética
+neurofisiología
+neuromito
+neurona espejo
+neuropsiquiatría
+
+
+== Referencias ==
+
+12. La relación ética, neurociencias y Derecho. J.F.Martinez, 2017-12
+
+
+== Bibliografía ==
+Kandel, Eric R. En busca de la memoria. Katz Editores. ISBN 978-987-1283-40-8.
+Polanco, R. (2007). «El objeto de la mente: Revisión histórica sobre el abordaje de la mente.» Revista de Psicología U. Valparaíso, 4, dic.
+Santos Salvaggio, Premios Nobel. Ramón Sopena. ISBN 84-303-0790-7.
+
+
+== Documentales ==
+D'Amicis, F., Hofer, P. y Rockenhaus, F. (2011) El cerebro automático: El poder del inconsciente.
+D'Amicis, F., Hofer, P. y Rockenhaus, F. (2011) El cerebro automático: la magia del inconsciente.
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Neurociencia.
+ Wikiversidad alberga proyectos de aprendizaje sobre Neurología.
+ Wikilibros alberga un libro o manual sobre Creatividad/Innovación una experiencia de 5to año en Administración Gerencial de la UTN-FRT ¿Qué dice la neurociencia acerca de la creatividad?.
+ Wikinoticias tiene noticias relacionadas con La prevención contra el Alzheimer podría estar cerca.
+¿Qué es la neurociencia?
+Be-Brain
+Fundación de Neurociencias
+Biografía de Sergey Fedoroff. Pionero de la regeneración neuronal (en inglés)

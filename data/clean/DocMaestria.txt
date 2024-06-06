@@ -1,0 +1,302 @@
+
+ 
+5. Desempeñarse como asesor y/o consultor experto en modelos, métodos y 
+procedimientos de su línea de énfasis en proyectos aplicados y emprendimientos.  
+ 
+3.2.4   Plan de estudios  
+ 
+De acuerdo con los Lineamientos Académicos de la Universidad del Rosario (Vicerrectoría 
+Académica,  2018b) , los planes de estudio de los programas de posgrado de la Universidad 
+se estructuran a partir de tres núcleos de formación que permiten visualizar las áreas de l 
+saber que serán objeto de estudio a lo largo del tránsito de los estudiantes en la 
+Universidad , estos son:   
+a) Núcleo Básico Común : es el componente curricular a través del cual se estructuran 
+los aprendizajes esenciales para comprender el objeto de estudio en cada una de las 
+disciplinas y profesiones.  
+b) Núcleo Disciplinar de Énfasis:  es una o pción curricular de los programas de 
+formación en sus áreas disciplinares que busca ofrecer un perfil diferencial de 
+egreso, permitir una ruta formativa en atención a los intereses de los estudiantes y 
+ampliar su proyección profesional en el ámbito académi co o laboral.  
+c) Opción de Grado:  es el elemento del currículo que le permite al estudiante 
+demostrar  los aprendizajes adquiridos a lo largo de su formación para optar al título.  
+La Maestría MACC tiene en cuenta todo el conjunto de habilidades que debe desarrollar un 
+profesional especializado en cada una de sus tres líneas de énfasis , por lo cual,  además de 
+los tres núcleos mencionados, el plan de estudio s de la Maestría MACC contempla dos 
+adicionales:  
+ 
+d) Núcleo de Electivas: brinda flexibilidad al progra ma permitiendo al estudiante, 
+según su ruta y necesidades, tomar cursos de otras líneas de énfasis o de la oferta 
+de electivas de las maestrías  de la Escuela de Ingeniería, Ciencia y Tecnología.  
+e) Núcleo Herramientas  Profesionales : provee al estudiante herra mientas necesarias 
+para su quehacer profesional: gerencia de proyectos , programación colaborativa , 
+creación de soluciones.  
+ 
+Los cinco núcleos de formación que conforman el plan de estudios de la Maestría MACC se 
+organizan en asignaturas o cursos, requisitos y opciones de grado. Estos guían los resultados 
+de aprendizaje esperados (RAE) y en conjunto integran el perfil de egreso. La organización  
+mencionada está definida por un conjunto de conocimientos de diversa naturaleza 
+dependiendo de su orientac ión para el logro de los propósitos de formación. De acuerdo 
+con los Lineamientos Académicos de la Dirección Académica (Vicerrectoría Académica,
+ 
+2018b) , hay tres tipos de saberes circundantes en los planes de estudio de los programas 
+de la Universidad:  
+ 
+ Saberes Básicos: proporcionan al estudiante una estructura de pensamiento para 
+desarrollar, clasificar e interpretar los conceptos y categorías fundamentales de las 
+ciencias sobre las cuales descansa su ejercicio profesional. Con estos saberes el 
+estudiante logra su autonomía intelectual para que formule preguntas y encuentre 
+soluciones satisfact orias para los problemas que surgen a su profesión o disciplina 
+e, incluso, de su existencia.  
+ Saberes Complementarios o de profesionalización:  están relacionados con campos 
+particulares de la profesión o disciplina y proporcionan elementos conceptuales, de  
+contexto, metodológicos, prácticos, axiológicos y actitudinales para el desempeño 
+laboral (empresarial, académico, investigativo, técnico, entre otros) del egresado.  
+ Saberes para la formación integral:  son aquellos que se ofrecen en el ámbito 
+instituciona l y le brindan al estudiante la opción de ampliar su visión del entorno, de 
+acercarse a las manifestaciones de la cultura y de la civilización y de formarse para 
+interactuar como ciudadano del mundo.  
+La Tabla 3 resume el plan de estudios de la Mae stría MACC, el cual consta de 37  créditos 
+divididos en tres periodos académicos (semestres). En la tabla se relacionan los cursos y 
+módulos con sus atributos: créd itos académicos, horas de trabajo, núcleo de formación y 
+número estimado de estudiantes.  
+Tabla 3. Plan de Estudios del programa de Maestría en Matemáticas Aplicadas y Ciencias de la Computación.  PLAN DE ESTUDIOS DEL PROGRAMA Curso – Módulo Obligatoria Electiva Tipo de crédito Créditos Académicos Horas de trabajo académico (2) Áreas o componentes de formación del currículo (1) Número máximo de estudiantes matriculados o proyectados (3) Horas de trabajo directo Horas de trabajo independiente Horas de trabajo totales Núcleo Básico Núcleo Énfasis N. de Electivas N. Herramientas Profesionales N. de Opción de Grado  PERIODO ACADÉMICO I Básico 1 X  A 2 24 72 96 X     20 Básico 2 X  A 2 24 72 96 X     20 Básico 3 X  A 2 24 72 96 X     20 Básico 4 X  A 2 24 72 96 X     20 Creación de Producto X  A 2 24 72 96    X  20 Seminario 1 X  C 1 7 41 48     X 20  PERIODO ACADÉMICO II
+ 
+Énfasis 1  X A 2 24 72 96  X    20 Énfasis 2  X A 2 24 72 96  X    20 Electiva 1   X A 2 24 72 96   X   20 Metodologías Ágiles para Gestión de Proyectos X  A 2 24 72 96    X  20 Proyecto 1 X  C 4 27 165 192     X 20 Seminario 2 X  C 1 7 41 48     X 20  PERIODO ACADÉMICO III Énfasis 3  X A 2 24 72 96  X    20 Énfasis 4  X A 2 24 72 96  X    20 Electiva 2  X A 2 24 72 96   X   20 Programación Colaborativa X  A 2 24 72 96    X  20 Proyecto 2 X  C 4 27 165 192     X 20 Seminario 3 X  C 1 7 41 48     X 20               Total Número Horas (porcentaje)     387 
+(22%)  1389 (78%) 1776 (100%)       Total Número Créditos del Programa  25 12  37          Fuente : Elaboración propia, 2019.  
+Convenciones  
+1. La institución debe especificar las áreas o componentes de formación de las que se compone su diseño curricular. La tabla ind ica 
+un ejemplo de áreas que pueden adicionar o eliminar columnas de acuerdo con el  currículo del programa.  
+2. Indicar la distribución de horas de trabajo académico que requiere cada curso o módulo del plan de estudios. Las columnas 
+corresponden a las horas de trabajo directo o presencial y las horas de trabajo autónomo o independiente. La institución pued e 
+agregar o modificar las categor ías, pero siempre registrando en la última columna el total de horas de trabajo académico de cada 
+curso o módulo. La distribución debe guardar correspondencia con la tipología de crédito que defina la propia institución.  
+3. De acuerdo con las proyecciones o m atriculas reales del programa, indicar el máximo número de estudiantes a atender en cada 
+curso teniendo en cuenta la disponibilidad de profesores, infraestructura física y medios educativos. La cifra debe correspon de a 
+la sumatoria de todas las secciones o  grupos del mismo curso .
+ 
+                 3.2.5 Estructuración y secuenciación del Plan de Estudios  
+ 
+El plan de estudios, estructurado en cinco núcleos  (ver Ilustración 2), incluye todas las 
+asignaturas del programa en los saberes mencionados en el numeral anterior. Cada núcleo 
+complementa la formación integral del estudiante.  
+Ilustración 2. Estructura curricular de la Maestría MACC  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fuente : Elaboración propia, 2019.  
+ 
+El Núcleo B ásico busca asentar los  fundamentos metodológicos de las herramientas 
+matemáticas y computacionales . Además, introduce al estudiante en  cada u na de las líneas 
+de énfasis, por lo que sirve también como soporte para que el alumno  seleccione la línea 
+de su interés.   
+ 
+En el Núcleo de Énfasis, el estudiante podrá ampliar su conocimiento específico en la línea 
+que eligió. Este núcleo estará conformado por asignaturas que garanticen que el egresado 
+de la Maestría MACC tenga una visión sistémica de su línea .  
+ 
+En el Núcleo de Electivas, el estudiante podrá tomar materias de otr as líneas de énfasis o 
+de la oferta de cursos electivos de las maestrías  de la Escuela de Ingeniería, Ciencia y 
+Tecnología . Esto le permitirá ampliar su conocimiento y campo de acción. Además, el núcleo 
+de electivas fomenta el trabajo interdisciplinario al posibilitar que estudiantes de distintas 
+líneas compartan el mismo espacio y desarrollen actividades en conjunto.  
+ 
+El Núcl eo Herramientas  Profesionales  brinda al estudiante habilidades para desarrollar y 
+liderar proyectos de base tecnológica. Está conformado por tres asignaturas: Metodologías 
+Ágiles para la Gestión de Proyectos, Creación de Producto y Programación Colaborativ a. 
+ 
+Núcleo Herramientas Profesional es 
+ 
+ 
+ 
+ 
+ 
+  
+Núcleo Opci ón de 
+Grado  
+ 
+ 
+  
++ 
+Creación de Producto 
+Programación Colaborativa 
+Créditos: 11 
+Créditos:  8 
+Núcleo Básico 
+Núcleo Énfasis 
+Núcleo de Electivas  
+Seminario 
+Créditos: 8 
+Créditos: 4 
+   Créditos: 2 
++ 
++ 
+Créditos: 2 
+Créditos: 2 
+Proyecto 
++ 
+Metodologías Ágiles para 
+Gestión de Proyectos + +
+ 
+La asignatura Metodologías Ágiles para la Gestión de Proyectos aborda la planificación, 
+construcción y seguimiento de los procesos de un proyecto con metodologías interactivas  
+e incrementales que priorizan los ciclos cortos, la adaptación y la realimen tación rápida. Por 
+estas características, este tipo de metodologías han alcanzado una acogida amplia en 
+proyectos que involucran desarrollo de software . El objetivo de la  asignatura Creación de 
+Producto  es hacer que el estudiante sepa identificar las neces idades de los usuarios, 
+levantando adecuadamente los requerimientos de una solución. Para ello, los estudiantes 
+deberán viajar durante un fin de semana a alguna región de Colombia  e identificar 
+problemáticas de las comunidades/empresas locales . Finalmente,  la asignatura 
+Programación Colaborativa busca formar a los estudiantes en desarrollo colaborativo y 
+distribuido de software  haciendo uso de estrategias  de internacionalización recomendadas 
+por la Universidad  (Vicerrectoría Académica, 2018a) . Por su naturaleza, e l curso  
+Programación Colaborati va, así como otros cursos, podrían r ealizar se en inglés.  
+ 
+Finalmente, el Núcleo Opción de Grado tiene dos componentes, Proyecto de Grado y 
+Seminarios. En e ste núcleo el estudiante desarrollará un proyecto aplicado o un 
+emprendimiento en la línea de énfasis  que haya elegido.  El Centro de Emprendimiento de 
+la Universidad del Rosario permite fomentar la cultura emprendedora, la participación del 
+estudiante como un actor activo  en un proceso de innovación  y el desarrollo d e habilidades 
+y competencias como  joven emprendedor. Adicionalmente, su proyecto puede estar 
+conformado por personas externas a la comunidad Rosarista, con la condición  de que el 
+estudiante de la Maestría MACC sea el líder del proyecto.  Los resultados y avances de los 
+proyectos y de los e mprendimientos se socializarán en los seminarios.  
+ 
+Las asignaturas  que conforman los núcleos propuestos están orientadas para que el 
+estudiante alcance los Resultados de Aprendizaje Esperados definidos en la Sección  3.2.2 
+Resultados de Aprendizaje Esperado s del Programa . La relación entre las asignaturas y los 
+RAEs se muestra en la Tabla 4. Además, e l detalle de las asignaturas se pr esenta en la 
+siguiente sección.  
+ 
+ 
+Tabla 4. Consistencia entre RAE y asignaturas del plan de estudio.  Resultados de aprendizaje Esperados RAE genéricos Asignaturas Identificar e interpretar los fundamentos metodológicos, matemáticos y computacionales de su área de énfasis.  Asignaturas núcleo básico, Asignaturas del núcleo de énfasis, Asignaturas Electivas Desarrollar implementaciones computacionales de métodos existentes en su línea de énfasis considerando sus implicaciones funcionales y no funcionales.   Asignaturas del núcleo énfasis, Asignaturas del núcleo electivas, Programación Colaborativa. Plantear y desarrollar proyectos aplicados que busquen soluciones innovadoras a retos específicos relacionados con su línea de énfasis.  Metodologías ágiles para la gestión de proyectos, Creación de Producto, Asignaturas electivas, Asignaturas de Énfasis. Emplear nuevas metodologías en la medida que avanza el estado del arte de su línea de énfasis.  Seminario 1, Seminario 2, Seminario 3, Proyecto 1, Proyecto 2, Creación de Producto.
+ 
+Participar en redes de colaboración como apoyo a la solución de problemas específicos tanto de su entorno como de su línea de trabajo.  Creación de producto, Programación Colaborativa, Seminarios (1, 2 y 3). Fuente : Elaboración propia, 2019.  
+ 
+3.2.6 Distribución de créditos por núcleos  de formación  y organización de periodos 
+académicos  
+ 
+La Maestría MACC consta de 37  créditos. El número de créditos por núcleo de formación y 
+su porcentaje del total se muestra en la Tabla 5. 
+Tabla 5. Número de créditos por núcleos de formación.   Núcleo básico Núcleo de énfasis Núcleo 
+de 
+electivas  Núcleo Herramientas Profesionales Núcleo Opción de grado Total Metodologías Ágiles para la Gestión de Proyectos Creación de Producto Programación Colaborativa Número de créditos 8 8 4 2 2 2 11 37 % de créditos 22% 22% 11% 5% 5% 5% 30% 100%  Fuente : Elaboración propia, 2019.  
+ 
+Además, el plan de estudios se encuentra organizado en tres semestres, tal como se 
+muestra en la Ilustración 3. En la imagen, el Núcleo Básico se identifica con color azul (debe 
+ser tomado durante el primer semestre), el Núcleo de Énfasis con verde (segundo y tercer 
+semestre), el Núcleo de Electivas con naranja (segundo y tercer semestre), el Núcleo 
+Herramientas  Profesionales  con cian (una asignatura por semestre)  y, finalmente, el Núcleo 
+Opción de Grado con rojo (durante los tres semestres).
+ 
+Ilustración 3. Distribución de bloques de asignaturas, en cada uno de los tres semestres, del plan de estudios de la Maestría MACC.  
+   
+ Fuente : Elaboración propia, 2019.  
+ 
+El plan de estudios contempla pre -requisitos que aseguran, por ejemplo, que el estudiante 
+tome el núcleo de las asignaturas básicas antes de iniciar el núcleo de asignaturas de énfasis.  
+En la Tabla 6, se relacionan  las materias, divididas por núcleos y líneas de énfasis. Además , 
+se detallan los pre -requisitos de cada una. Cabe anotar que, como se expuso previamente, 
+el Núcleo de Electivas puede estar conformado bien por asignaturas de la  línea de énfasis 
+elegida por el estudiante o por asignaturas de líneas de énfasis distintas. El asesor del 
+estudiante, con base en su formación académica, su experiencia profesional y sus intereses, 
+le ayudará en la elección de cada una d e las asignaturas que tomará en su ruta de formación.  
+Tabla 6. Asignaturas de la Maestría MACC.  Asignaturas de la Maestría MACC ID Asignaturas Núcleo Básico Núcleo de Énfasis y Electivas Núcleo Herramientas Profesionales Pre-requisitos Núcleo Básico MB1 Análisis Estadístico de Datos x   ninguno MB2 Aprendizaje Automático de Maquina I x   ninguno MB3 Seguridad para Arquitectura Empresarial y Gestión Empresarial x   ninguno MB4 Inteligencia Artificial: Representación y Solución de Problemas x   ninguno Línea de énfasis en Seguridad Digital MSD1 Introducción a la criptografía  x  MB3 
+Seminario 1 
+Asignatura 1 N. Básico 
+Semestre I 
+Seminario 2 
+Asignatura 1 Énfasis 
+Asignatura 2 Énfasis 
+Proyecto 1 
+Metodologías Ágiles para la Gestión de Proyectos 
+Semestre II 
+Seminario 3 
+Electiva 2 
+Asignatura 3 Énfasis 
+Asignatura 4 Énfasis 
+Proyecto 2 
+Programaci ón 
+Colaborativa  
+Semestre III Asignatura 2 N. Básico Asignatura 3 N. Básico Asignatura 4 N. Básico Electiva 1 Electiva 2 Electiva 2  Creación de Producto
+ 
+MSD2 Ciberinteligencia y Análisis de Amenazas  x  MB3 MSD3 Seguridad en Sistemas Ciberfísicos y SCADA  x  MB3 MSD4 Inteligencia Artificial para Ciberseguridad  x  MB3, MB2 MSD5 Hacking Avanzado  x  ninguno MSD6 Análisis forense y gestión de incidentes  x  ninguno Línea de énfasis en Inteligencia Artificial MIA1 Introducción a las Redes Neuronales y el Aprendizaje Profundo  x  MB2, MB4 MIA2 Aplicaciones de Aprendizaje Automático de Máquina  x  MB2, MB4 MIA3 Aprendizaje Profundo y Aprendizaje Reforzado  x  MIA1 MIA4 Inteligencia Artificial para Sistemas Ciberfísicos  x  MB4 Línea de énfasis en Ciencia de Datos Computacional  MCD1 Análisis Avanzado de Datos   x   MCD2 Big Data   x   MCD3 Bases de Datos Avanzadas  x  MB1 MCD4 Algoritmos de Machine Learning 
+para Big Data   x  MCD2, MB2 MCD5 Aprendizaje Automático de 
+Máquina 2   x  MB2 MCD6 Redes Neuronales y Aprendizaje Profundo  x  MB1 Núcleo Herramientas Profesionales MCH1 Metodologías Ágiles para la Gestión de Proyectos   x ninguno MCH2 Creación de Producto   x ninguno MCH3 Programación Colaborativa    x ninguno Fuente : Elaboración propia, 2019.  
+ 
+Las asignaturas relacionadas en la Tabla 6 definen una ruta académica dentro del plan de 
+estudios . A continuación se presentan la s rutas que seguirían los estudiantes de cada una  
+de las líneas de énfasis  de la Maestría MACC: Seguridad Digital ( Ilustración 4), Inteligencia 
+Artificial ( Ilustración 5) y Ciencia de Datos Computacional ( Ilustración 6).
+ 
+ 
+Ilustración 4. Ruta académica para la línea de énfasis en Seguridad Digital y cuadro de convenciones para todas las rutas.  
+ 
+ 
+Fuente : Elaboración propia, 2019.
+ 
+ 
+ 
+Ilustración 5. Ruta académica para la línea de énfasis en Inteligencia Artificial.  
+ 
+Fuente : Elaboración propia, 2019.
+ 
+Ilustración 6. Ruta académica para la línea de énfasis en Ciencia de Datos Computacional.  
+ 
+Fuente : Elaboración propia, 2019.  
+ 
+En estas rutas académicas, el estudiante cursa todas las asignaturas del Núcleo Básico en el 
+primer semestre, así como la asignatura de Creación de Producto y el Seminario de Maestría 
+1. En el segundo semestre, el estudiante debe cursar dos asignaturas del Núcleo de énfasis, 
+la asignatura de Metodologías Ágiles p ara la Gestión de Proyectos, una asignatura electiva , 
+el Seminario de Maestría 2 y Proyecto de Grado 1. Finalmente, en el tercer semestre el 
+estudiante debe cursar las  dos asignaturas restantes del Núcleo de Énfasis, la asignatura  
+Programación Colaborativa , una asignatura electiva, el Seminario de Maestría 3 y Proyecto 
+de Grado 2.
+ 
+En las Ilustraciones de las rutas académicas hay un identificador de Tipo de Materia, que  se 
+encuentra en la parte superior izquierda de cada asignatura. Esto es porque la Maestría 
+MACC contempla dos tipos de materias . Con el fin de atraer estudiantes de todo el país o 
+que tengan un vínculo laboral de tiempo completo , los horarios propuestos s on: jueves y 
+viernes de 7 am a 7 pm y sábado medio día, una vez al mes. Llamamos un “bloque” a estos 
+3 días que deben venir los estudiantes. Durante el semestre el estudiante debe asistir  5 
+veces a la Universidad ( 1 vez al mes) , es decir, asistirá a 5 bloques: d urante  4 bloques  
+seguidos  se verán  4 materias y el seminario ; en el quinto bloque se verá una  única materia 
+de 2 créditos.  
+ 
+Materias Tipo I:  materias de dos crédi tos, que serán dictadas durante l os 4 primeros 
+bloques (ver Ilustración  7). En cada bloque, cada materia de tipo I consta de 6 horas dictadas 
+(ya sea 2 grupos de 3 horas o 3 de 2 horas  – ver 8 ).  
+ 
+Ilustración 7. Distribución de bloques de asignaturas en la maestría por semestre . 
+ 
+Fuente : Elaboración propia, 2019.
+ 
+ 
+Ilustración 8. Distribución de asignaturas en un bloque . 
+Fuente : Elaboración propia, 2019.  
+ 
+Tipo II:  materias que se imparten en un único bloque (de jueves a sábado) en el  semestre  
+(color verde en la Ilustración 7). Esos bloques  son propicios para que el estudiante pueda 
+tomar asignaturas electivas ofrecidas por profesores internacionales , así como para la 
+asignatura Creación de Productos, donde los estudiantes viajarán a una región de Colombia 
+durante un fin de semana para identificar problemáticas de las comunidades/empresas 
+locales.  
+ 
+3.2.7 Opciones  y Requisitos de grado  
+ 
+El programa Maestría  MACC  tiene el núcleo de opción de grado con 11 créditos , los cuales 
+permiten incluir un componente de aprendizaje para la solución de un problema y un 
+componente de socialización de su planteamiento y solución . Como se muestra en la Tabla  
+3, existen tres créditos de Seminario dentro de los 11 créditos del núcleo Opción de Grado. 
+En cada Seminario, el estudiante podrá conocer  los proyectos de grado de sus compañeros 
+y presentar su propio proyecto de grado. Los ocho créditos restantes están dedicados al 
+desarrollo del proyecto aplicado, en los dos últimos semestres  de la maestría , con una 
+dedicación de cuatro créditos en cada uno . 
+El proyecto aplicado realizado como opción de grado d ebe demostrar tanto los 
+conocimientos adquiridos por el estudiante como su capacidad para transformarlo en

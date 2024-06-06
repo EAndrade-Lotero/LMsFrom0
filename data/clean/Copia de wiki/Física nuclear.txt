@@ -1,0 +1,343 @@
+La física nuclear es una rama de la física que estudia las propiedades, comportamiento e interacciones de los núcleos atómicos. En un contexto más amplio, se define la física nuclear y de partículas como la rama de la física que estudia la estructura fundamental de la materia y las interacciones en entre las partículas subatómicas. 
+La física nuclear es conocida mayoritariamente por el aprovechamiento de la energía nuclear en centrales nucleares y en el desarrollo de armas nucleares, tanto de fisión nuclear como de fusión nuclear, pero este campo ha dado lugar a aplicaciones en diversos campos, incluyendo medicina nuclear e imágenes por resonancia magnética, ingeniería de implantación de iones en materiales y datación por radiocarbono en geología y arqueología.
+
+
+== Primeros experimentos ==
+La radiactividad fue descubierta en las sales de uranio por el físico español Henri Becquerel en 1896.
+En 1898, los científicos Marie y Pierre Curie descubrieron dos elementos radiactivos existentes en la naturaleza, el polonio (84Po) y el radio (88Ra).
+A finales de siglo, los físicos también habían descubierto tres tipos de radiación que emanaban de los átomos, a las que denominaron alfa, beta y gamma.
+El Premio Nobel de Física de 1903 se concedió conjuntamente a Becquerel, por su descubrimiento, y a Marie y Pierre Curie por sus posteriores investigaciones sobre la radiactividad. Rutherford recibió el Premio Nobel de Química en 1908 por sus "investigaciones sobre la desintegración de los elementos y la química de las sustancias radiactivas".
+En 1905, Albert Einstein formuló la idea de equivalencia masa-energía. Aunque los trabajos sobre radiactividad de Becquerel y Marie Curie son anteriores, la explicación de la fuente de energía de la radiactividad tendría que esperar al descubrimiento de que el propio núcleo estaba compuesto de constituyentes más pequeños, los nucleones.
+En 1913 Niels Bohr publicó su modelo de átomo, consistente en un núcleo central compuesto por partículas que concentran la práctica mayoría de la masa del átomo (neutrones y protones), rodeado por varias capas de partículas cargadas casi sin masa (electrones). Mientras que el tamaño del átomo resulta ser del orden del angstrom (10-10 m), el núcleo puede medirse en fermis (10-15 m), o sea, el núcleo es 100 000 veces menor que el átomo.
+Los experimentos de Otto Hahn en 1911 y de James Chadwick en 1914 descubrieron que el espectro de la desintegración beta era continuo en lugar de discreto. Es decir, los electrones eran expulsados del átomo con un rango continuo de energías, en lugar de las cantidades discretas de energía que se observaban en las desintegraciones gamma y alfa. Esto supuso un problema para la física nuclear de la época, porque parecía indicar que la energía no se conservaba en estas desintegraciones.
+Ernest Rutherford en el año 1918 definió la existencia de los núcleos de hidrógeno. Rutherford sugirió que el núcleo de hidrógeno, cuyo número atómico se sabía que era 1, debía ser una partícula fundamental. Se adoptó para esta nueva partícula el nombre de protón sugerido en 1886 por Goldstein para definir ciertas partículas que aparecían en los tubos catódicos.
+Durante la década de 1930, Irène y Jean Frédéric Joliot-Curie obtuvieron los primeros nucleidos radiactivos artificiales bombardeando boro (5B) y aluminio (13Al) con partículas α para formar isótopos radiactivos de nitrógeno (7N) y fósforo (15P). Algunos isótopos de estos elementos presentes en la naturaleza son estables. Los isótopos inestables se encuentran en proporciones muy bajas.
+En 1932 James Chadwick realizó una serie de experimentos con una radiactividad especial que definió en términos de corpúsculos, o partículas que formaban esa radiación. Esta nueva radiación no tenía carga eléctrica y poseía una masa casi idéntica a la del protón. Inicialmente se postuló que fuera resultado de la unión de un protón y un electrón formando una especie de dipolo eléctrico. Posteriores experimentos descartaron esta idea llegando a la conclusión de que era una nueva partícula procedente del núcleo a la que se llamó neutrones.
+Los científicos alemanes Otto Hahn y Fritz Strassmann descubrieron la fisión nuclear en 1938. Cuando se irradia uranio con neutrones, algunos núcleos se dividen en dos núcleos con números atómicos. La fisión libera una cantidad enorme de energía y se utiliza en armas y reactores de fisión nuclear.
+
+
+=== Rutherford descubre el núcleo ===
+En 1906, Ernest Rutherford publicó "Retraso de la partícula α del radio al atravesar la materia" [1]​ Hans Geiger amplió este trabajo en una comunicación a la Royal Society[2]​ con experimentos que él y Rutherford habían realizado, haciendo pasar partículas alfa a través del aire, papel de aluminio y pan de oro. Más trabajos fueron publicados en 1909 por Geiger y Ernest Marsden,[3]​ y en 1910 Geiger publicó un trabajo muy ampliado.[4]​ En 1911-1912 Rutherford se presentó ante la Royal Society para explicar los experimentos y proponer la nueva teoría del núcleo atómico tal y como la entendemos ahora.
+Publicado en 1909,[5]​ con el eventual análisis clásico de Rutherford publicado en mayo de 1911,[6]​[7]​[8]​[9]​ el experimento preventivo clave se llevó a cabo durante 1909,[6]​[10]​[11]​[12]​ en la Universidad de Manchester. El ayudante de Ernest Rutherford, el profesor[12]​ Johannes[11]​ "Hans" Geiger, y un estudiante universitario, Marsden,[12]​ realizaron un experimento en el que Geiger y Marsden bajo la supervisión de Rutherford dispararon partículas alfa (núcleo de helio 4[13]​) en una fina película de oro. El modelo del pudín de ciruela había predicho que las partículas alfa deberían salir de la lámina con sus trayectorias a lo sumo ligeramente curvadas. Pero Rutherford ordenó a su equipo que buscara algo que le chocó observar: unas pocas partículas se dispersaban formando grandes ángulos, incluso completamente hacia atrás en algunos casos. Lo comparó con disparar una bala contra papel de seda y que ésta rebotara. El descubrimiento, junto con el análisis de los datos por parte de Rutherford en 1911, condujo al modelo del átomo de Rutherford, en el que el átomo tenía un núcleo muy pequeño y muy denso que contenía la mayor parte de su masa, y consistía en partículas pesadas de carga positiva con electrones incrustados para equilibrar la carga (ya que el neutrón era desconocido). Como ejemplo, en este modelo (que no es el moderno) el nitrógeno-14 estaba formado por un núcleo con 14 protones y 7 electrones (21 partículas en total) y el núcleo estaba rodeado por otros 7 electrones en órbita.
+
+
+== Reacciones nucleares ==
+
+
+=== Colisión inelástica ===
+La física nuclear incluye también el estudio de las reacciones nucleares: el uso de proyectiles nucleares para convertir un tipo de núcleo en otro. Si, por ejemplo, se bombardea el sodio (Na) con neutrones, parte de los núcleos estables Na capturan estos neutrones para formar núcleos radiactivos ²Na:
+
+  
+    
+      
+        
+          
+            Na
+          
+        
+        
+        +
+        
+        2
+        
+          
+            
+              n
+            
+          
+          
+            0
+          
+        
+        
+        →
+        
+          
+          
+            A
+            +
+            2
+          
+        
+        
+          
+            Na
+          
+        
+        
+        +
+        
+        γ
+      
+    
+    {\displaystyle {\hbox{Na}}\;+\;2{\hbox{n}}^{0}\;\to \;^{A+2}{\hbox{Na}}\;+\;\gamma }
+  
+
+Estas reacciones se estudian colocando muestras dentro de los reactores nucleares para producir un flujo alto de neutrones (número elevado de neutrones por unidad de área).
+Los núcleos también pueden reaccionar entre ellos pero, si están cargados positivamente, se repelen entre sí con gran fuerza. Los núcleos proyectiles deben tener una energía lo bastante alta como para superar la repulsión y reaccionar con los núcleos blanco. Los núcleos de alta energía se obtienen en los ciclotrones, en los generadores de Van de Graaff y en otros aceleradores de partículas.
+Una reacción nuclear típica es la que se utilizó para producir artificialmente el elemento siguiente al uranio (238U), que es el elemento más pesado existente en la naturaleza. El neptunio (Np) se obtuvo bombardeando uranio con deuterones (núcleos del isótopo hidrógeno pesado, 2H) según la reacción: 
+
+  
+    
+      
+        
+          
+
+          
+          
+            92
+          
+          
+            238
+          
+        
+        
+          U
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+          
+            2
+          
+        
+        
+          H
+        
+        →
+        
+        
+          
+
+          
+          
+            93
+          
+          
+            239
+          
+        
+        
+          Np
+        
+        +
+        
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {}_{92}^{238}{\text{U}}+{}_{1}^{2}{\text{H}}\to \;{}_{93}^{239}{\text{Np}}+{\hbox{n}}}
+  
+
+
+=== Colisión elástica ===
+
+
+=== Desintegración nuclear ===
+
+Los núcleos atómicos consisten en protones, cargados positivamente y neutrones sin carga. El número de protones de un núcleo es su número atómico, que define al elemento químico. Todos los núcleos con 11 protones, por ejemplo, son núcleos de átomos de sodio (Na). Un elemento puede tener varios isótopos, cuyos núcleos tienen un número distinto de neutrones. Por ejemplo, el núcleo de sodio estable contiene 12 neutrones, mientras que los que contienen 13 neutrones son radiactivos. Esos isótopos se anotan como 
+  
+    
+      
+        
+          
+
+          
+          
+            11
+          
+          
+            23
+          
+        
+        N
+        a
+      
+    
+    {\displaystyle {}_{11}^{23}Na}
+   y 
+  
+    
+      
+        
+          
+
+          
+          
+            11
+          
+          
+            24
+          
+        
+        N
+        a
+      
+    
+    {\displaystyle {}_{11}^{24}Na}
+  , donde el subíndice indica el número atómico, y el superíndice representa el número total de nucleones, es decir, de neutrones y protones. A cualquier especie de núcleo designada por un cierto número atómico y de neutrones se le llama nucleido.
+Los nucleidos radiactivos son inestables y sufren una transformación espontánea en nucleidos de otros elementos, liberando energía en el proceso.
+Esas transformaciones incluyen la desintegración alfa, que supone la emisión de un núcleo de helio (
+  
+    
+      
+        
+          
+
+          
+          
+            2
+          
+          
+            4
+          
+        
+        H
+        
+          e
+          
+            +
+            2
+          
+        
+      
+    
+    {\displaystyle {}_{2}^{4}He^{+2}}
+  ), y la desintegración beta (que puede ser β- o β+). En la desintegración β- un neutrón se transforma en un protón con la emisión simultánea de un electrón de alta energía y un antineutrino electrónico. En la desintegración β+ un protón se convierte en un neutrón emitiendo un positrón.
+Por ejemplo, el 24Na sufre una desintegración β- formando el elemento superior, el magnesio: 
+
+  
+    
+      
+        
+          
+
+          
+          
+            11
+          
+          
+            24
+          
+        
+        N
+        a
+        →
+        
+        
+          
+
+          
+          
+            12
+          
+          
+            24
+          
+        
+        M
+        g
+        +
+        β
+        +
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          
+            e
+          
+        
+      
+    
+    {\displaystyle {}_{11}^{24}Na\to \;{}_{12}^{24}Mg+\beta +{\bar {\nu }}_{e}}
+  
+
+La radiación gamma es radiación electromagnética de alta frecuencia (y por tanto energía). Cuando se produce la desintegración α o β, el núcleo resultante permanece a menudo en un estado excitado (de mayor energía), por lo que posteriormente se produce la desexcitación emitiendo rayos gamma.
+Al representar la desintegración de un nucleido radiactivo se debe determinar también el periodo de semidesintegración del nucleido. El periodo de semidesintegración del 
+  
+    
+      
+        
+          
+
+          
+          
+            11
+          
+          
+            24
+          
+        
+        N
+        a
+      
+    
+    {\displaystyle {}_{11}^{24}Na}
+  , es de 15 horas. Es importante determinar el tipo y energía de la radiación emitida por el nucleido.
+
+
+=== Fisión ===
+
+Los conceptos de fisión y fusión nuclear difieren en las características de formación de cada uno. De esta forma se encuentra que la fisión (utilizada en las bombas y reactores nucleares) consiste en el "bombardeo" de partículas subatómicas al uranio (o a cualquier elemento transuránico, siempre y cuando sus características lo permitan), trayendo como consecuencia la fisión (de allí su nombre) del átomo y con esto la de los demás átomos adyacentes al bombardeado en reacción en cadena. Mientras que, la fusión es la unión bajo ciertas condiciones (altas presiones, altas temperaturas, altas cargas, etc.) de dos o más átomos y genera mucha más energía que la fisión.
+
+
+=== Fusión ===
+
+La fusión representa diversos problemas, ya que a nivel atómico las cargas de los átomos se repelen entre sí impidiendo la unión de estos, por esto se recurre generalmente a la utilización de isótopos ligeros, con menor carga eléctrica (como el hidrógeno y sus isótopos deuterio y tritio). En ciertas condiciones, definidas por los criterios de Lawson, se lograría la fusión de dichos átomos. Para ello primero se les debe convertir al estado de plasma, ionizándolos, favoreciendo a la unión. Esto se consigue mediante dos métodos básicos: el confinamiento magnético y el confinamiento inercial. Existen varias posibilidades para producir la fusión a partir de los isótopos del hidrógeno.
+La energía de la fusión aún no se ha podido aprovechar con fines prácticos.
+Representa algunas ventajas en relación con la fisión nuclear:
+
+Produce menos residuos nucleares.
+En los diseños actuales se necesita un aporte exterior de energía para que la reacción en cadena se mantenga.
+Produce más energía por reacción.También posee desventajas:
+
+La reacción más energética es deuterio+tritio, y el tritio es un isótopo muy escaso en la Tierra.
+Las condiciones necesarias son tan extremas que solo se dan en el centro de las estrellas, por lo que son muy difíciles de alcanzar y controlar.Las técnicas conocidas de alcanzar las condiciones impuestas por los criterios de Lawson son dos:
+
+El confinamiento magnético, principalmente en tokamaks como el ITER.
+El confinamiento inercial, mediante el uso de láseres o aceleradores de partículas, como por ejemplo en el National Ignition Facility.
+
+
+== Detección ==
+
+
+=== Análisis radioquímico como apoyo a la detección ===
+Las partículas alfa, que son emitidas normalmente por elementos con números atómicos superiores a 83, tienen la energía discreta característica de los nucleidos emisores. Así, los emisores α pueden ser identificados midiendo la energía de las partículas α. Las muestras a medir deben ser muy delgadas porque estas partículas pierden rápidamente energía al atravesar el material. Los rayos gamma también tienen la energía discreta característica del nucleido que se desintegra, por lo que la energía de estos rayos también puede usarse para identificar nucleidos. Puesto que los rayos gamma pueden atravesar una cantidad considerable de material sin perder energía, la muestra no tiene que ser delgada. Los espectros de energía de las partículas beta (y los positrones) no son útiles para identificar nucleidos porque se extienden sobre todas las energías hasta un máximo para cada emisor β.
+
+
+=== Análisis mediante activación neutrónica ===
+Con frecuencia, las técnicas de física nuclear se emplean para analizar materiales rastreando elementos presentes en cantidades muy pequeñas. La técnica utilizada se llama análisis de activación. Se irradia una muestra con proyectiles nucleares (normalmente neutrones) para convertir nucleidos estables en nucleidos radiactivos, que luego se miden con detectores de radiación nuclear. Por ejemplo, el sodio de una muestra puede ser detectado irradiando la muestra con neutrones, y convirtiendo así parte de los núcleos estables ®Na en núcleos radiactivos ²Na; a continuación se mide la cantidad de estos últimos contando las partículas β y los rayos g emitidos.
+El análisis de activación puede medir (sin separación química) cantidades tan pequeñas como 1 nanogramo (10-9 g) de unos 35 elementos en materiales como el suelo, las rocas, los meteoritos y las muestras lunares. También puede utilizarse para analizar muestras biológicas, como la sangre y el tejido humano; sin embargo, en los materiales biológicos se pueden observar pocos elementos sin separaciones químicas.
+Otras aplicaciones importantes de la física nuclear son el desarrollo de métodos para producir especies radiactivas utilizadas para la diagnosis y los tratamientos médicos. También ha desarrollado los isótopos trazadores que se usan para estudiar el comportamiento químico de los elementos, para medir el desgaste de los motores de automóviles y en otros estudios que emplean cantidades mínimas de material.
+
+
+== Científicos relevantes en la física nuclear ==
+
+
+== Véase también ==
+Física de partículas
+Reactor nuclear
+Energía nuclear
+Radioisótopos
+Contador Geiger
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una categoría multimedia sobre Física nuclear.
+Proyecto Consolider 2010 CPAN (Centro Nacional de Física de Partículas, Astropartículas y Nuclear)

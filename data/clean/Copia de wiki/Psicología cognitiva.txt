@@ -1,0 +1,113 @@
+La psicología cognitiva o cognitivismo o psicología cognoscitivista o cognoscitivismo es el área de la psicología que se encarga del estudio de la cognición, es decir, de los procesos mentales implicados en el conocimiento. Tiene como objeto de estudio los mecanismos básicos y profundos por los que se elabora el conocimiento, desde la percepción, la memoria y el aprendizaje, hasta la formación de conceptos y el razonamiento lógico. El término cognitivo significa el acto de conocimiento, en sus acciones de almacenar, recuperar, reconocer, comprender, organizar y usar la información recibida a través de los sentidos.[1]​
+Está situada dentro de lo que se denomina el hexágono cognitivo, formado por la interrelación entre la neurociencia, la inteligencia artificial, la psicología, la lingüística, la antropología y la filosofía.[2]​
+Recibe influencias de disciplinas y teorías afines, como la epistemología genética, la ciencia computacional, la inteligencia artificial, la lingüística, la psicología de la gestalt, la antropología cognitiva y la psicología del pensamiento.
+El interés de la psicología cognitiva es doble. El primer interés es estudiar cómo las personas entienden el mundo en el que viven y también se abordan las cuestiones de cómo los seres humanos toman la información sensorial entrante y la transforman, sintetizan, elaboran, almacenan, recuperan y finalmente hacen uso de ella. El resultado de todo este procesamiento activo de la información es el conocimiento funcional en el sentido de que la segunda vez que la persona se encuentra con un acontecimiento del entorno igual o similar está más segura de lo que puede ocurrir comparado con la primera vez.
+Cuando las personas hacen uso de su conocimiento construyen planes, metas para aumentar la probabilidad de que tendrán consecuencias positivas y minimizar la probabilidad de consecuencias negativas. Una vez que la persona tiene una expectativa de la consecuencia que tendrá un acontecimiento, su actuación conductual se ajustará a sus cogniciones.
+El segundo interés de la psicología cognitiva es cómo la cognición lleva a la conducta. Desde un enfoque motivacional, la cognición es un "trampolín a la acción". Para los teóricos cognitivistas, la acción está principalmente en función de los pensamientos de la persona y no de algún instinto, necesidad, pulsión o estado de activación (arousal).
+
+
+== Historia ==
+Surgió como corriente psicológica en los años 50 y 60 como reacción a las falencias del conductismo, al que reemplazó como paradigma dominante en la psicología científica durante la revolución cognitiva. La principal discrepancia con este es el acercamiento a la llamada cuestión de la caja negra. 
+La psicología cognitiva surge como alternativa a la concepción conductista de la mente como caja negra inaccesible. En Estados Unidos, el auge de la psicología cognitiva coincidió con la aparición y desarrollo de los ordenadores en los años 50s. El funcionamiento de estas máquinas sirvió a los autores pioneros como metáfora para entender el procesamiento de símbolos y representaciones en la mente humana.
+Es decir, la proposición conductista de la mente no puede ser estudiada debido a la imposibilidad de observación directa, y en caso de poder ser estudiada debe seguir los mismas categorías de análisis del conductismo radical, ya que para los conductistas la mente es una conducta más. Por otra parte los psicólogos cognitivos usan el método científico para inferir los estados mentales y su estructura. Una distinción entre Skinner y la psicología cognitiva de la época es el uso de constructos hipotéticos versus el estudio de caso típicamente usado por Skinner. La psicología cognitiva hace uso de procesos mentales para explicar la conducta (a diferencia de tan solo asociaciones entre estímulos y respuestas). Los psicólogos cognitivos ponen énfasis en la influencia que el procesamiento de la información tiene sobre la conducta, afirmando que el individuo compara la información nueva con su "esquema" o estructura cognitiva preexistente. Los acontecimientos y las situaciones nuevas se interpretan a la luz de lo que ya se ha aprendido. En ocasiones, es preciso adaptar el esquema a esta información. 
+En ese momento de desarrollo de la psicología, esta se encontraba en un intento por validarse como ciencia, por lo que esta nueva psicología cognitiva despreció su tradición fenomenológica propiciada por Wilhelm Wundt, negando la validez de la introspección como método para alcanzar un conocimiento objetivo. Así, la psicología cognitiva es distinta de otras perspectivas psicológicas previas en dos aspectos principales. Primero, acepta el uso del método científico y rechaza la excesiva interpretación como método válido de investigación, mostrándose contraria a psicologías más interpretativas y literarias tales como la de Sigmund Freud (psicoanálisis). Segundo, plantea la existencia de estados mentales internos (tales como creencias, deseos y motivaciones); lo contrario que la psicología conductista de esa época.
+
+
+== Psicología cognitiva ==
+La psicología cognitiva es una de las adiciones más recientes a la investigación psicológica. Esta estudia diversos procesos cognitivos, tales como la resolución de problemas, el razonamiento (inductivo, deductivo, abductivo, analógico), la percepción, la toma de decisiones y la adquisición lingüística. Se desarrolló como un área separada de la disciplina desde los primeros años de la década de 1950 y 1960. El término comenzó a usarse con la publicación del libro Cognitive Psychology, por Ulric Neisser, en 1967. Pero la aproximación cognitiva había sido traída a un primer plano tras la publicación del libro de Donald Broadbent Percepción y Comunicación, en 1958. Desde ese momento, la metáfora dominante en el área ha sido el modelo de procesamiento de información de Broadbent.
+Los principales exponentes de la psicología cognitiva son Alan Baddeley, Frederic Bartlett, Donald Broadbent, Jerome Bruner, Vittorio Guidano, Hermann Ebbinghaus, George A. Miller, Ulric Neisser, David Rumelhart, Herbert Simon, Endel Tulving, Robert L. Solso, Lev Vygotski, David Ausubel, Jean Piaget, Ángel Rivière y George Kelly.
+
+
+== Etapas en el desarrollo de la psicología cognitiva ==
+La siguiente descripción histórica está basada en parte en el libro de Francisco Varela, De cuerpo presente: Las ciencias cognitivas y la experiencia humana, en que se realiza una síntesis del pensamiento cognitivo desde sus años de formación, distinguiendo etapas de desarrollo en que han primado diferentes metáforas o modelos explicativos de la mente humana. 
+La última de estas etapas, el llamado enfoque enactivo, es la postura que defienden Francisco Varela y sus colaboradores.
+
+
+=== Paradigma computacional cognitivista proposicional ===
+Desde esta hipótesis, la cognición está conceptualizada como la manipulación de símbolos a través de determinadas reglas. El sistema (mente) interactúa con los símbolos, pero no con su significado, y el sistema (mente) funcionaría correctamente cuando los símbolos representasen en forma adecuada la realidad externa o algún aspecto de esta  y el procesamiento de la información dentro del sistema (computación simbólica) llevaría a una solución adecuada del problema que se ha presentado.
+Esta, es la hipótesis considerada todavía por muchos como el principal exponente del planteamiento cognitivista, y el paradigma del procesamiento de información y la metáfora del ordenador es aún con el que más se identifica a la psicología cognitiva.
+
+
+=== Paradigma de redes neuronales artificiales o conexionista ===
+La hipótesis cognitivista proposicional implicaba una forma de cognición secuencial y localizada. Sin embargo, estos planteamientos no concuerdan con la investigación en neurociencia, en que son más aceptados modelos cerebrales en que las operaciones son distribuidas y se generan a partir de interconexiones masivas que cambian producto de la experiencia. 
+Debido a esto surgió la hipótesis de las redes neuronales artificiales, que realiza simulaciones por ordenador de procesos cerebrales distribuidos en los que conjunto amplios de neuronas cambian sus patrones de activación y de interconexión mutua.
+Sin embargo, aunque las redes neurales artificiales imiten los procesos neuronales biológicos reales, no necesariamente se corresponden con un estricto nivel empírico adecuado. Debido a esto algunos autores como el neurocientífico Gerald Edelman han criticado a tales modelos de redes neuronales artificiales por su implausibilidad biológica (aunque Edelman critica aún más severamente, si cabe, al paradigma anterior, el computacional simbólico).
+Debido a estas discrepancias y al rescate de ideas sobre sistemas autoorganizados que estuvieron presentes en la etapa fundacional de esta rama de la psicología, pero que fueron ocultados por la hipótesis cognitivista, surge la necesidad de una nueva conceptualización de la mente humana.
+
+
+=== Paradigma de la cognición corporeizada ===
+En los años 1990s cobró fuerza un nuevo paradigma conocido como cognición corporizada o encarnada, o cognición 4E. Se trata en realidad de un conjunto de paradigmas que buscan superar las falencias de los anteriores paradigmas cognitivista simbólico proposicional y conexionista. Los paradigmas de la cognición corporizada aparecieron con la publicación de libros como "De cuerpo presente" de Francisco Varela , Evan Thompson y Eleanor Rosch y "Metáforas por las que vivimos" de George Lakoff y Mark Johnson.
+Estas obras sostienen que la cognición está intrínsecamente determinada por las propiedades del cuerpo del agente cognitivo. Un animal que camina en cuatro patas conoce el mundo de manera diferente a uno que camina erguido. Un animal que ve en blanco y negro conoce el mundo de forma distinta que uno con visión cromática. Distintas especies tienen distintas visiones del espectro del color. Además, en esta perspectiva el mundo emerge de la acción corporal del agente cognitivo, el mundo es un mundo vivido.
+La psicología y ciencia cognitiva corporeizada ha sido influenciada por la teoría de la autopoiesis de Humberto Maturana y Francisco Varela, que forma parte de la teoría de sistemas, así como por filosofía fenomenológica de Edmund Husserl y Maurice Merleau Ponty, por la epistemología genética de Jean Piaget y sobre todo por la crítica del filósofo fenomenológico Hubert Dreyfus a la inteligencia artificial clásica. 
+La psicología cognitiva corporizada rechaza la idea del paradigma cognitivista clásico proposicional simbólico de que hay una secuencia donde el organismo primero procesa sensaciones por los órganos de los sentidos, después piensa y procesa símbolos proposicionales lingüísticos y finalmente ejecuta una respuesta. En lugar de eso, la psicología cognitiva corporizada sostiene que percepción, acción y cognición se solapan, utilizan las mismas áreas del cerebro y se ejecutan de manera holista y simultánea. Así, es el organismo total el que reacciona a su ambiente de manera global, creando su percepción del entorno mediante su actividad motora.[3]​
+Además, la psicología cognitiva corporizada busca retomar el estudio de la experiencia subjetiva y la consciencia, sin reducirla a supuestos procesos lógico-sintácticos inconscientes. Para esto Francisco Varela desarrolló el método de la neurofenomenología, que establece un diálogo entre los estudios de la neurociencia y la experiencia subjetiva, e incluso estudia los cambios en el cerebro durante la meditación budista.
+El enfoque enactivo es uno de los enfoques de la cognición corporizada.
+En la psicología clínica y la terapia cognitiva, la perspectiva corporizada ha sido adoptada por los terapeutas cognitivos post-racionalistas como Vittorio Guidano y Giampiero Arciero. Como señala Guidano en su crítica al asociacionismo:[4]​
+
+ 
+
+La psicología y ciencia cognitiva corporizada también han influido a otras áreas como la robótica situada, una forma de inteligencia artificial desarrollada por Rodney Brooks.
+En la neurociencia cognitiva la perspectiva corporizada es adoptada por Giacomo Rizzolatti y los descubridores de las neuronas espejo, así como también por Antonio Damasio y Gerald Edelman.
+En la filosofía de la ciencia cognitiva, esta perspectiva corporizada es adoptada por autores como Giovanna Colombetti, Ezequiel Di Paolo, Edwin Hutchins, Andy Clark, Alva Noë, Shaun Gallagher, Lawrence Barsalou, Natalie Depraz, y otros.
+
+
+== Aplicación ==
+
+
+=== Psicología anormal ===
+
+
+=== Psicología social ===
+
+
+=== Psicología del desarrollo ===
+
+
+=== Psicología educacional ===
+
+
+=== Psicología de la personalidad ===
+
+
+== Críticas ==
+Jerome Bruner, uno de los padres de la revolución cognitiva, acusa al paradigma computacional de "procesamiento de información" de haberse enredado con problemas técnicos que son marginales a los propósitos y el impulso que animaron aquella revolución que él ayudó a crear. Según Bruner, el cognitivismo no venía a reformar el conductismo sino a reemplazarlo. Para Bruner el cognitivismo es el estudio de los procesos mentales, y como tal debe estar volcado al estudio interpretativo de los actos de significado del ser humano. La construcción narrativa, autobiográfica y sociocultural de los significados son pues los objetos de estudio centrales de la psicología.[5]​
+
+
+== Véase también ==
+Cognición
+Ciencia cognitiva
+Ciencia cognitiva corporizada
+Sesgo de memoria
+Lista de prejuicios cognitivos
+Terapia cognitiva
+Terapia cognitiva constructivista
+Terapia cognitiva posracionalista
+Efecto del contexto
+Teoría cognitiva social
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Groeger, John A. (2002). «Trafficking in cognition: Applying cognitive psychology to driving». Transportation Research Part F: Traffic Psychology and Behaviour 5 (4): 235-248. doi:10.1016/S1369-8478(03)00006-8.  (en inglés)
+Jacobs, A.M. (2001). «Literacy, Cognitive Psychology of». International Encyclopedia of the Social & Behavioral Sciences. pp. 8971-8975. ISBN 9780080430768. doi:10.1016/B0-08-043076-7/01556-4.   (en inglés)
+Mansell, Warren (2004). «Cognitive psychology and anxiety». Psychiatry 3 (4): 6-10. S2CID 27321969. doi:10.1383/psyt.3.4.6.32905.   (en inglés)
+Philip Quinlan, Philip T. Quinlan, Ben Dyson. 2008. Cognitive Psychology. Publisher-Pearson/Prentice Hall. ISBN 0131298100, 9780131298101  (en inglés)
+Robert J. Sternberg, Jeff Mio, Jeffery Scott Mio. 2009. Publisher-Cengage Learning. ISBN 049550629X, 9780495506294 (en inglés)
+Nick Braisby, Angus Gellatly. 2012. Cognitive Psychology. Publisher-Oxford University Press. ISBN 0199236992, 9780199236992  (en inglés)
+Stanislas Dehaene, Le Code de la Conscience, Odile Jacob, octubre 2014. (en francés)
+Jean-Luc Roulin (dir.), Psychologie cognitive, Bréal, Rosny-sous-Bois, 2006. (en francés)
+Annick Weil-Barais (dir.), L'homme cognitif, Presses universitaires de France, París, 2001.  (en francés)
+Patrick Lemaire, Psychologie Cognitive, De Boeck, Bruxelles, 1999. (en francés)
+Reuchlin, « Psychologie », París, 1999. (en francés)
+Jean-François Camus, « La psychologie cognitive de l'attention », Armand Colin, París, 1996. (en francés)
+Gonon, François (noviembre de 2011). «La psychiatrie biologique: une bulle spéculative ?». Esprit (en francés): 54-73. Consultado el 6 de septiembre de 2015.  .
+Mewtow, Psychologie cognitive pour l'enseignant (en francés)
+Thierry Dugnolle, Précis d'épistémologie  (en francés)
+
+
+== Enlaces externos ==
+«Psicología cognitiva: definición, teorías y autores principales». Psicología Cognitiva. 29 de mayo de 2016. 
+«Psicología cognitiva: ¿qué es, en qué consiste y quiénes la formularon?». La Mente es Maravillosa. 5 de julio de 2017. 
+«¿En qué consiste la Psicología Cognitiva?». Blog de Psicoactiva. 8 de febrero de 2016.

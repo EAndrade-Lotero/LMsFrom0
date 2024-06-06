@@ -1,0 +1,87 @@
+La física de la materia condensada es la rama de la física que estudia las características físicas macroscópicas de la materia, tales como la densidad, la temperatura, la dureza o el color de un material. En particular, se refiere a las fases «condensadas» que aparecen siempre en que el número de constituyentes en un sistema sea extremadamente grande y que las interacciones entre los componentes sean fuertes, a diferencia de estar libres sin interactuar. Los ejemplos más familiares de fases condensadas son los sólidos y los líquidos, que surgen a partir de los enlaces y uniones causados por interacciones electromagnéticas entre los átomos. Entre las fases condensadas más exóticas se cuentan las fases superfluidas y el condensado de Bose-Einstein, que se encuentran en ciertos sistemas atómicos sometidos a temperaturas extremadamente bajas, la fase superconductora exhibida por los electrones de la conducción en ciertos materiales, y las fases ferromagnética y antiferromagnética de espines en redes atómicas. La física de la materia condensada busca hacer relaciones entre las propiedades macroscópicas, que se pueden medir y el comportamiento de sus constituyentes a nivel microscópico o atómico y así comprender mejor las propiedades de los materiales.
+La física de la materia condensada es la rama más extensa de la física contemporánea. Como estimación, un tercio de todos los físicos norteamericanos se identifica a sí mismo como físicos trabajando en temas de la materia condensada. Históricamente, dicho campo nació a partir de la física del estado sólido, que ahora es considerado como uno de sus subcampos principales. El término física condensada de la materia fue acuñado, al parecer, por Philip Anderson, cuando renombró a su grupo de investigación, hasta entonces teoría del estado sólido, en 1967. En 1978, la División de Física del Estado Sólido de la American Physical Society fue renombrada como División de Física de Materia Condensada. La física de la materia condensada tiene una gran superposición con áreas de estudio de la química, la ciencia de materiales, la nanotecnología y la ingeniería.
+Una de las razones para que la física de materia condensada reciba tal nombre es que muchos de los conceptos y técnicas desarrollados para estudiar sólidos se aplican también a sistemas fluidos. Por ejemplo, los electrones de conducción en un conductor eléctrico forman un tipo de líquido cuántico que tiene esencialmente las mismas características que un fluido conformado por átomos. De hecho, el fenómeno de la superconductividad, en el cual los electrones se condensan en una nueva fase fluida en la cual puedan fluir sin disipación, presenta una gran analogía con la fase superfluida que se encuentra en el helio-3 a muy bajas temperaturas.
+
+
+== Temas de física de materia condensada ==
+Fases:
+Fases genéricas: gas; líquido; sólido.
+Fases a baja temperatura: condensado de Bose-Einstein; gas de Fermi; líquido de Fermi; condensado fermiónico; líquido de Luttinger; superfluido; compuestos de Fermiones; supersólido.
+Fenómenos de cambio de fase: parámetro de orden; transición de fase; curva de enfriamiento.Sólidos cristalinos:
+Tipos: aislante; metal; semiconductor; semimetal; cuasicristales.
+Características electrónicas: band gap; onda de Bloch; banda de conducción; masa efectiva; conducción eléctrica; hueco electrónico; banda de valencia.
+Fenómenos electrónicos: efecto Kondo; plasmón; efecto Hall cuántico; superconductividad; cristal de Wigner; termoelectricidad.
+Fenómenos de redes: antiferromagnetismo; ferromagnetismo; magnón; fonón; vidrio de espínes; defecto topológico.Materia blanda:
+Tipos: sólido amorfo; materia granular; cristal líquido;
+Sistemas de Nanoelectromecánica (NEMS).
+Microscopía de fuerza de resonancia magnética.
+Transporte del calor en sistemas nanoscópicos.
+Transporte de espín.
+
+
+== Historia de la física de la materia condensada ==
+
+
+=== Física clásica ===
+Uno de los primeros estudios sobre los estados condensados de la materia fue realizado por el químico inglés Humphry Davy, en las primeras décadas del siglo XIX. Davy observó que de los cuarenta elementos químicos conocidos en ese momento, veintiséis tenían propiedades metálicas tales como lustre, ductilidad y alta conductividad eléctrica y térmica.[1]​ Esto indicaba que los átomos de la teoría atómica de John Dalton no eran indivisibles como afirmaba Dalton, sino que tenían estructura interna. Davy afirmó además que los elementos que entonces se creía que eran gases, como el nitrógeno y el hidrógeno, podían licuarse en las condiciones adecuadas y entonces se comportarían como metales.[2]​{NoteTag|Tanto el hidrógeno como el nitrógeno se han licuado desde entonces; sin embargo, el nitrógeno y el hidrógeno líquidos ordinarios no poseen propiedades metálicas. Los físicos Eugene Wigner y Hillard Bell Huntington predijeron en 1935[3]​ que existe un estado hidrógeno metálico a presiones suficientemente altas (más de 25 GPa), pero todavía no se ha observado).
+En 1823, Michael Faraday, entonces asistente en el laboratorio de Davy, licuó con éxito el cloro y pasó a licuar todos los elementos gaseosos conocidos, excepto el nitrógeno, el hidrógeno y el oxígeno.[1]​ Poco después, en 1869, el químico irlandés estudió la transición de fase de un líquido a un gas y acuñó el término punto crítico para describir la condición en la que un gas y un líquido eran indistinguibles como fases,[4]​ y el físico holandés aportó el marco teórico que permitió predecir el comportamiento crítico basándose en mediciones a temperaturas mucho más altas.[5]​: 35–38  Hacia 1908, James Dewar y Heike Kamerlingh Onnes lograron licuar con éxito el hidrógeno y luego el recién descubierto helio, respectivamente.[1]​
+Paul Drude en 1900 propuso el primer modelo teórico para un clásica electrón moviéndose a través de un sólido metálico.[6]​ El modelo de Drude describía las propiedades de los metales en términos de un gas de electrones libres, y fue el primer modelo microscópico que explicaba observaciones empíricas como la ley de Wiedemann-Franz.[7]​[8]​ Sin embargo, a pesar del éxito del modelo de electrones libres de Drude, tenía un problema notable: era incapaz de explicar correctamente la contribución electrónica al calor específico y a las propiedades magnéticas de los metales, y la dependencia de la temperatura de la resistividad a bajas temperaturas.[9]​
+En 1911, tres años después de que se licuara el helio por primera vez, Onnes, que trabajaba en la Universidad de Leiden, descubrió la superconductividad en el mercurio, cuando observó que la resistividad eléctrica del mercurio desaparecía a temperaturas inferiores a un determinado valor.[10]​ El fenómeno sorprendió por completo a los mejores físicos teóricos de la época, y permaneció sin explicación durante varias décadas.[11]​ Albert Einstein, en 1922, dijo con respecto a las teorías contemporáneas de la superconductividad que "con nuestra profunda ignorancia de la mecánica cuántica de los sistemas compuestos estamos muy lejos de poder componer una teoría a partir de estas vagas ideas. "[12]​
+
+
+=== Avance de la mecánica cuántica ===
+El modelo clásico de Drude fue aumentado por Wolfgang Pauli, Arnold Sommerfeld, Felix Bloch y otros físicos.  Pauli se dio cuenta de que los electrones libres en el metal debían obedecer la estadística de Fermi-Dirac.  Utilizando esta idea, desarrolló la teoría del paramagnetismo en 1926.  Poco después, Sommerfeld incorporó la estadística de Fermi-Dirac al modelo de los electrones libres y lo mejoró para explicar la capacidad calorífica.  Dos años más tarde, Bloch utilizó la mecánica cuántica para describir el movimiento de un electrón en una red periódica.[9]​: 366–368  La matemática de las estructuras cristalinas desarrollada por Auguste Bravais, Yevgraf Fyodorov y otros se utilizó para clasificar los cristales por su grupo de simetría, y las tablas de estructuras cristalinas fueron la base de la serie Tablas Internacionales de Cristalografía, publicada por primera vez en 1935.[13]​ La Cálculo de la estructura de bandas se utilizó por primera vez en 1930 para predecir las propiedades de nuevos materiales, y en 1947 John Bardeen, Walter Brattain y William Shockley desarrollaron el primer transistor basado en semiconductores, lo que supuso una revolución en la electrónica.[6]​
+
+En 1879, Edwin Herbert Hall trabajando en la Universidad Johns Hopkins descubrió un voltaje desarrollado a través de conductores transversales a una corriente eléctrica en el conductor y un campo magnético perpendicular a la corriente.[14]​ Este fenómeno que surge debido a la naturaleza de los portadores de carga en el conductor llegó a denominarse efecto Hall, pero no se explicó adecuadamente en su momento, ya que el electrón no se descubrió experimentalmente hasta 18 años después. Tras la llegada de la mecánica cuántica, Lev Landau desarrolló en 1930 la teoría de la cuantización de Landau y sentó las bases para la explicación teórica del efecto Hall cuántico descubierto medio siglo después.[15]​: 458–460 [16]​
+El magnetismo como propiedad de la materia se conoce en China desde el año 4000 a. C.[17]​: 1–2  Sin embargo, los primeros estudios modernos sobre el magnetismo no se iniciaron hasta el desarrollo de la electrodinámica por parte de Faraday, Maxwell y otros en el siglo XIX, que incluía la clasificación de los materiales en ferromagnéticos, paramagnéticos y diamagnéticos en función de su respuesta a la magnetización.[18]​ Pierre Curie estudió la dependencia de la magnetización con la temperatura y descubrió la transición de fase punto Curie en los materiales ferromagnéticos.[17]​ En 1906, Pierre Weiss introdujo el concepto de dominio magnético para explicar las principales propiedades de los ferromagnetos.[19]​: 9  El primer intento de descripción microscópica del magnetismo fue realizado por Wilhelm Lenz y Ernst Ising a través del modelo de Ising que describía los materiales magnéticos como si consistieran en una red periódica de espines que adquirían colectivamente magnetización.[17]​ El modelo de Ising fue resuelto con exactitud para demostrar que la magnetización espontánea no puede producirse en una dimensión pero es posible en redes de dimensiones superiores. Investigaciones posteriores como las de Bloch sobre ondas de espín y Néel sobre antiferromagnetismo llevaron a desarrollar nuevos materiales magnéticos con aplicaciones a dispositivos de almacenamiento magnético.[17]​: 36–38, g48 
+
+
+=== Física moderna de muchos cuerpos ===
+El modelo de Sommerfeld y los modelos de espín para el ferromagnetismo ilustraron la aplicación exitosa de la mecánica cuántica a los problemas de la materia condensada en la década de 1930. Sin embargo, aún quedaban varios problemas sin resolver, sobre todo la descripción de la superconductividad y el efecto Kondo.[21]​ Después de la Segunda Guerra Mundial, se aplicaron varias ideas de la teoría cuántica de campos a problemas de materia condensada. Entre ellas, el reconocimiento de los modos de excitación colectiva de los sólidos y la importante noción de cuasipartícula. El físico ruso Lev Landau utilizó la idea para la teoría del líquido de Fermi, en la que las propiedades de baja energía de los sistemas de fermiones que interactúan se daban en términos de lo que ahora se denomina cuasipartículas de Landau.[21]​ Landau también desarrolló una teoría de campo medio para las transiciones de fase continuas, que describía las fases ordenadas como ruptura espontánea de la simetría. La teoría también introdujo la noción de un parámetro de orden para distinguir entre fases ordenadas.[22]​ Finalmente, en 1956, John Bardeen, Leon Cooper y John Schrieffer desarrollaron la llamada teoría BCS de la superconductividad, basada en el descubrimiento de que una atracción arbitrariamente pequeña entre dos electrones de espín opuesto mediada por fonones en la red puede dar lugar a un estado ligado llamado par de Cooper.
+
+El estudio de las transiciones de fase y el comportamiento crítico de los observables, denominados fenómenos críticos, fue un importante campo de interés en la década de 1960.[24]​ Leo Kadanoff, Benjamin Widom y Michael Fisher desarrollaron las ideas del exponente críticos y del escalamiento de widom. Estas ideas fueron unificadas por Kenneth G. Wilson en 1972, bajo el formalismo del grupo de renormalización en el contexto de la teoría cuántica de campos.[24]​
+El efecto Hall cuántico fue descubierto por Klaus von Klitzing, Dorda y Pepper en 1980 cuando observaron que la conductancia Hall era múltiplo entero de una constante fundamental 
+  
+    
+      
+        
+          e
+          
+            2
+          
+        
+        
+          /
+        
+        h
+      
+    
+    {\displaystyle e^{2}/h}
+  . (ver figura) Se observó que el efecto era independiente de parámetros como el tamaño del sistema y las impurezas.[23]​ En 1981, el teórico Robert Laughlin propuso una teoría que explicaba la precisión no prevista de la meseta integral.  También implicó que la conductancia de Hall es proporcional a un invariante topológico, llamado número de Chern, cuya relevancia para la estructura de bandas de los sólidos fue formulada por David J. Thouless y colaboradores.[25]​[26]​ Poco después, en 1982, Horst Störmer y Daniel Tsui observaron el efecto Hall cuántico fraccionario donde la conductancia era ahora un múltiplo racional de la constante 
+  
+    
+      
+        
+          e
+          
+            2
+          
+        
+        
+          /
+        
+        h
+      
+    
+    {\displaystyle e^{2}/h}
+  . Laughlin, en 1983, se dio cuenta de que esto era una consecuencia de la interacción de cuasipartículas en los estados Hall y formuló una solución por método variacional, denominada función de onda de Laughlin.[27]​ El estudio de las propiedades topológicas del efecto Hall fraccionario sigue siendo un campo de investigación activo.[28]​ Décadas más tarde, la mencionada teoría de bandas topológicas avanzada por David J. Thouless y colaboradores[29]​ se amplió aún más llevando al descubrimiento de los aislantes topológicos.[30]​[31]​ 
+En 1986, Karl Müller y Karl Alexander Müller descubrieron el primer superconductor de alta temperatura, un material superconductor a temperaturas de hasta 50 kelvin. Se observó que los superconductores de alta temperatura son ejemplos de materiales fuertemente correlacionados en los que las interacciones electrón-electrón juegan un papel importante.[32]​ Todavía no se conoce una descripción teórica satisfactoria de los superconductores de alta temperatura y el campo de material fuertemente correlacionado sigue siendo un tema de investigación activo.
+En 2009, David Field e investigadores de la Universidad de Aarhus descubrieron campos eléctricos espontáneos al crear película prosaicas de varios gases. Esto se ha ampliado más recientemente para formar el área de investigación de la espontelectricidad.[33]​
+En 2012, varios grupos publicaron preprints que sugieren que Hexaboruro de samario tiene las propiedades de un aislante topológico[34]​ de acuerdo con las predicciones teóricas anteriores.[35]​ Dado que el hexaboruro de samario es un aislante Kondo establecido, es decir, un material de electrones fuertemente correlacionados, se espera que la existencia de un estado topológico de superficie de Dirac en este material conduzca a un aislante topológico con fuertes correlaciones electrónicas.
+
+
+== Referencias ==
+
+
+== Véase también ==
+Física del estado sólido

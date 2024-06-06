@@ -1,0 +1,378 @@
+El cine de animación es una categoría de cine (o de una manera general, una categoría de arte visual o audiovisual) que se caracteriza por no recurrir a la técnica del rodaje de imágenes reales sino a una o más técnicas de animación. Las técnicas tradicionales de animación han sido durante mucho tiempo el dibujo animado (dibujos planos en dos dimensiones fotografiados imagen por imagen) o la animación en volumen (modelos reducidos o marionetas, también fotografiados imagen por imagen), aunque en tiempos más recientes también se recurre a la animación por computadora.
+El cine de imagen real registra imágenes reales en movimiento continuo, descomponiéndolo automáticamente en un número determinado de imágenes por segundo. En el cine de animación no existe movimiento real que registrar, sino que se producen las imágenes separadamente de la realidad, ya sea automáticamente (con la ayuda de una computadora, en el caso de la animación por computadora), ya sea una por una (como en el caso de las técnicas de animación tradicionales, mediante dibujos, modelos, objetos y otras múltiples técnicas), de forma que, al proyectarse consecutivamente la película resultante, se produzca la ilusión de movimiento. La diferencia entre la animación y la imagen real estriba pues en que el cine de imagen real analiza y descompone un movimiento real, mientras que el cine de animación produce la sensación visual de un movimiento que en realidad es inexistente en el mundo real.
+
+
+== Definición de animación ==
+
+La definición correcta de la palabra animación proviene del latín, lexema «anima» que significa «alma». Por tanto, la acción de animar se debería traducir como «dotar de alma», refiriéndose a todo aquello que no la tuviera.
+Según el animador estadounidense Gene Deitch, «“animación cinemática” es el registro de fases de una acción imaginaria creadas individualmente, de tal forma que se produzca ilusión de movimiento cuando son proyectadas a una tasa constante y predeterminada, superior a la de la persistencia de la visión en la persona.»
+
+
+=== Tipos de animación ===
+Animación tradicional
+Dibujo animado
+Animación en volumen
+Animación en volumen go motion
+Rotoscopia
+Animación 3D
+Animación experimental
+Captura de movimiento
+
+
+== Historia ==
+
+
+=== Antecedentes ===
+La idea de recrear la ilusión del movimiento con una serie de dibujos es más antigua que el nacimiento del cine. Algunos historiadores se remontan a la prehistoria, en la que, mediante pinturas rupestres, se intentaba expresar movimiento, para que se mantengan estáticos. Otros descubrimientos posteriores, en Egipto y en Grecia corroboran esta tendencia a representar diferentes fases del movimiento en su arte.
+El primer intento que se conoce de una animación mediante la proyección de imágenes data de 1640, cuando el alemán Athanasius Kircher inventó el primer proyector de imágenes, la «linterna mágica», en la que, mediante grabados en cristales, era capaz de proyectar diferentes fases consecutivas del movimiento, cambiando los cristales de forma mecánica. En una de sus proyecciones representaba a un hombre mientras dormía, abriendo y cerrando la boca.
+El incipiente mundo de la animación estuvo estancado hasta 1824, cuando Peter Mark Roget descubrió el principio de persistencia de la visión, fundamento en el que se basan todas las imágenes proyectadas que conocemos hoy en día. Demostraba que el ojo humano retiene la imagen que ve durante el tiempo suficiente para ser sustituida por otra, y así sucesivamente, hasta realizar un movimiento completo, como se ve en su taumatropo.
+Aunque fueron muchos los inventos nacidos a la sombra del principio de persistencia de la visión, ninguno pasó de la categoría de juguete hasta la llegada del «Phenakistoscopio» de Joseph Antoine Plateau, en 1831, en el que conseguía plasmar un movimiento completo mediante el uso de dibujos.
+Entre las bases del origen de la animación está el mismo juego de sombras y la proyección de siluetas de papeles recortados creados por la cultura china.
+
+
+=== La película animada ===
+La animación apareció antes que el propio cinematógrafo. En 1888 el francés Émile Reynaud, padre del cine de animación, inventó el praxinoscopio, uno de los muchos juguetes ópticos de la época, en el cual se utilizaba una técnica pre-cinematográfica de animación. Posteriormente lo perfeccionó con su teatro óptico, que permitía proyectar películas animadas. Dotadas de argumento en una pantalla para un público y, acompañadas de música y efectos sonoros, mantuvo un espectáculo de dibujos animados desde 1892 hasta finales del siglo XIX. De su producción, en la actualidad se conserva ¡Pobre Pierrot!, de 4 minutos de duración.
+
+El siguiente pionero del cine de animación fue el francés Émile Cohl, que desde 1908 realizó los primeros cortometrajes de dibujos animados, entre los que se destaca Fantasmagorie, de un minuto y veinte segundos de duración. En 1912 creó el que seguramente sea el primer personaje de la historia del cine de animación, Baby Snookum.[1]​ Otro pionero fue George Méliès, el cual utilizó en sus filmes abundantes efectos realizados con técnicas de animación.
+James Stuart Blackton y el español Segundo de Chomón Suecia incorporó nuevos movimientos en acción.
+En 1906 J. Stuart Blackton estrenó Humorous Phases of Funny Faces, considerada la primera película de animación, en la que unos personajes dibujados en tiza sobre una pizarra se desplazan por la pantalla y hacen distintos gestos e incluso interactúan entre sí.
+Encontramos también a Winsor McCay, quien en 1914 estrenó Gertie the Dinosaur, película rodada con personajes y localizaciones reales, pero en la que aparece una secuencia animada siguiendo una técnica parecida a la de Blackton. Una sucesión de dibujos de un dinosaurio dan la sensación de que este está en movimiento. McCay elaborará otras películas como The Sinking of the Lusitania (1918), en la que usa la misma técnica combinándola con un montaje por capas como el que ya había usado Georges Méliès en sus películas, para darle profundidad y cierto realismo.
+En sus películas McCay dibujaba cada fotograma desde cero, lo que ralentizaba y por tanto encarecía todo el proceso de animación. Fue Earl Hurd quien patentó el sistema de acetatos, en el que se basaría la animación comercial clásica. Este consistía en dibujar los fondos fijos, y a los personajes sobre láminas de acetato transparentes, lo que agilizaba mucho la producción de películas animadas. Cabe destacar que el sistema de acetatos se inspiraba en el de John Randolph, que en lugar de usar fondos fijos en sus películas, creó algunos de los elementos invariables tanto del fondo como de los personajes sobre unas láminas que usaría en la animación. Se considera que con este sistema creó la primera serie comercial de animación en 1913, titulada Colonel Heezaliar in Africa.[2]​
+Max Fleischer hizo una gran aportación al mundo de la animación al inventar en 1917[3]​ el rotoscopio, un aparato que proyectaba una película real sobre una mesa, permitiendo dibujar a los personajes ficticios basándose en el de los personajes reales, una técnica parecida a la de captura de movimiento, que aparecería mucho después. Junto a su hermano, Dave Fleischer, y a Lee De Forest, estrenó en 1924 la primera animación con sonido, Oh Mabel. Cabe destacar que en la época, en la mayoría de casos no se proyectó con sonido puesto que los cines no disponían todavía de la tecnología para reproducir el sonido. Los hermanos Fleischer fueron creadores de algunos de los personajes más icónicos del cine sonoro de animación como son Betty Boop o Popeye el marino (en su adaptación al cine animado).
+Pero el creador de lo que hoy entendemos como cine de animación es el italo-argentino Quirino Cristiani, que en 1917 creó la primera película animada de la historia, El Apóstol. El Apóstol es una película sátira del presidente de Argentina de ese entonces Hipólito Yrigoyen. El Apóstol estuvo dirigida, guionada y enteramente animada por Cristiani, es decir que el solo hizo toda la película. Sin embargo hoy por hoy El Apóstol está perdida, ya que se quemó en un incendio y no se conservan copias. 
+Pero sin duda el más famoso fue Walt Disney. Disney comenzó rodando spots publicitarios en un garaje en el estado de Kansas con una cámara de alquiler. Fotografiaba unas letras que iban moviéndose hasta colocarse en su posición correcta para transmitir un mensaje. Tras un breve periodo trabajando en la productora Ad Films, donde aprendió técnicas de animación, fundó junto a Ub Iwerks y otros tantos animadores y pequeños empresarios la productora Laugh-O-Gram Films. Sus primeras películas eran adaptaciones revisitadas de los cuentos infantiles tradicionales como Caperucita Roja o Cenicienta.
+
+Tras crear varias películas con esta productora, Disney comenzó a experimentar con otras técnicas. A la inversa de M. Fleischer, Disney rodó una película de animación en la que aparecía un personaje real: Alice in Cartoonland ("Alicia en el país de los dibujos animados"). Para ello grabó a la actriz Virginia Davis sobre un fondo negro, lo que le permitía dibujar luego por encima los personajes animados. Tras no encontrar una distribuidora que aceptase la película, Disney decidió mudarse a Hollywood, a pesar de que el centro neurálgico de la producción de películas animadas fuera en esos momentos Nueva York. Allí, para ganarse la vida, volvió a realizar cartoons en un garaje y con una cámara alquilada. Sin embargo, una productora se interesó en Alice in Cartoonland y propuso a Disney un contrato por una serie de 12 capítulos del corto original. Así nació la Disney Brothers Cartoons Studio, que Walt decidió crear junto a su hermano para llevar a cabo esta producción. Tras finalizar los primeros cortos, decidieron contratar a algunos dibujantes. Disney diseñaba los personajes, pero eran los dibujantes quienes los desarrollaban y elaboraban los distintos frames. La serie tuvo tanto éxito que se negoció una segunda serie de la misma temática. En 1926 la compañía empezó a llamarse Walt Disney Studio. 
+Después de esta serie comenzaron a trabajar en una nueva producción y un nuevo personaje: Oswald, the Lucky Rabbit ("Oswald, el conejo afortunado"), en quien posteriormente se inspiraría Mickey Mouse. El primer corto en el que aparecería Oswald se llamaría Poor Papa. Ante la demanda de complicar los argumentos de estas películas por parte de las distribuidoras, ya que hasta ahora la mayoría de películas eran una sucesión de gags, se empezaron a dibujar bocetos sobre cómo se desarrollaría la historia, que se proyectaban en muchos casos para ver si funcionaban antes de perfeccionar y entintar los dibujos. Aquí vemos el precedente del guion gráfico.[4]​ Será en 1928 cuando Walt Disney registre el personaje de Mickey Mouse, que había creado a partir del conejo Oswald. Tras finalizar la primera película de Mickey, para conseguir vender una serie de dibujos animados a alguna distribuidora, Disney se propone ofrecer una película sonora. Se trataba de la época en la que el cine sonoro estaba simplemente comenzando (El cantor de jazz, primera película sonora, se estrenó en 1927), y la tecnología del momento era muy rudimentaria. Disney hizo algunas marcas en los fotogramas de la película para medir el tempo de la música y los sonidos. Una de las opciones era grabar los sonidos en un disco y luego sincronizarlo, como se hacía en los comienzos del cine sonoro, pero Disney se empeñó en grabar el sonido en la propia película, para lo que se valió del Cinephone de Pat Powers. Así, el 18 de noviembre de 1928 se estrenó Steamboat Willie  en un teatro de la Universal Studios.
+A lo largo de los años 30 surgieron nuevos personajes como el Pato Donald, Pluto o Goofy, y nuevas películas como Los tres cerditos, Walt Disney es el primer largometraje de animación que incluye Blancanieves y los siete enanitos en 1937, y que tuvieron un gran éxito, haciendo que los estudios de Disney crecieran exponencialmente, llegando a contar con unos 800 trabajadores en la década de los 40. Es entonces cuando el trabajo del estudio se empieza a mecanizar, asemejándose al de una fábrica. La realización de los dibujos de cada fotograma se dividía entre varios dibujantes. Había departamentos para la ideación de la narrativa, los nuevos personajes, el trabajo del movimiento y la animación, etc. Se hacían bocetos que se pulían en otros departamentos después de ser proyectados para conseguir que los personajes siempre fueran iguales a pesar de ser realizados por distintos dibujantes.
+
+
+== Largometrajes de animación ==
+La primera película animada de la historia fue hecha en Estados Unidos y se llamó "Creation" en el año de 1915, hecha por Pinto Colvig. Actualmente solo sobreviven unos fotogramas de la película alojados en el museo cultural de Oregón en los Estados Unidos.
+El primer largometraje de animación de Latinoamérica fue mudo y argentino. Llamada El apostol (1917) de Quirino Cristiani, película que se ha perdido porque el celuloide en el que había sido revelado fue utilizado posteriormente, siguiendo la costumbre de la época, en la fabricación de peines.[5]​
+Otros largometrajes tempranos (que sí están a disposición del público actual) fueron Las aventuras del príncipe Achmed (Alemania, 1926) de Lotte Reiniger y Le roman de Renard (Francia, concluida en 1930 pero estrenada en 1937) de Starewicz. Finalmente, en 1937 Walt Disney Productions estrenó Snow White and the Seven Dwarfs.
+Previamente a la II Guerra Mundial, la animación era utilizada como arma política, en la que se ridiculizaba a los grandes dictadores de la época. Durante la guerra, eran populares entre los soldados estadounidenses las proyecciones y las tiras cómicas de "Ducktators", una serie de cortometrajes de Warner Brothers. Los soldados decoraban las bombas y los aviones con dibujos de "Ducktators".
+Después de la Segunda Guerra Mundial hubo un enorme desarrollo de lo que ya era la Industria del Cine de Animación.
+En Estados Unidos, se consolidó el original cartoon clásico con los cortometrajes de Disney como las series Mickey Mouse y Silly Symphony, los cortometrajes de Warner Bros. como las series Fantasías animadas de ayer y hoy o Looney Tunes, cortometrajes animados de Metro Goldwyn Mayer (con Tex Avery), y posteriormente el nuevo estilo de la UPA.
+El National Film Board of Canada promovió todo tipo de experimentos vanguardistas, lo que convertiría a Canadá en una potencia de primer orden. Destaca el trabajo de uno de los principales animadores experimentales y abstractos de todos los tiempos: Norman McLaren. Aún hoy se pueden ver conceptos que inventó McLaren hasta en anuncios y videoclips. Hasta nuestros días, el NFB ha producido la obra de numerosos artistas, entre los que se puede destacar a Frédéric Back, Ryan Larkin, Ishu Patel, Caroline Leaf, Chris Landreth, etcétera.
+En los países del bloque comunista, el Estado promovió intensamente la animación. Esto permitió a muchos animadores trabajar sin presiones comerciales y crear obras de inmensa variedad y riesgo (y en muchos casos realizaron películas contra el régimen político que sufrían, en clave para pasar la censura). La primera gran figura de este desarrollo fue la del animador checo de marionetas Jiri Trnka, un artista popular y delicado.
+En estos años también empezaron a realizarse películas animadas en China y Japón.
+
+
+== La animación y la televisión ==
+En los años 1960 y 1970, con la popularización de la televisión, los cortometrajes de animación desaparecieron definitivamente de los cines, a partir de entonces limitadas a los largometrajes comerciales, terreno dominado por Disney hasta los años 1990. A pesar de ello el cortometraje floreció en otros canales de distribución (festivales, circuitos especializados, etc.), sobre todo con la aparición de numerosas escuelas de animación en todo el mundo.
+En Estados Unidos, Hanna-Barbera dominó la animación para televisión y Disney la animación para cine. Sin embargo, en los años 70 algunas alternativas gozaron de favor del público. El más conocido puede ser Ralph Bakshi, con sus primeras películas pertenecientes al movimiento underground (Heavy Traffic, Fritz el gato caliente) y posteriormente sus películas de fantasía (El señor de los anillos, Wizards, Tygra). Entre los cortometrajistas destacaron John y Faith Hubley.
+Las industrias de Europa del Este y la Unión Soviética, se convirtieron en las más potentes del mundo: la producción fue enorme en volumen y variedad, desde las series de televisión para niños hasta los cortometrajes artísticos más vanguardistas y radicales. De entre los muchos artistas importantes, el más famoso es el checo Jan Švankmajer, que utiliza el stop-motion y la plastilina para crear mundos surrealistas. Otros nombres que se pueden mencionar son los de Marcell Jankovics, Sándor Reisenbüchler, Yuri Norstein, Walerian Borowczyk, Jan Lenica, etcétera.
+Osamu Tezuka protagonizó la explosión de los dibujos animados nipones, en lo sucesivo conocidos como anime. Autor de historietas prolífico, adaptó varias de sus propias obras, consiguiendo el primer éxito con la serie de televisión Astroboy, que definió los rasgos habituales del anime: rasgos faciales de los personajes, animación limitada, narración semejante al cine de imagen real, vínculo entre la industria de la animación y la del cómic. Tezuka, un huracán creativo, también realizó largometrajes y hasta cortometrajes experimentales. Durante los años 60 el anime fue habitual en las salas de cine, pero en la década siguiente quedó confinado a la televisión. También hubo notables animadores independientes como Yoji Kuri y Kihachiro Kawamoto.
+En Europa occidental los logros fueron más puntuales: películas como El submarino amarillo de George Dunning, Allegro non troppo de Bruno Bozzetto o El planeta salvaje de Réne Laloux tuvieron repercusión. En el cortometraje destacaron artistas como Raoul Servais, Jean-François Laguionie o Paul Driessen
+
+
+=== En Estados Unidos ===
+En Estados Unidos, Disney ha tenido un momento de esplendor a principios de la década de 1990, con algunas de sus más exitosas y mejores películas, sobre todo La bella y la bestia de Trousdale y Wise. El auge de la infografía ha llevado a la compañía Pixar de John Lasseter (inicialmente una pequeña productora que realizaba cortos infográficos experimentales en los años 1980) a convertirse en la más exitosa productora del mundo, con películas tan bien acogidas como los mejores Disney: Toy Story, A Bug's Life, Monsters, Inc., Cars, etc.
+También se han producido algunas películas aisladas de gran calidad, como El gigante de hierro de Brad Bird, Pesadilla antes de Navidad de Henry Selick,  y las totalmente independientes y artesanales Me casé con un extraño y Mutant aliens de Bill Plympton, un frenético humorista que también es el autor de cortometrajes más conocido del período.
+
+
+=== En Japón ===
+
+El anime japonés se ha convertido en la industria más prolífica del planeta, popularizándose en todo el mundo. Las series de televisión son innumerables y siguen siendo la atracción principal para millones de aficionados. Los largometrajes para cines, después de desaparecer prácticamente durante los años 1970, volvieron con una fuerza creativa y comercial inusitada, principalmente a partir de Nausicaa del valle del viento de Hayao Miyazaki y Akira de Katsuhiro Otomo. Se ha producido una explosión en la variedad de los estilos y temáticas que se tratan, con autores tan diferentes como Mamoru Oshii, Satoshi Kon o Isao Takahata, y más recientemente Makoto Shinkai, mientras el citado Miyazaki se ha convertido en un director de culto internacional con el prestigio de los grandes directores de imagen real. Un animador independiente que ha logrado reconocimiento en Occidente ha sido Koji Yamamura.
+
+
+=== En Europa ===
+Las diferentes industrias europeas han atravesado situaciones muy diferentes en este período.
+En Francia han destacado los cortometrajes de la productora Folimage; en largometraje, el éxito de Kirikú y la bruja de Michel Ocelot ha abierto el camino para un número creciente de películas de ambiciones y calidad notables: Las trillizas de Belleville de Sylvain Chomet, Corto Maltese: La cour secrète des Arcanes de Pascal Morelli, La prophétie des grenouilles de Jacques-Remy Girerd, etc. En adición y como largo más destacable se halla la película el planeta salvaje dirigida por René Laloux está considerada como uno de los grandes clásicos de la animación.
+En el Reino Unido, la productora Aardman Animations (dedicada principalmente a animación con plastilina) se hizo popular a ambos lados del Atlántico con sus cortometrajes (especialmente la saga de Wallace y Gromit, de Nick Park) y se lanzó a la producción de largometrajes con Evasión en la granja del mismo director. Al abrigo de este éxito florecía la animación independiente, donde se puede citar al estudio Bolexbrothers, y los cortometrajistas Barry Purves, Phil Mulloy y los hermanos Quay.
+Nuevas generaciones de animadores de los países del Este han mantenido viva su tradición, casi exclusivamente en cortometrajes, entre los que destacan: los rusos Garri Bardin, Aleksandr Petrov y Konstantin Bronzit; los checos Aurel Klimt (con su prestigioso largometraje Fimfarum) y el veterano pero aún activo y conocido Jan Svankmajer; el polaco Piotr Dumala; los letones Priit Pärn y Priit Tender y, sobre todo, la Escuela Checa de Animación, con Jiří Trnka a la cabeza.
+
+
+=== En Hispanoamérica ===
+
+
+=== Argentina ===
+La primera animación de Argentina fue "Intervención de Buenos Aires" en 1916 hecha por Quirino Cristiani.
+El apóstol (Quirino Cristiani, 1917) fue el primer largometraje de animación en Latinoamérica.[5]​ En su honor se celebran los Premios Quirino, los primeros premios iberoamericanos de animación que se celebran en Santa Cruz de Tenerife (España).
+Dante Quinterno fue el productor y director del primer dibujo animado en color de la Argentina, con su prestigioso cortometraje del personaje Patoruzú, titulado Upa en apuros en 1942.
+Manuel García Ferré está considerado como el mayor exponente de todos los tiempos en la animación Argentina. Historietista, publicista y animador de origen español vive en Argentina desde la edad de 17 años. Sus películas están plenamente orientadas para los niños, siendo el creador de famosos personajes infantiles, como Anteojito, Hijitus, Larguirucho, Petete y Calculín, así como de tiras animadas televisivas, largometrajes animados y la revista Anteojito. Es el creador de la única productora argentina (la cual lleva su nombre) de animación con continuidad.
+Algunos estudios de animación argentinos: Patagonik Films (fundado en 1997), Estudio Pulpo (fundado en 2009).
+Juan Pablo Zaramella Es considerado uno de los más importantes animadores argentinos contemporáneos. Todos sus cortometrajes fueron premiados en festivales de todo el mundo. Su último producción "Luminaris", ganó más de 250 premios internacionales como Annecy 2011, ostentando el récord guines al corto más premiado de la historia. , y fue preseleccionado al Oscar en la categoría Mejor Corto Animado.
+Otros directores destacado por sus cortometrajes Son:Santiago 'Bou' Grasso, realizador de cortometrajes como "El Empleo" (2008) y "Padre" (2013), multipremiados en Festivales de primera línea como Annecy, Hiroshima, Stuttgart, SICAF, Biarritz y Anima Mundi, entre muchos otros.
+Javier Mrad con sus cortometrajes 2 metros (2007) y Teclopolis (2009) Destacándose por su visión autoral y única del mundo. 
+
+Ejemplos de producciones de animación argentinas (ámbito televisivo y cinematográfico):
+Upa en apuros (1942, cine) fue el primer dibujo animado en color de la historia del cine Argentina (producido y dirigido por Dante Quinterno)
+Las aventuras de Hijitus (1967, TV) fue la primera serie televisiva de dibujos animados de la Argentina y la más exitosa de Hispanoamérica.
+Mil intentos y un invento (1972, largometraje)
+Las aventuras de Hijitus (1973, largometraje) fue una recopilación de varios capítulos de la serie televisiva.
+Petete y Trapito (1975, largometraje)
+Calculín (1977, telefilme)
+El libro gordo de Petete (1980, TV)
+Ico, el caballito valiente (1981, largometraje)
+Mi familia es un dibujo (1996-1998, TV) fue una comedia argentina televisada por Telefé
+Dibu: la película (1997, largometraje)
+Dibu 2, la venganza de Nasty (1998, largometraje)
+Manuelita (1999, largometraje)
+Corazón, las alegrías de Pantriste (2000, largometraje)
+Condor Crux (2000, largometraje)
+Los Pintín al rescate (2000, largometraje)
+Dibu 3, la gran aventura (largometraje estrenado el 18 de julio de 2002)
+Mercano el marciano (2002, largometraje)
+Micaela, una película mágica (2002, largometraje)
+Patoruzito (película de 2004) (2004, largometraje)
+Teo, cazador intergaláctico (2004, largometraje)
+City Hunters (2005, TV)
+Patoruzito: la gran aventura (2006, largometraje)
+El Ratón Pérez (película) (2006, largometraje) coproducción argentino-española
+El arca (2007, largometraje)
+Isidoro: La película  (2007, largometraje)
+Martín Fierro: la película (2007, largometraje)
+El ratón Pérez 2 (2008, largometraje)  coproducción argentino-española
+Valentina la Película (2008, largometraje)
+Boogie, el aceitoso (2009, largometraje) coproducción México-Argentina
+Plumíferos (2010, largometraje)
+Gaturro: la película (2010, largometraje en 3D) coproducción México-Argentina
+El Sol (2010, largometraje)
+Anima Buenos Aires (2011, largometraje)
+Don Gato y su pandilla (2011, largometraje) coproducción con México.
+Eva de la Argentina (2011, largometraje)
+La máquina que hace estrellas (2012, largometraje) coproducción argentino-chilena
+Soledad y Larguirucho (2012, largometraje)
+Selkirk, el verdadero Robinson Crusoe (2012, largometraje) coproducción argentino-uruguaya
+Metegol (película) (2013, largometraje) coproducción argentino-española
+Lava (2019, largometraje)
+Carne de Dios (2022, cortometraje) coproducción argentino-mexicana
+Gilgamesh (película) Película CGI en producción
+
+
+=== Colombia ===
+Colombia tiene una historia de la animación que se remonta hasta 1938. Aunque surgió como iniciativas artísticas aisladas, el trabajo de Fernando Laverde quien realizó los largometrajes La pobre viejecita, Cristóbal Colón y Martín Fierro, así como la obra de animación experimental del artista Carlos Santa El pasajero de la noche, abrieron el terreno para los creadores interesados en este arte. Es también reconocida la labor de Nelson Ramírez cuya empresa encabezó la producción de comerciales publicitarios entre los años 1970 y comienzos de los años 1990.
+Ejemplos de producciones de animación colombianas (ámbito televisivo y cinematográfico)
+
+El siguiente programa (1997) serie animada producido por el estudio fusionarte.LTD.
+Bolívar el héroe (2002), película producida por el estudio fusionarte.LTD.
+Betty Toons (2002), serie animada producida por el estudio fusionarte. LTD y RCN Televisión.
+Profesor Super O (2006), serie animada producida por el estudio fusionarte. LTD.
+Pequeñas voces (2011), película producida por Cachupedillo Cine, La Máquina Producciones y Jaguar Taller Digital.
+Gordo, calvo y bajito (2012), película animada para adultos producida por Malta Cine.
+Anina (2013), película producida por Palermo Animación, Antorcha Films y Raindogs Cine (coproducción con Uruguay).
+Mr. Trance (2013) serie animada producida por El Recreo Studio.
+Desterrada (2014), película animada para adultos producida por 68 Revoluciones.
+Reguechicken (2015), película producida por Dago García Producciones.
+El libro de Lila (2017), película producida por Fosfenos Media.
+Zambo Dende (2017), serie animada producido por 7glab.
+Virus tropical (2018), película animada para adultos basada en la homónima novela gráfica de Power Paola y producida por Timbo Estudio.
+Tundama (película) (2020), película animada producida por Dagamedia Audiovisuales.
+La otra forma (2023), película animada producida por RTVC Play, Hierroanimación, Estúdio GIZ y Dinamita Animación (coproducción con Brasil).
+
+
+=== Chile ===
+El primer largometraje de animación en Chile fue 15 mil dibujos (1942), actualmente se desconoce tanto su contenido como su trama. Luego de este puntapié inicial, la animación chilena se mantuvo silente hasta la década de los 90.
+Se habla del renacimiento de la animación Chilena al comienzo de la década del 2000, cuando surgen proyectos de largometrajes que obtienen éxito a nivel internacional, lo que es acompañado de la inversión en los segmentos de televisión infantil por parte de los canales de televisión abierta. Esto permite el desarrollo de numerosas producciones, entre ellas:
+
+Ogú y Mampato en Rapa Nui (2002), película dirigida por Alejandro Rojas, considerado el primer filme chileno de animación en la era moderna.
+Cesante (2003), película dirigida por Ricardo Amunategui.
+Villa Dulce (2004), considerada la primera serie animada chilena.
+Diego y Glot (2005), serie animada de Canal 13.
+Pulentos (2005), serie animada de Werne Nuñez.
+El ojo del gato (2005), serie animada de Canal 13.
+Pulentos, la película (2007), película dirigida por Julio Plot.
+Papelucho y el marciano (2007), película dirigida por Alejandro Rojas.
+Selkirk, el verdadero Robinson Crusoe (2012), película dirigida por Walter Tournier (coproducción con Uruguay y Argentina).
+La casa lobo (2018), película dirigida por Cristóbal León y Joaquín Cociña.
+Homeless (2019), película dirigida por Jorge Campusano, José Ignacio Navarro y Santiago O'Ryan
+Nahuel y el libro mágico (2022), película dirigida por Germán Acuña.Además, destaca el caso de Historia de un oso (2014), cortometraje de animación de Gabriel Osorio y responsable del primer [Premio Óscar] obtenido por una producción nacional.
+
+
+=== Cuba ===
+La primera animación de Cuba fue Conga y Chambelona en el año de 1919 por el dibujante Luis Seel, el cortometraje no está disponible pero se sabe que en su tiempo el trabajo recibió buenas críticas.
+En el año de 1937 se estrena el corto animado llamado Napoleón, el faraón de los sinsabores por el animador Manuel Alonso, tampoco se rescató ninguna copia de este corto animado más allá de unas imágenes.
+En 1960 fueron creados en Cuba los Estudios de Animación del ICAIC, institución que hasta la fecha ha creado innumerables series, cortometrajes y largometrajes. Entre ellos el laureado Vampiros en La Habana, del director Juan Padrón (responsable también de la serie y películas del personaje Elpidio Valdés).
+
+
+=== México ===
+La animación mexicana, en sus inicios, fueron producciones en formato de cortometraje hechas por artistas con ganas de explorar ese ámbito artístico.
+Algunos consideran que la primera animación mexicana fue realizada en 1916, un cortometraje de 8 minutos de duración llamado "Mi sueño" dibujada por el caricaturista Juan Alternack y basada en el escrito homónimo del general Salvador Alvarado. 
+En 1919 se realizaron algunas secuencias animadas para la primera película humorística de México "El rompecabezas de juanillo".
+Entre los años 1927 a 1930, Miguel Acosta realizó los primeros anuncios animados que duraban alrededor de 30 segundos y que se exhibián en los cines antes de proyectar las películas.
+En los años 1933-1934 el caricaturista Salvador Pruneda realiza un corto animado basado en sus tiras cómicas titulado "Don Catarino y su apreciable familia", el cual por desgracia no se terminó de concretarse.
+En el año de 1935, el otorrinolaringólogo Alfonso Vergara Andrade funda la primera compañía de animación en México llamada Producciones Ava, que luego se pasaría a llamar como Ava Color. Algunas de sus primeras obras fueron Paco Perico en premier (1935), Una noche de Posada (1936), La vida de las abejas (1936), El jarabe tapatío (1936), El tesoro de Moctezuma (1937) y Los cinco cabritos y el lobo (1937).
+En 1943 estrenan Me voy de cacería por Caricolor, estudio fundado por Santiago Richi y Manuel Mario Moreno. 
+En 1965 se estrena Que Viva la Muerte de Adolfo Garnica, donde por medio de juguetes mexicanos rinde homenaje a Serguéi Eisenstein y muestra parte acerca de las festividades del Día de Muertos.
+En las décadas de 1970 y 1980 se produjeron algunas películas animadas de mayor duración en un intento de crear cine de animación nacional:
+
+Los tres Reyes Magos (1976) película de Fernando Ruiz
+Los Supersabios (1978), hecha por el estudio Kinemma.
+El gran acontecimiento (1981), película de Fernando Riuz sobre las apariciones de la virgen de Guadalupe.
+Crónicas del Caribe (1982), un filme hecho por el llamado Taller de Coyoacán
+Roy del espacio (1983), película que hasta la fecha se encuentra pérdida.
+Katy la oruga (1984), una coproducción México-española.
+Las aventuras de Oliver Twist (1987),  también llamada "El pequeño ladronzuelo" es la adaptación animada de la novela de Charles Dickens hecha por Fernando Ruiz.
+Katy, Kiki y Koko (1988), coproducción con España y secuela de Katy la Oruga.En 1994, el cortometraje animado "El héroe" de Carlos Carrera gana una palma de oro en el Festival de Cannes, uno de los premios más destacados en el mundo del cine.
+En 1997, se estrena Cuauhtli: Historias de un Pueblo (1997). Segundo mediometraje realizado por Fernando Ruiz que trata sobre el origen del pueblo azteca.
+Aunque la realización de largometrajes de animación en los años 90s fue nula, limitándose la animación a los cortometrajes, comerciales o publicidad; en años recientes se ha intensificado su producción.
+Lista de largometrajes de animación mexicanos a partir del 2000:
+
+Magos y Gigantes (2003, Ánima Estudios).
+Imaginum (2005, Ánima Estudios).
+Una película de huevos (2006, Huevocartoon Producciones), una coproducción entre México y Argentina.
+La prepa (2006, Alux Films y Five Producciones)
+La leyenda de la nahuala (2007, Animex Estudios).
+Los campeones de la lucha libre (2008, Bouncynet Inc y Azteca Cine). Una coproducción entre México y Estados Unidos.
+El Agente 00-P2 (2009, Ánima Estudios).
+Otra película de huevos y un pollo (2009, Huevocartoon Producciones). Secuela de Una película de huevos, coproducción con Argentina.
+Nikté (película) (2009, Animex Estudios y Nahuala Producciones).
+Boogie, el aceitoso (2009, Illusion Studios y Metacube). Coproducción entre México y Argentina.
+A Martian Christmas (2009, Ánima Estudios y Porchlight Entertainment) Producción entre México y Estados Unidos.
+Sabel Redemption (2009, Santo Domingo Animation e Ithrax).
+AAA sin límite en el tiempo (2010, Ánima Estudios).
+Brijes (2010, Santo Domingo Animation). Primera película animada mexicana en estereotipo 3D.
+Héroes verdaderos (2010, White Knight Creative Productions). Película basada en la Independencia De México.
+Gaturro: la película (2010, Illusion Studios y Ánima Estudios). Una coproducción México-Argentina
+Kung Fu Magoo (2010, Ánima Estudios). Película basada en el personaje Mr. Magoo.
+Don Gato y su pandilla (película) (2011, Ánima Estudios). Película basada en la popular serie de Hanna-Barbera.
+La leyenda de la llorona (2011, Ánima Estudios). Secuela de "La Leyenda De La Nahuala".
+La Revolución de Juan Escopeta (2012, Animex Estudios).
+El Gran Milagro (2011, Imágica). Película realizada en animación 3D.
+ZBaw Mejores Amigos (2011, Imagination Films). Película realizada en 3D y en formato estereoscópico.
+El Secreto del Medallón de Jade (2012, Kaxan Animation).
+El Santos contra La Tetona Mendoza (2012, Átomo Films, sello de Ánima Estudios). Primera película animada mexicana para adolescentes y adultos.
+JOYFLUID 3D (2014, producción en 3D por Alejandro Rodríguez-Huerta).
+La Leyenda De Las Momias (2014, Ánima Estudios). Tercera entrega de la saga "La Leyenda De La Nahuala".
+Jungle Shuffle (2014), una producción de México y Corea del Sur.
+El libro de la vida (2014). México - Estados Unidos. Una película de Jorge Gutiérrez y producida por Guillermo Del Toro
+Guardianes de Oz (2015). Película animada 3D de Ánima estudios.
+La increíble historia del niño de piedra (2015, productora Mantarraya a través de CadereytaFilms).
+Selección Canina (2015, Animex e Imagination Films).
+Un gallo con muchos huevos (2015, Huevocartoon Producciones) Primera película del estudio en realizarse en 3D, tercera entrega de la saga "Una Película De Huevos".
+Don Gato: El Inicio de la Pandilla (2015, Ánima Estudios y distribuida por Warner Bros. Animation).
+El Callejón de los Sueños (2015, Imagination Films).
+El Americano: The Movie (2016, Animex, Boxel animation studio y Olmos Productions).
+Las aventuras de Itzel y Sonia (2016, Fundación Todo por el Cine). Película animada en stop motion.
+La leyenda del Chupacabras (2016, Ánima Estudios). Cuarta película de Las Leyendas.
+Las Piezas del Rompecabezas (2017, Canal Once).
+Isla Calaca (2017, Corazón Films y Anima Estudios).
+Ana y Bruno (2018, Lo Coloco Films y Anima Estudios).
+El Ángel en el reloj (2018, Fotosíntesis Media).
+Ahí viene cascarrabias (2018, Anima Estudios).
+La Leyenda del Charro Negro (2018, Anima Estudios). Quinta parte de Las Leyendas.
+Marcianos vs. mexicanos (2018, Huevocartoon Producciones). Segunda película mexicana de animación para adolescentes y adultos.
+Olimpia (2019, Pirexia Films).
+Día de muertos (2019, Metacube).
+La liga de los 5 (2020, Ánima estudios).
+Escuela de Miedo (2020, Ánima estudios).
+Un Disfraz para Nicolás (2020, Fotosíntesis Media).
+El Camino de Xico (2020, Ánima estudios).
+Dos Pequeñas Navidades (2020, NAMI Studios, Second Moon Studios)
+Un rescate de huevitos (2021, Huevocartoon Producciones).
+Koati (2021, LatinWe y Upstairs).
+Catalina la Catrina: Especial Día de Muertos (2021, Ikartoons).
+Las leyendas: el origen (2022, Ánima estudios).
+Águila y Jaguar: Los Guerreros Legendarios (2022, Kooltoon Entertainment).
+Pinocho de Guillermo del Toro (2022, El Taller del Chucho).
+Huevitos Congelados (2022, Huevocartoon Producciones).
+Home is Somewhere Else (2023, Brinca Taller de Animación y Shine Global)
+La Leyenda de los Chaneques (2023, Ánima Estudios).
+Max (2023, Dos Corazones Films, Imagination Films e Imagica).
+Uma & Haggen: Princesa y Vikingo (2024, Ithrax Animated Productions, KoolToon Distribución).
+Un Reino para Todos Nosotros (2024, Fotosíntesis Media).Algunos de los estudios de animación mexicanos son:
+
+Ánima Estudios
+Huevocartoon
+Animex Producciones
+Fotosíntesis Media
+Imagination Films
+Metacube
+Mighty Animation
+Cinema Fantasma
+Taller del Chucho
+Anim-Art Producciones
+Imagica
+Ithrax Animated Productions
+Demente Estudio
+Peek-Paax
+Mokiki Animation
+Fidelius Films
+
+
+=== Perú ===
+Perú ha sido el primer país de Hispanoamérica en realizar un largometraje animado en 3D. En 2003 fue creado en Perú el estudio Alpamayo Entertainment, especializado en animación en 3D. Estas son algunas de las películas producidas por Alpamayo Entertainment: Piratas en el Callao (2005), Dragones, destino de fuego (2006), Valentino y el clan del can (2007). También inició la producción de la película El diente de la princesa (2008), pero luego, por diversas circunstancias, vendió los derechos de producción a otra productora que lanzó esta película bajo el nombre "Rodencia y el diente de la princesa" (2012).
+
+
+=== Venezuela ===
+El comienzo de la animación en Venezuela se remonta a 1934, cuando el alemán Herbert Weis, técnico especialista, fue contratado por Efraín Gomes para realizar unos trabajos en los Laboratorios Naciones. De ahí salió una animación de 3 minutos hecha con recortes, desde ahí la animación en Venezuela se usó para fines propagandísticos y publicitarios.
+Uno de los primeros cortometrajes animados del país fue el corto "Danza de los esqueletos" de 1934 hecho por Efraín Gomes.
+En 1947 se hizo una corta secuencia basada en las fábulas de "Tío Tigre y Tío Conejo" del escritor Antonio Arráiz. Hecha por Fernando Álvarez Sabater, Rafael Rivero Orama y Luis Mejía.
+En Venezuela el cineasta José Castillo (1922-2019) fue el principal precursor de la industria animada en el país, realizó varias producciones que le valieron reconocimiento tanto nacional como internacional. Entre sus obras se destacan: Conejín (1975); La Hormiga de Hiroshima (1985), Fiesta (2001) y Vivir en libertad (2008).
+
+
+== Festivales de animación ==
+
+Los festivales de animación acogen tanto largometrajes comerciales como cortometrajes de todos los tipos, y son el principal medio de difusión para los mismos.
+
+
+=== Festivales internacionales ===
+Festival Internacional de Cine de Animación de Annecy, en Francia
+Animafest Zagreb, en Croacia
+Festival Internacional de Cine de Animación de Ottawa, en Canadá
+Festival Internacional de Cine de Animación de Stuttgart, en Alemania
+Animayo, Festival Internacional de Cine de Animación, Efectos Visuales y Videojuegos  en España
+Anima - Brussels, en Bélgica
+Festival Internacional de Animación de Córdoba, en Argentina
+Festival Internacional de Cine de Animación de Hiroshima, en Japón
+Anima Mundi, en Brasil
+Animasyros - Festival Internacional de Animación en la Isla de Syros, Grecia
+Festival Internacional de Animación de Melbourne en Australia
+Festival Internacional de Cine de Animación Fantoche en Suiza
+Festival Internacional de Animación de Londres en Reino Unido
+SIGGRAPH en Estados Unidos
+
+
+=== Festivales y mercados de España ===
+3D Wire, en Segovia
+Premios Quirino de la Animación Iberoamericana, en Santa Cruz de Tenerife (España)
+Animac, en Lérida
+Animadrid, en Madrid
+Animacor, en Córdoba
+Animabasauri, en Basauri
+Anima't, en Festival de Cine de Sitges
+ANIRMAU, en Lalín (Pontevedra)
+Festival Internacional de Cine de Animación, Efectos Visuales y Videojuegos Animayo, en Gran Canaria
+Summa3D - International animation 3D Short Films Award.
+
+
+=== Festivales y mercados de México ===
+Pixelatl - Festival de Animación, Videojuegos y Cómic.
+CutOut Fest - Festival Internacional de Animación y Arte Digital.
+Animasivo - Festival Internacional de Animación de México.
+In Motion Fest - Encuentro Internacional de Animación e Innovación Digital de la Ciudad de Querétaro.
+Sublime - Encuentro internacional de negocios creativos de las industrias de la animación, los videojuegos y los efectos visuales (VFX).
+SMMX -  Festival Stop Motion México.
+Locomoción Fest - Locomoción Festival de Animación de la Ciudad de México.
+Iluma Fest - Evento realizado por el Tecnológico de Monterrey en Puebla en el que la temática principal es la animación, doblaje y videojuegos.
+Creativa Fest - Evento con una sección dedicada a la animación y arte digital.
+La Matatena - Festival internacional de cine para niños, con su enfoque especial en la animación.
+Festival Destacado - Festival en línea y presencial de arte digital dedicado a la animación, la ilustración, cómic y videojuegos.
+CCD Conecta - Reclutamiento y emprendimiento en la industria audiovisual.
+
+
+=== Festivales de animación en el resto de Latinoamérica ===
+ANIMA, Festival de Animación, en Córdoba, Argentina
+Anima Mundi, en Brasil
+Festival Internacional de Animación Ajayu, en Perú
+Animage, en Brasil
+CARTÓN, Festival de Animación, en Buenos Aires, Argentina
+Festival Chilemonos en Chile
+Festival Internacional de Animación de Montevideo Uruguay
+
+
+== Véase también ==
+Historia de la animación
+Animación mexicana
+Cine de animación en España
+Dibujo animado
+Película
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Cine de animación.

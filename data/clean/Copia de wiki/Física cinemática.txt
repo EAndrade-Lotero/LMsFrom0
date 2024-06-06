@@ -1,0 +1,2626 @@
+La cinemática (del griego κινέιν kinéin 'mover,desplazar') es la rama de la mecánica que describe el movimiento de los objetos sólidos sin considerar las causas que lo originan (las fuerzas) y se limita, principalmente, al estudio de la trayectoria en función del tiempo. Para ello utiliza velocidades y  aceleraciones, que describen cómo cambia la posición en función del tiempo. La velocidad se determina como el cociente entre el desplazamiento y el tiempo utilizado, mientras que la aceleración es el cociente entre el cambio de velocidad y el tiempo utilizado.
+
+
+== Historia ==
+Los primeros en  descubrir el movimiento fueron los y los filósofos griegos. Hacia el año 1605, Galileo Galilei hizo sus famosos estudios del movimiento de caída libre y de esferas en planos inclinados a fin de comprender aspectos del movimiento relevantes a su tiempo, como el movimiento de los planetas y de las balas de cañón.[1]​ Posteriormente, el estudio de la cicloide realizado por Evangelista Torricelli fue configurando lo que se conocería como geometría del movimiento.
+Luego, las aportaciones de Nicolás Copérnico, Tycho Brahe y Johannes Kepler expandieron los horizontes en la descripción del movimiento durante el siglo XVI. En 1687, con la publicación de los Principia, Isaac Newton hizo la mayor aportación conocida al estudio sistemático del movimiento. Entre otros numerosos aportes, estableció las tres leyes del movimiento que llevan su nombre, con lo que contribuyó al campo de la dinámica, además de postular la ley de gravitación universal.
+El nacimiento de la cinemática moderna tiene lugar con la alocución de Pierre Varignon el 20 de enero de 1700, ante la Academia Real de las Ciencias de París.[2]​ Fue allí cuando definió la noción de aceleración y mostró cómo es posible deducirla de la velocidad instantánea utilizando un simple procedimiento de cálculo diferencial.
+En la segunda mitad del siglo XVIII se produjeron más contribuciones por Jean Le Rond d'Alembert, Leonhard Euler y André-Marie Ampère y continuaron con el enunciado de la ley fundamental del centro instantáneo de rotación en el movimiento plano, de Daniel Bernoulli.
+Con la teoría de la relatividad especial de Albert Einstein en 1905, se inició una nueva etapa, la cinemática relativista, donde el tiempo y el espacio no son absolutos, y sí lo es la velocidad de la luz.
+
+
+=== Origen del término ===
+El vocablo cinemática fue creado por André-Marie Ampère, quien delimitó el contenido de esta disciplina y aclaró su posición dentro del campo de la mecánica. Desde entonces, la cinemática ha continuado su desarrollo hasta adquirir una estructura propia.
+
+
+== Elementos básicos de la cinemática ==
+Los elementos básicos de la cinemática son el espacio, el tiempo y un móvil. Los dos primeros permiten definir un sistema de referencia desde donde se hacen observaciones y mediciones referentes al movimiento del móvil.
+En la mecánica clásica, se admite la existencia de un espacio absoluto, es decir, un espacio anterior a todos los objetos materiales e independiente de la existencia de estos. Este espacio es el escenario donde ocurren todos los fenómenos físicos, y se supone que todas las leyes de la física se cumplen rigurosamente en todas las regiones del mismo. El espacio físico se representa en la mecánica clásica mediante un espacio euclídeo. Análogamente, la mecánica clásica admite la existencia de un tiempo absoluto que transcurre del mismo modo en todas las regiones del Universo y que es independiente de la existencia de los objetos materiales y de la ocurrencia de los fenómenos físicos.
+El móvil más simple que se puede considerar es el punto material o partícula; cuando en la cinemática se estudia este caso particular de móvil, se denomina Cinemática de la partícula, y cuando el móvil bajo estudio es un cuerpo rígido se lo puede considerar un sistema de partículas y hacer extensivos análogos conceptos; en este caso se le denomina cinemática del sólido rígido o del cuerpo rígido.
+En la mecánica relativista el tiempo y el espacio percibidos dependen del observador, por lo que en realidad sólo puede definirse un espacio-tiempo común a los observadores y las medidas de todos los observadores están relacionadas por leyes covariantes objetivas. Sin embargo, el espacio-tiempo en presencia de objetos gravitantes no es plano, por lo que ni el espacio percibido por un observador será euclídeo, ni en general diferentes observadores coincidirán en los intervalos de tiempo medidos, ya que el tiempo pasa a ser relativo. Aun así pueden definirse magnitudes invariantes objetivas que son iguales para todos los observadores.
+
+
+=== Fundamento de la cinemática clásica ===
+La cinemática trata del estudio del movimiento de los cuerpos en general y, en particular, el caso simplificado del movimiento de un punto material, mas no estudia por qué se mueven los cuerpos sino que se limita a describir sus trayectorias y modo de reorientarse en su avance. Para sistemas de muchas partículas, por ejemplo los fluidos, las leyes de movimiento se estudian en la mecánica de fluidos.
+El movimiento trazado por una partícula lo mide un observador respecto a un sistema de referencia. Desde el punto de vista matemático, la cinemática expresa cómo varían las coordenadas de posición de la partícula (o partículas) en función del tiempo. La función matemática que describe la trayectoria recorrida por el cuerpo (o partícula) depende de la velocidad (la rapidez con la que cambia de posición un móvil) y de la aceleración (variación de la velocidad respecto del tiempo).
+El movimiento de una partícula (o cuerpo rígido) se puede describir según los valores de velocidad y aceleración, que son magnitudes vectoriales:
+
+Si la aceleración es nula, da lugar a un movimiento rectilíneo uniforme y la velocidad permanece constante a lo largo del tiempo.
+Si la aceleración es constante con igual dirección que la velocidad, da lugar al movimiento rectilíneo uniformemente acelerado y la velocidad variará a lo largo del tiempo.
+Si la aceleración es constante con dirección perpendicular a la velocidad, da lugar al movimiento circular uniforme, donde el módulo de la velocidad es constante, cambiando su dirección con el tiempo.
+Cuando la aceleración es constante y está en el mismo plano que la velocidad y la trayectoria, tiene lugar el movimiento parabólico, donde la componente de la velocidad en la dirección de la aceleración se comporta como un movimiento rectilíneo uniformemente acelerado, y la componente perpendicular se comporta como un movimiento rectilíneo uniforme, y se genera una trayectoria parabólica al componer ambas.
+Cuando la aceleración es constante pero no está en el mismo plano que la velocidad y la trayectoria, se observa el efecto de Coriolis.[cita requerida]
+En el movimiento armónico simple se tiene un movimiento periódico de vaivén, como el del péndulo, en el cual un cuerpo oscila a un lado y a otro desde la posición de equilibrio en una dirección determinada y en intervalos iguales de tiempo. La aceleración y la velocidad son funciones, en este caso, sinusoidales del tiempo.Al considerar el movimiento de traslación de un cuerpo extenso, en el caso de ser un cuerpo rígido, conociendo como se mueve una de las partículas, se deduce como se mueven las demás. Más concretamente:
+
+En un movimiento plano bidimensional si se conoce el movimiento de 2 puntos del sólido, el movimiento de todo el sólido está determinado
+En un movimiento general tridimensional, el movimiento queda determinado si se conoce el movimiento de 4 puntos del sólido.Así, considerando un punto del cuerpo, por ejemplo el centro de masa del cuerpo o cualquier otro, el movimiento de todo el cuerpo se puede expresar como:
+
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          
+            r
+          
+          
+            G
+          
+        
+        (
+        t
+        )
+        +
+        
+          R
+        
+        (
+        t
+        )
+        ⋅
+        (
+        
+          r
+        
+        (
+        0
+        )
+        −
+        
+          
+            r
+          
+          
+            G
+          
+        
+        (
+        0
+        )
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t)=\mathbf {r} _{G}(t)+\mathbf {R} (t)\cdot (\mathbf {r} (0)-\mathbf {r} _{G}(0))}
+  
+
+donde:
+
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {r} (t)}
+  , es la posición de un punto del cuerpo en el instante t.
+
+  
+    
+      
+        
+          
+            r
+          
+          
+            G
+          
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {r} _{G}(t)}
+  , es la posición del punto de referencia (por ejemplo el centro de gravedad) en el instante t.
+
+  
+    
+      
+        
+          R
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {R} (t)}
+  , es una matriz de rotación que da cuenta del giro del cuerpo alrededor de sí mismo en el instante t, para poder calcular esta matriz basta conocer la posición de otros 3 puntos además del punto de referencia (o 1 punto más si el movimiento es plano).En la descripción del movimiento de rotación dado por 
+  
+    
+      
+        
+          R
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {R} (t)}
+   hay que considerar el eje de rotación respecto del cual rota el cuerpo y la distribución de partículas respecto al eje de giro. El estudio del movimiento de rotación de un sólido rígido suele incluirse en la temática de la mecánica del sólido rígido, por ser más complicado (la dirección principal de 
+  
+    
+      
+        
+          R
+        
+        (
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {R} (t)}
+   asociada al autovalor 1, da el eje de giro en cada instante t).
+Un movimiento interesante es el de una peonza, que al girar puede tener un movimiento de precesión y de nutación. Cuando un cuerpo posee varios movimientos simultáneamente, como por ejemplo uno de traslación y otro de rotación, se puede estudiar cada uno por separado en el sistema de referencia que sea apropiado para cada uno, y luego, superponer los movimientos.
+
+
+=== Sistemas de coordenadas ===
+
+En el estudio del movimiento, los sistemas de coordenadas más útiles se encuentran viendo los límites de la trayectoria a recorrer o analizando el efecto geométrico de la aceleración que afecta al movimiento. Así, para describir el movimiento de un talón obligado a desplazarse a lo largo de un aro circular, la coordenada más útil sería el ángulo trazado sobre el aro. Del mismo modo, para describir el movimiento de una partícula sometida a la acción de una fuerza central, las coordenadas polares serían las más útiles. Los sistemas de coordenadas son la herramienta matemática que permite definir sistemas de referencia para cada observador del movimiento.
+
+
+=== Registro del movimiento ===
+La tecnología hoy en día nos ofrece muchas formas de registrar el movimiento efectuado por un cuerpo. Así, para medir la velocidad de los vehículos se dispone del radar de tráfico cuyo funcionamiento se basa en el efecto Doppler. El tacómetro es un indicador de la velocidad de un vehículo basado en la frecuencia de rotación de las ruedas. Los caminantes disponen de podómetros que detectan las vibraciones características del paso y, suponiendo una distancia media característica para cada paso, permiten calcular la distancia recorrida. El vídeo, unido al análisis informático de las imágenes, permite igualmente determinar la posición y la velocidad de los vehículos.
+
+
+== Tipos de movimientos ==
+
+
+=== Movimiento rectilíneo ===
+
+El movimiento rectilíneo es aquel en el que el móvil[3]​ describe una trayectoria en línea recta.
+
+
+==== Movimiento rectilíneo uniforme (MRU) ====
+
+En el movimiento rectilíneo uniforme  (MRU) el móvil se desplaza por una recta a velocidad V constante; la aceleración a es cero todo el tiempo. Esto corresponde al movimiento de un objeto lanzado en el espacio fuera de toda interacción, o al movimiento de un objeto que se desliza sin fricción. Siendo la velocidad V constante, la posición variará linealmente respecto del tiempo, según la ecuación:
+
+  
+    
+      
+        V
+        =
+        
+          constante
+        
+        
+      
+    
+    {\displaystyle V={\text{constante}}\,}
+  
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  x
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  t
+                
+              
+            
+          
+        
+        =
+        V
+      
+    
+    {\displaystyle {\cfrac {d\,x}{d\,t}}=V}
+  
+  
+    
+      
+        d
+        
+        x
+        =
+        V
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle d\,x=V\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              x
+              
+                0
+              
+            
+          
+          
+            
+              x
+              
+                1
+              
+            
+          
+        
+        d
+        
+        x
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        V
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{x_{0}}^{x_{1}}d\,x=\int _{t_{0}}^{t_{1}}V\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              x
+              
+                0
+              
+            
+          
+          
+            
+              x
+              
+                1
+              
+            
+          
+        
+        d
+        
+        x
+        =
+        V
+        
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{x_{0}}^{x_{1}}d\,x=V\;\int _{t_{0}}^{t_{1}}d\,t}
+  
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        −
+        
+          x
+          
+            0
+          
+        
+        =
+        V
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle x_{1}-x_{0}=V(t_{1}-t_{0})}
+  donde 
+  
+    
+      
+         
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ x_{0}}
+   es la posición inicial del móvil respecto al centro de coordenadas, es decir para 
+  
+    
+      
+         
+        
+          t
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ t_{0}}
+  .
+Si 
+  
+    
+      
+         
+        
+          x
+          
+            0
+          
+        
+        =
+        0
+        
+        ,
+        
+        
+          t
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ x_{0}=0\;,\;t_{0}=0}
+   la ecuación anterior corresponde a una recta que pasa por el origen, en una representación gráfica de la función 
+  
+    
+      
+         
+        x
+        (
+        t
+        )
+        =
+        V
+        
+        t
+      
+    
+    {\displaystyle \ x(t)=V\,t}
+  , tal como la mostrada en la figura 1.
+
+  
+    
+      
+        x
+        =
+        V
+        
+        t
+      
+    
+    {\displaystyle x=V\;t}
+  
+
+
+==== Movimiento rectilíneo uniformemente variado (MRUV) ====
+
+En este movimiento la aceleración es constante, por lo que la velocidad de móvil varía linealmente y la posición cuadráticamente con tiempo. Las ecuaciones que rigen este movimiento son las siguientes:
+
+  
+    
+      
+        a
+        =
+        
+          constante
+        
+        
+      
+    
+    {\displaystyle a={\text{constante}}\,}
+  
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  V
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  t
+                
+              
+            
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle {\cfrac {d\,V}{d\,t}}=a}
+  
+  
+    
+      
+        d
+        
+        V
+        =
+        a
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle d\,V=a\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              V
+              
+                0
+              
+            
+          
+          
+            
+              V
+              
+                1
+              
+            
+          
+        
+        d
+        
+        V
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        a
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{V_{0}}^{V_{1}}d\,V=\int _{t_{0}}^{t_{1}}a\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              V
+              
+                0
+              
+            
+          
+          
+            
+              V
+              
+                1
+              
+            
+          
+        
+        d
+        
+        V
+        =
+        a
+        
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{V_{0}}^{V_{1}}d\,V=a\;\int _{t_{0}}^{t_{1}}d\,t}
+  
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        −
+        
+          V
+          
+            0
+          
+        
+        =
+        a
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle V_{1}-V_{0}=a(t_{1}-t_{0})}
+  
+  
+    
+      
+        
+          V
+          
+            1
+          
+        
+        =
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle V_{1}=V_{0}+a(t_{1}-t_{0})}
+  la velocidad final es igual a la velocidad inicial del móvil más la aceleración por el incremento de tiempo. si 
+  
+    
+      
+        
+          t
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle t_{0}=0}
+   entonces:
+
+  
+    
+      
+        V
+        =
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        
+        t
+      
+    
+    {\displaystyle V=V_{0}+a\,t}
+  la velocidad final es igual a la velocidad inicial más la aceleración por el tiempo.
+Partiendo de la relación que calcula la velocidad:
+
+  
+    
+      
+        V
+        =
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        
+        t
+      
+    
+    {\displaystyle V=V_{0}+a\,t}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  r
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  d
+                  
+                  t
+                
+              
+            
+          
+        
+        =
+        V
+        =
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        
+        t
+      
+    
+    {\displaystyle {\cfrac {d\,r}{d\,t}}=V=V_{0}+a\,t}
+  
+  
+    
+      
+        d
+        
+        r
+        =
+        (
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        
+        t
+        )
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle d\,r=(V_{0}+a\,t)\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              r
+              
+                0
+              
+            
+          
+          
+            
+              r
+              
+                1
+              
+            
+          
+        
+        d
+        
+        r
+        =
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        (
+        
+          V
+          
+            0
+          
+        
+        +
+        a
+        
+        t
+        )
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{r_{0}}^{r_{1}}d\,r=\int _{t_{0}}^{t_{1}}(V_{0}+a\,t)\;d\,t}
+  
+  
+    
+      
+        
+          ∫
+          
+            
+              r
+              
+                0
+              
+            
+          
+          
+            
+              r
+              
+                1
+              
+            
+          
+        
+        d
+        
+        r
+        =
+        
+          V
+          
+            0
+          
+        
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        d
+        
+        t
+        +
+        a
+        
+          ∫
+          
+            
+              t
+              
+                0
+              
+            
+          
+          
+            
+              t
+              
+                1
+              
+            
+          
+        
+        t
+        
+        d
+        
+        t
+      
+    
+    {\displaystyle \int _{r_{0}}^{r_{1}}d\,r=V_{0}\int _{t_{0}}^{t_{1}}d\,t+a\int _{t_{0}}^{t_{1}}t\;d\,t}
+  
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+        −
+        
+          r
+          
+            0
+          
+        
+        =
+        
+          V
+          
+            0
+          
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  2
+                
+              
+            
+          
+        
+        a
+        (
+        
+          t
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            0
+          
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle r_{1}-r_{0}=V_{0}(t_{1}-t_{0})+{\cfrac {1}{2}}a(t_{1}^{2}-t_{0}^{2})}
+  
+  
+    
+      
+        
+          r
+          
+            1
+          
+        
+        =
+        
+          r
+          
+            0
+          
+        
+        +
+        
+          V
+          
+            0
+          
+        
+        (
+        
+          t
+          
+            1
+          
+        
+        −
+        
+          t
+          
+            0
+          
+        
+        )
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  2
+                
+              
+            
+          
+        
+        a
+        (
+        
+          t
+          
+            1
+          
+          
+            2
+          
+        
+        −
+        
+          t
+          
+            0
+          
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle r_{1}=r_{0}+V_{0}(t_{1}-t_{0})+{\cfrac {1}{2}}a(t_{1}^{2}-t_{0}^{2})}
+  Donde 
+  
+    
+      
+         
+        
+          t
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ t_{0}=0}
+   , 
+  
+    
+      
+         
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle \ x_{1}}
+   es la posición final y 
+  
+    
+      
+         
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ V_{0}}
+   su velocidad inicial, aquella que tiene para 
+  
+    
+      
+         
+        t
+        =
+        0
+      
+    
+    {\displaystyle \ t=0}
+  , tenemos.
+
+  
+    
+      
+        r
+        =
+        
+          r
+          
+            0
+          
+        
+        +
+        
+          V
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  2
+                
+              
+            
+          
+        
+        a
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle r=r_{0}+V_{0}t+{\cfrac {1}{2}}at^{2}}
+  Obsérvese que si la aceleración fuese nula, las ecuaciones anteriores corresponderían a las de un movimiento rectilíneo uniforme, es decir, con velocidad 
+  
+    
+      
+         
+        V
+        =
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ V=V_{0}}
+   constante. Si el cuerpo parte del reposo acelerando uniformemente, entonces la 
+  
+    
+      
+         
+        
+          V
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ V_{0}=0}
+  .
+Dos casos específicos de MRUA son la caída libre y el tiro vertical. La caída libre es el movimiento de un objeto que cae en dirección al centro de la Tierra con una aceleración equivalente a la aceleración de la gravedad (que en el caso del planeta Tierra al nivel del mar es de aproximadamente 9,8 m/s2). El tiro vertical, en cambio, corresponde al de un objeto arrojado en la dirección opuesta al centro de la tierra, ganando altura. En este caso la aceleración de la gravedad, provoca que el objeto vaya perdiendo velocidad, en lugar de ganarla, hasta llegar al estado de reposo; seguidamente, y a partir de allí, comienza un movimiento de caída libre con velocidad inicial nula.
+
+
+==== Movimiento armónico simple ====
+
+Es un movimiento periódico de vaivén, en el que un cuerpo oscila a un lado y a otro de una posición de equilibrio en una dirección determinada y en intervalos iguales de tiempo. Matemáticamente, la trayectoria recorrida se expresa en función del tiempo usando funciones trigonométricas, que son periódicas. Así por ejemplo, la ecuación de posición respecto del tiempo, para el caso de movimiento en una dimensión es:
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        A
+        sen
+        ⁡
+        
+          (
+          
+            2
+            π
+            f
+            t
+            +
+            ϕ
+          
+          )
+        
+      
+    
+    {\displaystyle x(t)=A\operatorname {sen} \left(2\pi ft+\phi \right)}
+  
+
+o
+
+  
+    
+      
+        x
+        (
+        t
+        )
+        =
+        A
+        cos
+        ⁡
+        
+          (
+          
+            2
+            π
+            f
+            t
+            +
+            ϕ
+          
+          )
+        
+      
+    
+    {\displaystyle x(t)=A\cos \left(2\pi ft+\phi \right)}
+  
+
+la que corresponde a una función sinusoidal de frecuencia 
+  
+    
+      
+        f
+        
+      
+    
+    {\displaystyle f\,}
+  , de amplitud A y fase de inicial 
+  
+    
+      
+        ϕ
+        
+      
+    
+    {\displaystyle \phi \,}
+  .
+Los movimientos del péndulo, de una masa unida a un muelle o la vibración de los átomos en las redes cristalinas son de estas características.
+La aceleración que experimenta el cuerpo es proporcional al desplazamiento del objeto y de dirección contraria, desde el punto de equilibrio. Matemáticamente:
+
+  
+    
+      
+        a
+        =
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              x
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        k
+        x
+      
+    
+    {\displaystyle a={\frac {d^{2}x}{dt^{2}}}=-kx}
+  
+
+donde 
+  
+    
+      
+        k
+        
+      
+    
+    {\displaystyle k\,}
+   es una constante positiva y 
+  
+    
+      
+        x
+        
+      
+    
+    {\displaystyle x\,}
+   se refiere a la elongación (desplazamiento del cuerpo desde la posición de equilibrio).
+
+La solución a esa ecuación diferencial lleva a funciones trigonométricas de la forma anterior. Lógicamente, un movimiento periódico oscilatorio real se ralentiza en el tiempo (por fricción mayormente), por lo que la expresión de la aceleración es más complicada, necesitando agregar nuevos términos relacionados con la fricción. Una buena aproximación a la realidad es el estudio del movimiento oscilatorio amortiguado.
+
+
+=== Movimiento parabólico ===
+
+El movimiento parabólico se puede analizar como la composición de dos movimientos rectilíneos distintos: uno horizontal (según el eje x) de velocidad constante y otro vertical (según eje y) uniformemente acelerado, con la aceleración gravitatoria; la composición de ambos da como resultado una trayectoria parabólica.
+Claramente, la componente horizontal de la velocidad permanece invariable, pero la componente vertical y el ángulo θ cambian en el transcurso del movimiento.
+En la figura 4 se observa que el vector velocidad inicial 
+  
+    
+      
+         
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ v_{0}}
+   forma un ángulo inicial 
+  
+    
+      
+         
+        
+          θ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \ \theta _{0}}
+   respecto al eje x; y, como se dijo, para el análisis se descompone en los dos tipos de movimiento mencionados; bajo este análisis, las componentes según x e y de la velocidad inicial serán:
+
+  
+    
+      
+        
+          v
+          
+            0
+            x
+          
+        
+        =
+        
+          v
+          
+            0
+          
+        
+        cos
+        ⁡
+        
+          θ
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle v_{0x}=v_{0}\cos \theta _{0}\ }
+  
+
+  
+    
+      
+        
+          v
+          
+            0
+            y
+          
+        
+        =
+        
+          v
+          
+            0
+          
+        
+        sen
+        ⁡
+        
+          θ
+          
+            0
+          
+        
+         
+      
+    
+    {\displaystyle v_{0y}=v_{0}\operatorname {sen} \theta _{0}\ }
+  
+
+El desplazamiento horizontal está dado por la ley del movimiento uniforme, por tanto sus ecuaciones serán (si se considera 
+  
+    
+      
+         
+        
+          x
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ x_{0}=0}
+  ):
+
+  
+    
+      
+         
+        
+          a
+          
+            x
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ a_{x}=0}
+  
+
+  
+    
+      
+         
+        
+          v
+          
+            x
+          
+        
+        =
+        
+          v
+          
+            0
+            x
+          
+        
+      
+    
+    {\displaystyle \ v_{x}=v_{0x}}
+  
+
+  
+    
+      
+         
+        x
+        =
+        
+          v
+          
+            0
+            x
+          
+        
+        t
+      
+    
+    {\displaystyle \ x=v_{0x}t}
+  
+
+En tanto que el movimiento según el eje 
+  
+    
+      
+         
+        y
+      
+    
+    {\displaystyle \ y}
+   será rectilíneo uniformemente acelerado, siendo sus ecuaciones:
+
+  
+    
+      
+         
+        
+          a
+          
+            y
+          
+        
+        =
+        −
+        g
+      
+    
+    {\displaystyle \ a_{y}=-g}
+  
+
+  
+    
+      
+         
+        
+          v
+          
+            y
+          
+        
+        =
+        
+          v
+          
+            0
+            y
+          
+        
+        −
+         
+        g
+        t
+      
+    
+    {\displaystyle \ v_{y}=v_{0y}-\ gt}
+  
+
+  
+    
+      
+         
+        y
+        =
+        
+          y
+          
+            0
+          
+        
+        +
+        
+          v
+          
+            0
+            y
+          
+        
+        t
+        −
+        
+          
+            1
+            2
+          
+        
+        g
+        
+          
+            t
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \ y=y_{0}+v_{0y}t-{\frac {1}{2}}g{t^{2}}}
+  
+
+Si se reemplaza y opera para eliminar el tiempo, con las ecuaciones que dan las posiciones 
+  
+    
+      
+         
+        x
+      
+    
+    {\displaystyle \ x}
+   e 
+  
+    
+      
+         
+        y
+      
+    
+    {\displaystyle \ y}
+  , se obtiene la ecuación de la trayectoria en el plano xy:
+
+  
+    
+      
+        y
+        =
+        −
+        
+          
+            g
+            
+              2
+              
+                v
+                
+                  0
+                
+                
+                  2
+                
+              
+              
+                cos
+                
+                  2
+                
+              
+              ⁡
+              
+                
+                  θ
+                  
+                    0
+                  
+                
+              
+            
+          
+        
+        
+          x
+          
+            2
+          
+        
+        +
+        tan
+        ⁡
+        
+          θ
+          
+            0
+          
+        
+        x
+        +
+        
+          y
+          
+            0
+          
+        
+      
+    
+    {\displaystyle y=-{\frac {g}{2v_{0}^{2}\cos ^{2}{\theta _{0}}}}x^{2}+\tan \theta _{0}x+y_{0}}
+  
+
+que tiene la forma general
+
+  
+    
+      
+         
+        y
+        =
+        a
+        
+          
+            x
+            
+              2
+            
+          
+        
+        +
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle \ y=a{x^{2}}+bx+c}
+  
+
+y representa una parábola en el plano y(x). En la figura 4 se muestra esta representación, pero en ella se ha considerado 
+  
+    
+      
+         
+        
+          y
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \ y_{0}=0}
+   (no así en la animación respectiva). En esa figura también se observa que la altura máxima en la trayectoria parabólica se producirá en H, cuando la componente vertical de la velocidad 
+  
+    
+      
+         
+        
+          v
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \ v_{y}}
+   sea nula (máximo de la parábola); y que el alcance horizontal 
+  
+    
+      
+         
+        x
+      
+    
+    {\displaystyle \ x}
+   ocurrirá cuando el cuerpo retorne al suelo, en 
+  
+    
+      
+         
+        y
+        =
+        0
+      
+    
+    {\displaystyle \ y=0}
+   (donde la parábola corta al eje 
+  
+    
+      
+         
+        x
+      
+    
+    {\displaystyle \ x}
+  ).
+
+
+=== Movimiento circular ===
+
+El movimiento circular en la práctica es un tipo muy común de movimiento: Lo experimentan, por ejemplo, las partículas de un disco que gira sobre su eje, las de una noria, las de las agujas de un reloj, las de las paletas de un ventilador, etc. Para el caso de un disco en rotación alrededor de un eje fijo, cualquiera de sus puntos describe trayectorias circulares, realizando un cierto número de vueltas durante determinado intervalo de tiempo. Para la descripción de este movimiento resulta conveniente referirse ángulos recorridos; ya que estos últimos son idénticos para todos los puntos del disco (referido a un mismo centro). La longitud del arco recorrido por un punto del disco depende de su posición y es igual al producto del ángulo recorrido por su distancia al eje o centro de giro. La velocidad angular (ω) se define como el desplazamiento angular respecto del tiempo, y se representa mediante un vector perpendicular al plano de rotación; su dirección se determina aplicando la «regla de la mano derecha» o del sacacorchos. La aceleración angular (α) resulta ser variación de velocidad angular respecto del tiempo, y se representa por un vector análogo al de la velocidad angular, pero puede o no tener la misma dirección (según acelere o retarde).
+La velocidad (v) de una partícula es una magnitud vectorial cuyo módulo expresa la longitud del arco recorrido (espacio) por unidad de tiempo tiempo; dicho módulo también se denomina rapidez o celeridad. Se representa mediante un vector cuya dirección es tangente a la trayectoria circular y coincide con el del movimiento.
+La aceleración (a) de una partícula es una magnitud vectorial que indica la rapidez con que cambia la velocidad respecto del tiempo; esto es, el cambio del vector velocidad por unidad de tiempo. La aceleración tiene generalmente dos componentes: la aceleración tangencial a la trayectoria y la aceleración normal a ésta. La aceleración tangencial es la que causa la variación del módulo de la velocidad (celeridad) respecto del tiempo, mientras que la aceleración normal es la responsable del cambio de dirección de la velocidad. Los módulos de ambas componentes de la aceleración dependen de la distancia a la que se encuentre la partícula respecto del eje de giro.
+
+
+==== Movimiento circular uniforme ====
+
+Se caracteriza por tener una velocidad variable o estructural constante por lo que la aceleración angular es nula. La velocidad lineal de la partícula no varía en módulo, pero sí en dirección. La aceleración tangencial es nula; pero existe aceleración centrípeta (la aceleración normal), que es causante del cambio de dirección.
+Matemáticamente, la velocidad angular se expresa como:
+
+  
+    
+      
+         
+        ω
+        =
+        
+          ω
+          
+            0
+          
+        
+        =
+        
+          const.
+        
+        ,
+        
+        ω
+        =
+        
+          
+            
+              Δ
+              φ
+            
+            
+              Δ
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \ \omega =\omega _{0}={\text{const.}},\qquad \omega ={\frac {\Delta \varphi }{\Delta t}}}
+  
+
+donde 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   es la velocidad angular (constante), 
+  
+    
+      
+         
+        Δ
+        φ
+      
+    
+    {\displaystyle \ \Delta \varphi }
+   es la variación del ángulo barrido por la partícula y 
+  
+    
+      
+         
+        Δ
+        t
+      
+    
+    {\displaystyle \ \Delta t}
+   es la variación del tiempo. El ángulo recorrido en un intervalo de tiempo es:
+
+  
+    
+      
+         
+        φ
+        =
+        
+          φ
+          
+            0
+          
+        
+        +
+        ω
+        t
+      
+    
+    {\displaystyle \ \varphi =\varphi _{0}+\omega t}
+  
+
+
+==== Movimiento circular uniformemente acelerado ====
+
+En este movimiento, la velocidad angular varía linealmente respecto del tiempo, por estar sometido el móvil a una aceleración angular constante. Las ecuaciones de movimiento son análogas a las del rectilíneo uniformemente acelerado, pero usando ángulos en vez de distancias:
+
+  
+    
+      
+         
+        α
+        =
+        
+          α
+          
+            0
+          
+        
+        =
+        
+          const.
+        
+      
+    
+    {\displaystyle \ \alpha =\alpha _{0}={\text{const.}}}
+  
+
+  
+    
+      
+         
+        ω
+        =
+        
+          ω
+          
+            0
+          
+        
+        +
+        α
+        t
+      
+    
+    {\displaystyle \ \omega =\omega _{0}+\alpha t}
+  
+
+  
+    
+      
+         
+        φ
+        =
+        
+          φ
+          
+            0
+          
+        
+        +
+        
+          ω
+          
+            0
+          
+        
+        t
+        +
+        
+          
+            1
+            2
+          
+        
+        α
+        
+          t
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ \varphi =\varphi _{0}+\omega _{0}t+{\frac {1}{2}}\alpha t^{2}}
+  
+
+siendo 
+  
+    
+      
+        α
+        
+      
+    
+    {\displaystyle \alpha \,}
+   la aceleración angular constante.
+
+
+=== Movimiento armónico complejo ===
+
+Es un tipo de movimiento bidimensional o tridimensional que puede construir como combinación de movimientos armónicos simples en direcciones diferentes. Cuando una estructura se ve sometida a vibraciones, el movimiento de un punto material concreto frecuentemente puede modelizarse por un movimiento armónico complejo si la amplitud del movimiento es pequeña.
+El movimiento armónico complejo es interesante porque usualmente no es un movimiento periódico sino un movimiento cuasiperiódico que nunca se repite exactamente igual, aunque ejecuta casi ciclos sin repetirse exactamente. La forma vectorial de un punto que ejecuta este movimiento resulta ser:
+
+  
+    
+      
+        
+          r
+        
+        (
+        t
+        )
+        =
+        
+          A
+          
+            x
+          
+        
+        cos
+        ⁡
+        (
+        
+          ω
+          
+            x
+          
+        
+        t
+        +
+        
+          ϕ
+          
+            x
+          
+        
+        )
+        
+          i
+        
+        +
+        
+          A
+          
+            y
+          
+        
+        cos
+        ⁡
+        (
+        
+          ω
+          
+            y
+          
+        
+        t
+        +
+        
+          ϕ
+          
+            y
+          
+        
+        )
+        
+          j
+        
+        +
+        
+          A
+          
+            z
+          
+        
+        cos
+        ⁡
+        (
+        
+          ω
+          
+            z
+          
+        
+        t
+        +
+        
+          ϕ
+          
+            z
+          
+        
+        )
+        
+          k
+        
+      
+    
+    {\displaystyle \mathbf {r} (t)=A_{x}\cos(\omega _{x}t+\phi _{x})\mathbf {i} +A_{y}\cos(\omega _{y}t+\phi _{y})\mathbf {j} +A_{z}\cos(\omega _{z}t+\phi _{z})\mathbf {k} }
+  
+
+donde 
+  
+    
+      
+        
+          A
+          
+            x
+          
+        
+        ,
+        
+          A
+          
+            y
+          
+        
+        ,
+        
+          A
+          
+            z
+          
+        
+      
+    
+    {\displaystyle A_{x},A_{y},A_{z}}
+   son las amplitudes máximas en las tres direcciones del espacio, 
+  
+    
+      
+        
+          ω
+          
+            x
+          
+        
+        ,
+        
+          ω
+          
+            y
+          
+        
+        ,
+        
+          ω
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \omega _{x},\omega _{y},\omega _{z}}
+   son las frecuencias de oscilización y 
+  
+    
+      
+        
+          ϕ
+          
+            x
+          
+        
+        ,
+        
+          ϕ
+          
+            y
+          
+        
+        ,
+        
+          ϕ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \phi _{x},\phi _{y},\phi _{z}}
+   las fases iniciales (las condiciones iniciales permiten calcular tanto las amplitudes como las fases). Las frecuencias dependen de las características del sistema (masa, rigidez, etc.).
+El movimiento circular uniforme de hecho es un caso de movimiento armónico complejo en el que las amplitudes en dos direcciones son iguales al radio del círculo 
+  
+    
+      
+        (
+        
+          A
+          
+            x
+          
+        
+        =
+        
+          A
+          
+            y
+          
+        
+        =
+        R
+        ,
+        
+          A
+          
+            z
+          
+        
+        =
+        0
+        )
+      
+    
+    {\displaystyle (A_{x}=A_{y}=R,A_{z}=0)}
+  , las frecuencias en las dos direcciones coinciden 
+  
+    
+      
+        (
+        
+          ω
+          
+            x
+          
+        
+        =
+        
+          ω
+          
+            y
+          
+        
+        =
+        ω
+        )
+      
+    
+    {\displaystyle (\omega _{x}=\omega _{y}=\omega )}
+   y existe una relación de desfases concreta 
+  
+    
+      
+        (
+        
+          ϕ
+          
+            x
+          
+        
+        =
+        
+          ϕ
+          
+            y
+          
+        
+        ±
+        π
+        
+          /
+        
+        2
+        )
+      
+    
+    {\displaystyle (\phi _{x}=\phi _{y}\pm \pi /2)}
+  . Si las amplitudes no son iguales o el desfase no es exactamente el indicado, pero las frecuencias sí son iguales, resulta ser el caso de un movimiento elíptico, cuya trayectoria describe una elipse.
+
+
+=== Movimiento de sólido rígido ===
+
+Todos los movimientos descritos anteriormente se refieren a puntos materiales concretos, o corpúsculos, es decir cuerpos físicos cuyas dimensiones pequeñas respecto al tamaño de la trayectoria por lo que pueden aproximarse por puntos materiales. Sin embargo, los cuerpos físicos macroscópicos no son puntuales, en muchas situaciones el movimiento del cuerpo como un todo, requiere una descripción más compleja que la de asumir que todos sus puntos siguen una trayectoria mucho mayor que las distancias entre puntos del cuerpo, por lo que la descripción del cuerpo como punto material es inadecuada y la cinemática del punto material es demasiado simple para describir adecuadamente la cinemática del cuerpo. En esos casos debe emplearse la cinemática del sólido rígido, en la que la «trayectoria» del cuerpo se da un espacio más complejo o rico que el simple espacio euclídeo tridimensional, ya que se requiere definir no sólo el desplazamiento del cuerpo a través de dicho espacio, sino especificar los cambios de orientación del cuerpo en su movimiento, mediante movimientos de rotación.
+
+
+== Formulación matemática con el cálculo diferencial ==
+La velocidad es la derivada temporal del vector de posición y la aceleración es la derivada temporal de la velocidad:
+
+  
+    
+      
+        
+          v
+        
+        =
+        
+          
+            
+              d
+              
+                x
+              
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            x
+          
+          (
+          t
+          )
+        
+        
+          d
+          
+            t
+            
+              2
+            
+          
+        
+        =
+        
+          
+            
+              v
+              ˙
+            
+          
+        
+        =
+        
+          
+            
+              x
+              ¨
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {v} ={\frac {d\mathbf {x} (t)}{dt}}=\mathbf {\mathbf {x} (t)} {dt^{2}}=\mathbf {\dot {v}} =\mathbf {\ddot {x}} }
+  
+
+o bien sus expresiones integrales:
+
+  
+    
+      
+        
+          v
+        
+        (
+        t
+        )
+        =
+        
+          
+            v
+          
+          
+            0
+          
+        
+        +
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        
+          a
+        
+        (
+        t
+        )
+        d
+        t
+        ,
+        
+        
+          
+            x
+          
+          
+            0
+          
+        
+        +
+        
+          
+            v
+          
+          
+            0
+          
+        
+        t
+        +
+        
+          ∫
+          
+            0
+          
+          
+            t
+          
+        
+        (
+        t
+        −
+        τ
+        )
+        
+          a
+        
+        (
+        τ
+        )
+        d
+        τ
+      
+    
+    {\displaystyle \mathbf {v} (t)=\mathbf {v} _{0}+\int _{0}^{t}\mathbf {a} (t)dt,\qquad \mathbf {x} _{0}+\mathbf {v} _{0}t+\int _{0}^{t}(t-\tau )\mathbf {a} (\tau )d\tau }
+  
+
+donde 
+  
+    
+      
+        
+          
+            x
+          
+          
+            0
+          
+        
+        ,
+        
+          
+            v
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \mathbf {x} _{0},\mathbf {v} _{0}}
+   son las condiciones iniciales.
+
+
+== Movimiento sobre la Tierra ==
+Al observar el movimiento sobre la Tierra de cuerpos tales como masas de aire en meteorología o de proyectiles, se encuentran unas desviaciones provocadas por el llamado Efecto Coriolis. Ellas son usadas para probar que la Tierra está rotando sobre su eje. Desde el punto de vista cinemático es interesante explicar lo que ocurre al considerar la trayectoria observada desde un sistema de referencia que está en rotación, la Tierra.
+Supongamos que un cañón situado en el ecuador lanza un proyectil hacia el norte a lo largo de un meridiano. Un observador situado al norte sobre el meridiano observa que el proyectil cae al este de lo predicho, desviándose a la derecha de la trayectoria. De forma análoga, si el proyectil se hubiera disparado a lo largo del meridiano hacia el sur, el proyectil también se habría desviado hacia el este, en este caso hacia la izquierda de la trayectoria seguida. La explicación de esta «desviación», provocada por el Efecto Coriolis, es debida a la rotación de la Tierra. El proyectil tiene una velocidad con tres componentes: las dos que afectan al tiro parabólico, hacia el norte (o el sur) y hacia arriba, respectivamente, más una tercera componente perpendicular a las anteriores debida a que el proyectil, antes de salir del cañón, tiene una velocidad igual a la velocidad de rotación de la Tierra en el ecuador. Esta última componente de velocidad es la causante de la desviación observada pues si bien la velocidad angular de rotación de la Tierra es constante sobre toda su superficie, no lo es la velocidad lineal de rotación, la cual es máxima en el ecuador y nula en el centro de los polos. Así, el proyectil conforme avanza hacia el norte (o el sur), se mueve más rápido hacia el este que la superficie de la Tierra, por lo que se observa la desviación mencionada. Lógicamente, si la Tierra no estuviese rotando sobre sí misma, no se daría esta desviación.
+Otro caso interesante de movimiento sobre la Tierra es el del péndulo de Foucault. El plano de oscilación del péndulo no permanece fijo, sino que lo observamos girar, girando en sentido horario en el hemisferio norte y en sentido antihorario en el hemisferio sur. Si el péndulo se pone a oscilar en el ecuador, el plano de oscilación no cambia. En cambio, en los polos, el giro del plano de oscilación toma un día. Para latitudes intermedias toma valores mayores, dependiendo de la latitud. La explicación de tal giro se basa en los mismos principios hechos anteriormente para el proyectil de artillería.
+
+
+== Cinemática relativista ==
+
+En la relatividad, lo que es absoluto es la velocidad de la luz en el vacío, no el espacio o el tiempo. Todo observador en un sistema de referencia inercial, no importa su velocidad relativa, va a medir la misma velocidad para la luz que otro observador en otro sistema. Esto no es posible desde el punto de vista clásico. Las transformaciones de movimiento entre dos sistemas de referencia deben tener en cuenta este hecho, de lo que surgieron las transformaciones de Lorentz. En ellas se ve que las dimensiones espaciales y el tiempo están relacionadas, por lo que en relatividad es normal hablar del espacio-tiempo y de un espacio cuatridimensional.
+Hay muchas evidencias experimentales de los efectos relativistas. Por ejemplo, el tiempo medido en un laboratorio para la desintegración de una partícula que ha sido generada con una velocidad próxima a la de la luz es superior al de desintegración medido cuando la partícula se genera en reposo respecto al laboratorio. Esto se explica por la dilatación temporal relativista que ocurre en el primer caso.
+La Cinemática es un caso especial de geometría diferencial de curvas, en el que todas las curvas se parametrizan de la misma forma: con el tiempo. Para el caso relativista, el tiempo coordenado es una medida relativa para cada observador, por tanto se requiere el uso de algún tipo de medida invariante como el intervalo relativista o equivalentemente para partículas con masa el tiempo propio. La relación entre el tiempo coordenado de un observador y el tiempo propio viene dado por el factor de Lorentz.[4]​
+
+
+== Véase también ==
+Dinámica
+Dinámica de sistemas
+Mecánica
+Teoría de la relatividad especial
+Cinemática del sólido rígido
+Cinemática inversa
+
+
+== Referencias ==
+
+
+=== Bibliografía ===
+Marcelo Alonso, Edward J. Finn (1976). Física. Fondo Educativo Interamericano. ISBN 84-03-20234-2. 
+Richard Feynman (1974). Feynman lectures on Physics Volume 2 (en inglés). Addison Wesley Longman. ISBN 0-201-02115-3. 
+Robert Resnick, David Halliday (2004). Física 4ta. Edición Vol. 1. CECSA, México. ISBN 970-24-0257-3. 
+
+
+== Enlaces externos ==
+ Wikiversidad alberga proyectos de aprendizaje sobre Cinemática.
+ Wikilibros alberga un libro o manual sobre Cinemática.
+ Wikimedia Commons alberga una categoría multimedia sobre Cinemática.
+ Wikcionario  tiene definiciones y otra información sobre Cinemática.
+Física por ordenador
+Ejercicios Resueltos de Cinemática

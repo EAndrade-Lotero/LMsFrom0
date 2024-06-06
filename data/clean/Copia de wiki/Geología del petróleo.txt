@@ -1,0 +1,36 @@
+La geología del petróleo es la rama de la geología que estudia todos los aspectos relacionados con la formación de yacimientos petrolíferos y su prospección. Entre sus objetivos están la localización de posibles yacimientos, caracterizar su geometría espacial y la estimación de sus reservas potenciales.
+En la geología del petróleo se combinan diversos métodos o técnicas exploratorias para seleccionar las mejores oportunidades o plays para encontrar hidrocarburos (petróleo y gas natural).
+El desarrollo de la geología del petróleo tuvo lugar principalmente entre las décadas de los años 1970 y 1980, cuando las empresas del petróleo crearon grandes departamentos de geología y destinaron importantes recursos a la exploración. Los geólogos de esta industria aportaron a su vez nuevos avances a la Geología, desarrollando, por ejemplo, nuevos tipos de análisis estratigráfico (estratigrafía secuencial, microfacies, quimioestratigrafía, etcétera) y geofísicos.
+
+
+== Exploración previa a la perforación ==
+La secuencia exploratoria se inicia con el estudio de la información disponible del área que comprende: 
+La información geológica de las formaciones y estructuras presentes, la paleontología, la paleoecología, el estudio de mapas geológicos y geomorfológicos, estudio de los métodos geofísicos que se hayan empleado en el área como métodos potenciales (gravimetría, magnetometría, sondeos eléctricos o magneto telúricos), sismografía y los resultados de las perforaciones exploratorias realizadas en el área que incluyen los estudios accesorios a estas.
+En los estudios de la información geológica del área se observa el potencial de las rocas presentes en la zona del estudio para producir, almacenar y servir de trampas a los hidrocarburos. Las rocas productoras son rocas que contienen material orgánico atrapado y que ha producido hidrocarburos por procesos de alta temperatura y presión dentro de la tierra. 
+En la geología del petróleo se busca que las rocas almacenadoras tengan buena porosidad y permeabilidad para permitir la acumulación y flujo de los fluidos y gases. Las rocas sello que sirven de trampas tienen la particularidad de ser impermeables y sirven para evitar el paso de los hidrocarburos a otras formaciones.
+Las estructuras ideales para la acumulación del petróleo son los llamados anticlinales, aunque es común encontrar acumulaciones en otro tipo de estructuras como fallas geológicas y en zonas relativamente planas en depósitos estratigráficos con estructuras muy leves. 
+Los métodos geofísicos son una herramienta muy importante en la geología del petróleo pues nos permiten, sin tener que ingresar dentro de la tierra, conocer las propiedades físicas del subsuelo.
+
+
+== Exploración durante la perforación ==
+Durante la perforación de los pozos se suele adquirir información acerca de las características litológicas (porosidad y permeabilidad) de las formaciones que se van atravesando.
+
+
+=== Métodos directos ===
+Esto se puede hacer de forma directa mediante la toma de testigos o núcleos (cores), que son las muestras de roca extraída dentro de la tubería de perforación, en las cuales se pueden realizar medidas directas de las características petrofísicas de la formación.
+
+
+=== Métodos indirectos ===
+Existen, además, métodos indirectos que nos pueden llevar a inferir las características de las formaciones, entre estos métodos se encuentran los registros eléctricos y las pruebas de formación.
+Los registros eléctricos como, por ejemplo, el potencial espontáneo (SP), la resistividad y los registros radioactivos como: rayos gamma, neutrón o densidad proporcionan estimaciones indirectas de la calidad de roca, porosidad y saturación de fluidos (agua, petróleo o gas).
+En cuanto a las pruebas de formación, éstas son útiles para estimar parámetros tales como presión de la formación, permeabilidad, daño de la formación. Estos son útiles para definir la productividad de un pozo.
+
+
+== Véase también ==
+Trampa petrolífera
+
+
+== Enlaces externos ==
+Oil On My Shoes -- Ciencia y práctica de la geología del petróleo  (en inglés)
+Instituto Mexicano del Petróleo
+Página venezolana con información sobre exploración petrolífera

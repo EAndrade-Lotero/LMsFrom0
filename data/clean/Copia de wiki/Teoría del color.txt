@@ -1,0 +1,131 @@
+En el arte de la pintura, el diseño gráfico, la fotografía, la imprenta y en la televisión, la teoría del color es un grupo de reglas básicas en la mezcla de colores para lograr el efecto deseado combinando colores de luz o pigmento. La luz blanca se puede producir combinando el rojo, el verde y el azul, mientras que combinando pigmentos cian, magenta y amarillo se produce el color negro.
+
+
+== Modelos de color ==
+En su libro Teoría de los colores, el poeta y científico alemán Johann Wolfgang von Goethe propuso un círculo de color simétrico, el cual comprende el establecido por el matemático y físico inglés Isaac Newton y los espectros complementarios. En contraste, el círculo de color de Newton, con ocho ángulos de color desiguales y subtendidos, no exponía la simetría y la complementariedad que Goethe consideró como característica esencial del color. Para Newton, solo los colores espectrales podían considerarse como fundamentales. El enfoque más empírico de Goethe le permitió admitir el papel esencial del color magenta, que no es espectral, en un círculo de color. Posteriormente, los estudios de la percepción del color definieron el estándar CIE 1931, el cual es un modelo perceptual que permite representar colores primarios con precisión y convertirlos a cada modelo de color de forma apropiada.   
+
+
+=== Teoría de Ostwald ===
+La teoría del color es una propuesta por el químico y filósofo alemán Wilhelm Ostwald. Consta de cuatro sensaciones cromáticas elementales (amarillo, rojo, azul y verde) y dos sensaciones acromáticas intermedias.
+
+
+=== Modelo de color RGB ===
+
+Este modelo parte de los "colores primarios de la luz", que son rojo, verde y azul (RGB, iniciales en inglés), se realiza utilizando el sistema de color aditivo, también conocido como el modelo RGB o el espacio de color RGB. Todos los colores posibles que pueden ser creados por la mezcla de estas tres luces de color son aludidos como el espectro de color de estas luces en concreto. Cuando ningún color luz está presente, se percibe el negro. Los colores primarios de luz tienen aplicación en los monitores de un ordenador, televisores, proyectores de vídeo y todos aquellos sistemas que utilizan combinaciones de materiales que emiten luz en el rojo, verde y azul.
+Se debe tener en cuenta que solo con unos colores «primarios» ficticios se pueden llegar a conseguir todos los colores posibles. Estos colores primarios son conceptos idealizados utilizados en modelos de color matemáticos que no representan las sensaciones de color reales o incluso los impulsos nerviosos reales o procesos cerebrales. En otras palabras, todos los colores «primarios» perfectos son completamente imaginarios, lo que implica que todos los colores primarios que se utilizan en las mezclas son incompletos o imperfectos.
+
+
+=== El círculo cromático ===
+El círculo cromático suele presentarse como una rueda dividida en doce partes. Los colores primarios se colocan de modo que uno de ellos esté en la porción superior central y los otros dos en la cuarta porción a partir de esta, de modo que si unimos los tres con unas líneas imaginarias formarían un triángulo equilátero con la base horizontal. Entre dos colores primarios se colocan tres tonos secundarios de modo que en la porción central entre ellos correspondería a una mezcla de cantidades iguales de ambos primarios y el color más cercano a cada primario sería la mezcla del secundario central más el primario adyacente.
+Los círculos cromáticos actuales utilizados por los artistas se basan en el modelo CMYK, si bien los colores primarios utilizados en pintura difieren de las tintas de proceso en imprenta en su intensidad. Los pigmentos utilizados en pintura, tanto en óleo como acrílico y otras técnicas pictóricas suelen ser el azul de ftalocianina (PB15 en notación Color Index) como cian, el magenta de quinacridona (PV19 en notación Color Index) y algún amarillo arilida o bien de cadmio que presente un tono amarillo neutro (existen varios pigmentos válidos o mezclas de ellos utilizables como primarios amarillos). Varias casas poseen juegos de colores primarios recomendados que suelen venderse juntos y reciben nombres especiales en los catálogos, tales como «azul primario» o «rojo primario» junto al «amarillo primario», pese a que ni el azul ni el rojo propiamente dichos son en realidad colores primarios según el modelo CMYK utilizado en la actualidad.
+No obstante, como los propios nombres dados por los fabricantes a sus colores primarios evidencian, existe una tradición todavía anclada en el modelo RYB y que ocasionalmente se encuentra todavía en libros y en cursos orientados a aficionados a la pintura. Pero la enseñanza reglada, tanto en escuelas de arte como en la universidad, y los textos de referencia importantes ya han abandonado tal modelo hace décadas. La prueba la tenemos en los colores orientados a la enseñanza artística de diferentes fabricantes, que sin excepción utilizan un modelo de color basado en CMYK, que además de los tres colores primarios CMYK incluyen negro y blanco como juego básico para el estudiante.
+
+
+=== Los tres colores primarios ===
+Los colores primarios son el rojo, el verde y el azul en la síntesis aditiva del color (RGB), y el cian, el magenta, y el amarillo en la síntesis sustractiva (CMY). Se les considera primarios ya que no se pueden obtener de la combinación de otros colores en sus respectivos modelos de color. Mezclando estos tres colores se pueden conseguir todos los demás en el círculo cromático. Estos se encuentran equidistantes en la rueda del color.
+
+
+==== Los tres colores secundarios ====
+Los colores secundarios son el amarillo, el cian y el magenta en la síntesis aditiva del color, y el rojo, el verde, y el azul en la síntesis sustractiva. Tal como los primarios, estos tres colores equidistan entre sí en el círculo cromático. Se llaman secundarios porque nacen de los colores primarios: en el modelo aditivo, el amarillo procede del rojo y el verde; el cian, del verde y el azul; y el magenta, del rojo y el azul. En el modelo sustractivo, el rojo procede del amarillo y el magenta; el verde, del amarillo y el cian; y el azul, del cian y el magenta.
+
+
+===== Colores terciarios =====
+Se llama terciarios a los colores de la tercera generación. Cada uno se obtiene combinando un color primario con uno secundario. Estos seis colores son los mismos tanto en el modelo RGB como en el modelo CMY: naranja, verde-amarillo (también llamado lima o chartreuse), verde-cian, cian-azul (también llamado azur o cerúleo), violeta, y fucsia. Nótese que, en algunos casos, estos colores reciben el nombre de los colores a partir de los cuales puede ser formado.
+
+
+====== Colores análogos ======
+Se llaman colores análogos los que están contiguos en la rueda del color, como el rojo, el naranja, y el amarillo. Son naturalmente armoniosos, porque reflejan ondas de luz que son similares. Normalmente se limitan a tres, por ejemplo, verde, verde-cian y cian.
+Los colores análogos se consideran pequeños sectores de la rueda del color, tres, cuatro, o máximo 5 colores de la rueda.
+
+
+====== Colores complementarios ======
+Se llaman complementos o complementarios a los pares de colores que están opuestos en la rueda del color, lo que significa que combinándose se obtiene, teóricamente, gris. Cualquier par de complementarios contiene el trio complemento de primarios.
+Una forma básica de recordar cuáles son los complementarios de cada color, es viendo de qué manera estos se forman, por ejemplo, el verde se forma con amarillo y cian en el modelo CMY, por lo que, el único color primario que queda fuera es el magenta, siendo este su color complementario.
+
+
+== Atributos del color ==
+Todos los matices o colores que percibimos poseen tres atributos básicos:
+
+Matiz.— También llamado por algunos croma, o tono, es el color en sí mismo, es el atributo que nos permite diferenciar a un color de otro, por lo que podemos designar cuando un matiz es verde, violeta o naranja.
+Luminosidad o valor.— Es la intensidad lumínica de un color (claridad/oscuridad). Es la mayor o menor cercanía al blanco o al negro de un color determinado. A menudo damos el nombre de rojo claro a aquel matiz de rojo cercano al blanco, o de rojo oscuro cuando el rojo se acerca al negro.
+Saturación.— es, básicamente, pureza de un color, la concentración de gris que contiene un color en un momento determinado. Cuanto más alto es el porcentaje de gris presente en un color, menor será la saturación o pureza de este y por ende se verá como si el color estuviera «sucio» u opaco; en cambio, cuando un color se nos presenta lo más puro posible (con la menor cantidad de gris presente) mayor será su saturación. En caso de que se mezclen los colores opuestos en el círculo cromático se obtienen grises opuestos a la saturación, a lo que se le llama neutralización.El grado en que uno o dos de los tres colores primarios RGB (esta clasificación es referente a los colores básicos en la composición luminosa de una pantalla informática R=Red, G=Green, B=Blue, con los que se componen por medio de adición lumínica, distinta a la clasificación de los colores básicos o primarios de la pintura, en la que se mezclan por adición de pigmentos matéricos o físicos) predominan en un color. A medida que las cantidades de RGB se igualan, el color va perdiendo saturación hasta convertirse en gris o blanco.
+
+
+=== Teorías del uso del color ===
+Las teorías modernas del uso del color determinan que sus propiedades son dos: matiz y luminosidad
+El matiz tiene que ver con el tipo de color: tierra siena tostada, verde, negro marfil, blanco titanio, rosa, etc.
+La luminosidad es la cantidad de luz que cada color tiene y es posible de ser diferenciada en oposición a otros colores, por ejemplo, un amarillo es más claro que un azul o un verde más claro que un marrón.
+La saturación bien entendida tiene que ver con la cantidad de materia que se aplica sobre una superficie, por ende saturar significa colmar una superficie con pigmento. El agregado de gris a los colores como forma de saturar, no hace otra cosa que obtener un nuevo color producto de la mezcla. Puede probarse por experimentación. Por ende un color, inclusive al que se le agregara gris, puede saturar una superficie con mayor o menor efectividad dependiendo de la técnica utilizada y de la calidad de los materiales con los que se ha fabricado. Por ejemplo, la técnica de acuarela tiene menor capacidad para saturar que la del acrílico.
+
+
+== Armonías de color ==
+Los colores armónicos son aquellos que funcionan bien juntos, es decir, que producen un esquema de color sensible al mismo sentido (la armonía nace de la percepción de los sentidos y, a la vez, esta armonía retroalimenta al sentido, haciéndolo lograr el máximo equilibrio que es hacer sentir al sentido). El círculo cromático es una herramienta útil para determinar armonías de color. Los colores complementarios son aquellos que se contraponen en dicho círculo y que producen un fuerte contraste. Así, por ejemplo, en el modelo RGB el verde es complementario del rojo, mientras que en el modelo CMY el verde es el complementario del magenta.
+
+
+== Espacios de colores ==
+Un espacio de color define un modelo de composición del color. Por lo general un espacio de color lo define una base de N vectores (por ejemplo, el espacio RGB lo forman 3 vectores: rojo, verde y azul), cuya combinación lineal genera todo el espacio de color. Los espacios de color más generales intentan englobar la mayor cantidad posible de los colores visibles por el ojo humano, aunque existen espacios de color que intentan aislar tan solo un subconjunto de ellos.
+Existen espacios de color de:
+
+Una dimensión: escala de grises, escala Jet, etc.
+Dos dimensiones: subespacio rg, subespacio xy, etc.
+Tres dimensiones: espacio RGB, HSV, YCbCr, YUV, YI'Q', etc.
+Cuatro dimensiones: espacio CMYK.De los cuales, los espacios de color de tres dimensiones son los más extendidos y los más utilizados. Entonces, un color se especifica usando tres coordenadas, o atributos, que representan su posición dentro de un espacio de color específico. Estas coordenadas no nos dicen cuál es el color, sino que muestran dónde se encuentra un color dentro de un espacio de color en particular.
+
+
+=== Espacio RGB ===
+
+RGB es conocido como un espacio de color aditivo (colores primarios) porque cuando la luz de dos diferentes frecuencias viaja junta, desde el punto de vista del observador, estos colores son sumados para crear nuevos tipos de colores. Los colores rojo, verde y azul fueron escogidos porque cada uno corresponde aproximadamente con uno de los tres tipos de conos sensitivos al color en el ojo humano (65 % sensibles al rojo, 33 % sensibles al verde y 2 % sensibles al azul). Con la combinación apropiada de rojo, verde y azul se pueden reproducir muchos de los colores que pueden percibir los humanos. Por ejemplo, rojo puro y verde claro producen amarillo, rojo y azul producen magenta, verde y azul combinados crean cian y los tres juntos mezclados a máxima intensidad, generan el blanco intenso.
+Existe también el espacio derivado RGBA, que añade el canal alfa (de transparencia) al espacio RGB original.
+
+
+=== Espacio CMYK ===
+
+CMY trabaja mediante la absorción de la luz (colores secundarios). 
+Los colores que se ven son la parte de luz que no es absorbida. En CMY, magenta más amarillo producen rojo, magenta más cian producen azul, cian más amarillo generan verde y la combinación de cian, magenta y amarillo forman negro.
+El negro generado por la mezcla de colores primarios sustractivos no es tan denso como el color negro puro (uno que absorbe todo el espectro visible). Es por esto que al CMY original se ha añadido un canal clave (key), que normalmente es el canal negro (black), para formar el espacio CMYK o CMYB. Actualmente las impresoras de cuatro colores utilizan un cartucho negro además de los colores primarios de este espacio, lo cual genera un mejor contraste. Sin embargo el color que una persona ve en una pantalla de computador difiere del mismo color en una impresora, debido a que los modelos RGB y CMY son distintos. El color en RGB está hecho por la reflexión o emisión de luz, mientras que el CMY, mediante la absorción de ésta.
+
+
+=== Espacio YIQ ===
+Fue una recodificación de color realizada para la norma de televisión cromática estadounidense NTSC, que debía ser compatible con la televisión en blanco y negro. Los nombres de los componentes de este modelo son Y por luminancia (luminance), I fase (in-phase) y Q cuadratura (quadrature). La primera es la señal monocromática de la televisión en blanco y negro y las dos últimas generan el tinte y saturación del color. Los parámetros I y Q son nombrados en relación con el método de modulación utilizado para codificar la señal portadora. Los valores de las señales RGB son sumados para producir una única señal Y’ que representa la iluminación o brillo general de un punto en particular. La señal I es creada al restar el Y' de la señal azul de los valores RGB originales y luego el Q se realiza restando la señal Y' del rojo.
+
+
+=== Espacio HSV ===
+
+Es un espacio cilíndrico, pero normalmente asociado a un cono o cono hexagonal, debido a que es un subconjunto visible del espacio original con valores válidos de RGB.
+
+Matiz (Hue): se refiere a la frecuencia dominante del color dentro del espectro visible. Es la percepción de un tipo de color, normalmente la que uno distingue en un arcoíris, es decir, es la sensación humana de acuerdo a la cual un área parece similar a otra o cuando existe un tipo de longitud de onda dominante. Incrementa su valor mientras nos movemos de forma antihoraria en el cono, con el rojo en el ángulo 0.
+Saturación (Saturation): se refiere a la cantidad del color o a la «pureza» de éste. Va de un color «claro» a un color más vivo (azul cielo – azul oscuro). También se puede considerar como la mezcla de un color con blanco o gris.
+Valor (Value): es la intensidad de luz de un color. Dicho de otra manera, es la cantidad de blanco o de negro que posee un color.
+
+
+==== Modelo de color RYB ====
+
+En el modelo de color RYB, el rojo, el amarillo y el azul se consideran colores primarios, y en teoría, el resto de colores puros (color materia) puede ser creados mezclando pintura roja, amarilla y azul. A pesar de su obsolescencia e imprecisión, mucha gente aprende algo sobre este modelo en los estudios de educación primaria, mezclando pintura o lápices de colores con estos colores primarios.
+El modelo RYB es aún utilizado en general en conceptos de arte y pintura tradicionales, pero ha sido totalmente dejado de lado en la mezcla industrial de pigmentos de pintura. Aun siendo usado como guía para la mezcla de pigmentos, el modelo RYB no representa con precisión los colores que resultan de mezclar los tres colores RYB primarios, puesto que el azul y el rojo son tonalidades verdaderamente secundarias. A pesar de la imprecisión de este modelo –su corrección es el  modelo CMYK–, se sigue utilizando en las artes visuales, el diseño gráfico y otras disciplinas afines, por tradición del modelo original de Goethe de 1810.
+
+
+== Percepción del color ==
+En la retina del ojo existen millones de células especializadas en detectar las longitudes de onda procedentes de nuestro entorno. Estas células fotorreceptoras, conos y los bastones, recogen parte del espectro de la luz y, gracias al efecto fotoeléctrico, lo transforman en impulsos eléctricos, que son enviados al cerebro a través de los nervios ópticos, para crear la sensación del color.
+Existen grupos de conos especializados en detectar y procesar un color determinado, siendo diferente el total de ellos dedicados a un color y a otro. Por ejemplo, existen más células especializadas en trabajar con las longitudes de onda correspondientes al rojo que a ningún otro color, por lo que cuando el entorno en que nos encontramos nos envía demasiado rojo se produce una saturación de información en el cerebro de este color. 
+Cuando el sistema de conos y bastones de una persona no es el correcto se pueden producir una serie de irregularidades en la apreciación del color, al igual que cuando las partes del cerebro encargadas de procesar estos datos están dañadas. Esta es la explicación de fenómenos como el daltonismo. Una persona daltónica no aprecia las gamas de colores en su justa medida, confundiendo los rojos con los verdes. 
+Debido a que el proceso de identificación de colores depende del cerebro y del sistema ocular de cada persona en concreto, podemos medir con toda exactitud el espectro de un color determinado, pero el concepto del color producido es totalmente subjetivo, dependiendo de la persona en sí. Dos personas diferentes pueden interpretar un color dado de forma diferente, y puede haber tantas interpretaciones de un color como personas hay. 
+El mecanismo de mezcla y producción de colores producido por la reflexión de la luz sobre un cuerpo no es el mismo al de la obtención de colores por mezcla directa de rayos de luz.
+
+
+== Véase también ==
+Teoría de los colores de Goethe
+Teoría del color de Mayer
+Síntesis aditiva de color
+Síntesis sustractiva de color
+Ley del contraste simultáneo de los colores
+Photoisomerization (en inglés)
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Teoría del color: Guía básica del color actualizada. Lorena Duarte
+Consideraciones generales de la teoría cromática, Matías Echenique
+Colores en los pigmentos y en la Luz Archivado el 28 de junio de 2021 en Wayback Machine., Alejandra León Castellá
+La luz y sus propiedades: el Color de Educaplus.org
