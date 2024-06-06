@@ -8,9 +8,9 @@ from  typing import Dict, Optional
 from prettytable import PrettyTable
 from torch.utils.data import DataLoader
 
-from utils import LMDataset
-from utils import Vectorizer
-from networks import FFN, ZeroLayerTransformer
+from utils.utils import LMDataset
+from utils.utils import Vectorizer
+from lms.networks import FFN, ZeroLayerTransformer
 
 
 class FFNLM :

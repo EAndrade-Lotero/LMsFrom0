@@ -1,4 +1,4 @@
-from utils import Vectorizer
+from utils.utils import Vectorizer
 
 texto = ['Qué linda que está la luna, colgada como una fruta.', 'Si se llegara a caer, que golpe tan tenaz.']
 vec = Vectorizer(texto)

@@ -5,7 +5,7 @@ import numpy as np
 import stanza
 import re
 from copy import deepcopy
-from models import FFNLM
+from lms.models import FFNLM
 import torch
 
 DIRECTORIO_CLOZE_MEMORIA = Path("..").resolve() / Path("data", "cloze", "memoria")

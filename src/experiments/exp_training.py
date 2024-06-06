@@ -1,8 +1,8 @@
-from utils import LMDataset
+from utils.utils import LMDataset
 import torch
 from torch.utils.data import DataLoader
-from utils import Vectorizer
-from models import FFNLM, ZLT
+from utils.utils import Vectorizer
+from lms.models import FFNLM, ZLT
 from pathlib import Path
 import pandas as pd
 import os
@@ -108,7 +108,7 @@ def test_training():
     parameters = {"learning_rate":1e-4,
                 "window_length":window_length,
                 "batch_size":batch_size,
-                "num_epochs":10
+                "num_epochs":5
     }
     print(lm.FFN.device)
     lm.summary()

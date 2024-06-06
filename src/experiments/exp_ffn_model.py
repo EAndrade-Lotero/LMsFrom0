@@ -1,5 +1,5 @@
-from utils import Vectorizer
-from models import FFNLM
+from utils.utils import Vectorizer
+from lms.models import FFNLM
 
 def test_probability():
     texto = ['Ana Beto Carlos David']

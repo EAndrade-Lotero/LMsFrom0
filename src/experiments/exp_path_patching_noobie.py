@@ -1,8 +1,8 @@
-from utils import LMDataset
+from utils.utils import LMDataset
 import torch
 from torch.utils.data import DataLoader
-from utils import Vectorizer
-from models import FFNLM
+from utils.utils import Vectorizer
+from lms.models import FFNLM
 
 def test_perplexity():
     texto = ['Ana Beto Carlos Ana Beto David']

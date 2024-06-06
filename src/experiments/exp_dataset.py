@@ -1,4 +1,4 @@
-from utils import LMDataset
+from utils.utils import LMDataset
 import torch
 from torch.utils.data import DataLoader
 
