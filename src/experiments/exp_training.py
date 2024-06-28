@@ -109,7 +109,7 @@ def test_training():
     parameters = {"learning_rate":1e-4,
                 "window_length":window_length,
                 "batch_size":batch_size,
-                "num_epochs":5
+                "num_epochs":500
     }
     print(lm.model.device)
     lm.summary()
