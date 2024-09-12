@@ -1,4 +1,7 @@
+import torch
+
 from utils.utils import Vectorizer
+
 
 texto = ['Qué linda que está la luna, colgada como una fruta.', 'Si se llegara a caer, que golpe tan tenaz.']
 vec = Vectorizer(texto)
@@ -48,3 +51,37 @@ def test_batch():
     de_vuelta = vec.one_hot_to_token(one_hot_batch)
     print('De regreso a tokens:')
     print(de_vuelta)
+
+
+def test_embeddings():
+
+    dim = 4
+    V = 15
+    weight = torch.rand(V, dim)
+    print('Weights:')
+    print(weight)
+    embeddings = torch.nn.Embedding.from_pretrained(weight)
+#    embeddings = torch.nn.Embedding(V, dim, max_norm=True)
+    print(embeddings.weight)
+
+    vec = Vectorizer(
+        texto=texto,
+        embeddings=embeddings
+    )
+
+    palabra = "golpe"
+    emb = vec.token_to_embedding(palabra)
+    print(f'Embedding de {palabra}:\n{emb}')
+
+    oracion = 'qué golpe tan'
+    print(f'Considerando la oración \"{oracion}\"')
+    tokens = vec.get_tokens(oracion)
+    print('tokens:', tokens)
+    embeddings_oracion = vec.tokens_to_code(tokens)
+    print(f'Embeddings de la oración:')
+    print(embeddings_oracion)
+    print(embeddings_oracion.shape)    
+
+
+if __name__ == '__main__':
+    test_embeddings()

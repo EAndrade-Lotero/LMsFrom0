@@ -40,17 +40,37 @@ def test_cross_entropy():
 
 def test_training_simple():
     texto = ['ana beto carlos ana beto daniel ana beto edgar ana beto felipe ana beto gabriela']
+    # texto = ['ana beto carlos']
+    dim = 2
+    V = 4 + len(texto[0].split(' ')) # tokens especiales + tokens del corpus
+    weight = torch.rand(V, dim)
+    embeddings = torch.nn.Embedding.from_pretrained(weight)    
+    vec = Vectorizer(
+        texto=texto,
+        embeddings=embeddings
+    )
+    print('Tokens:', vec.tokens)
     window_length = 2
-    batch_size = 8
-    lm = ZLT(vectorizer=Vectorizer(texto),
-               window_length=window_length)
-    parameters = {"learning_rate":1e-2,
-                "window_length":window_length,
-                "batch_size":batch_size,
-                "num_epochs":1000
+    batch_size = 1
+    # lm = ZLT(vectorizer=Vectorizer(texto),
+    #            window_length=window_length)
+    lm = FFNLM(
+        vectorizer=vec,
+        window_length=window_length,
+        hidden_size=4
+    )
+    lm.summary()
+    w = 'ana'
+    probs = lm.probabilities([[w]])
+    print(f'Probabilidades dado {w}:', probs)
+    parameters = {
+        "learning_rate":1e-2,
+        "window_length":window_length,
+        "batch_size":batch_size,
+        "num_epochs":1000
     }
-    print(lm.FFN.device)
-    lm.train(texto=texto, parametros=parameters)
+    print(lm.model.device)
+    # lm.train(texto=texto, parametros=parameters)
     ds = LMDataset(texto=texto, window_length=window_length, vectorizer=lm.vectorizer)
     ds_loader = DataLoader(ds, batch_size=1, shuffle=False)
     probas = []
@@ -60,11 +80,11 @@ def test_training_simple():
         batch_len = len(ds_features[0])
         ds_features = [[x[i] for x in ds_features] for i in range(batch_len)]
         ds_labels = list(ds_labels)
-        #print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
-        #print(lm.probability(ds_labels, ds_features)) 
-        probas.append(lm.probability(ds_labels, ds_features))
-        df_features.append(ds_features[0])
-        df_labels.append(ds_labels[0])
+        print(f'contexto:{ds_features}; siguiente palabra: {ds_labels}')
+        # print(lm.probability(ds_labels, ds_features)) 
+        # probas.append(lm.probability(ds_labels, ds_features))
+        # df_features.append(ds_features[0])
+        # df_labels.append(ds_labels[0])
 
     data = {'Contexto': df_features, 'SgtePalabra': df_labels, 'Probabilidad': probas}
     probabilities_df = pd.DataFrame(data)
@@ -148,3 +168,7 @@ def test_corpus():
         # Reconfiguramos los targets
         ds_labels = list(ds_labels)
         print(ds_features, ds_labels)
+
+
+if __name__ == '__main__':
+    test_training_simple()

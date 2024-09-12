@@ -25,7 +25,7 @@ class Vectorizer :
     def __init__(
                 self, 
                 texto: Union[str, List[str], None],
-                embeddings=None
+                embeddings: Union[None, torch.nn.Module]=None
             ) -> None:
         #flatten_tokens = self.get_tokens(texto)
         #print(list(set(flatten_tokens)))
@@ -42,7 +42,7 @@ class Vectorizer :
         if self.embeddings is None:
             return self.token_to_index(keys)
         else:
-            return self.token_to_embeddings(keys)
+            return self.token_to_embedding(keys)
 
     def tokens_to_code(
                 self, 
@@ -51,7 +51,7 @@ class Vectorizer :
         if self.embeddings is None:
             return self.tokens_to_one_hot(keys)
         else:
-            return self.tokens_to_embeddings(keys)
+            return self.token_to_embedding(keys)
 
     def __len__(self):
         return len(self.tokens)
@@ -107,7 +107,7 @@ class Vectorizer :
         token_indices = torch.tensor(self.vocabulary(keys))
         return self.embeddings(token_indices)
 
-    def tokens_to_embedding(self, keys:Union[str, list]) -> torch.tensor:
+    def tokens_to_embeddings(self, keys:Union[str, list]) -> torch.tensor:
         word_embeddings = [self.token_to_embedding(token) for token in keys]
         word_embeddings = torch.cat(tuple(word_embeddings),0)
         return word_embeddings

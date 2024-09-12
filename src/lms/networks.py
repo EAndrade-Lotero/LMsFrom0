@@ -2,11 +2,19 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+from typing import Optional, Union
+
 class FFN(nn.Module):
     """ A Multilayer Perceptron with one-hot encoding as first layer
         and a window of words of length window_length
     """
-    def __init__(self, window_length:int, vocabulary_size:int, hidden_size:list):
+    def __init__(
+                self, 
+                window_length:int, 
+                vocabulary_size:int, 
+                hidden_size:list,
+                embeddings_dim:Optional[Union[None, int]]=None
+            ) -> None:
         """
         Args:
             vocabulary_size (int): the vocabulary size
@@ -16,7 +24,7 @@ class FFN(nn.Module):
         """
         super(FFN, self).__init__()
         self.window_length = window_length  #k
-        self.vocabulary_size = vocabulary_size  #|V|
+        self.vocabulary_size = vocabulary_size  # |V|
         self.hidden_size = hidden_size
 
         if torch.cuda.is_available():
@@ -29,7 +37,9 @@ class FFN(nn.Module):
         # Defining the layers
         # -------------------------------------
         # Hidden layer
-        self.fc1 = nn.Linear(vocabulary_size * window_length, hidden_size).to(self.device)
+        if embeddings_dim is None:
+            embeddings_dim = vocabulary_size
+        self.fc1 = nn.Linear(embeddings_dim * window_length, hidden_size).to(self.device)
         self.activation_fc1 = torch.sigmoid
         # ----------------------------------------------------------
         # Intermediate layer 1

@@ -66,7 +66,9 @@ class LanguageModel :
             - probabilities (tensor) according to model
         '''
         # Context to one-hot
+        print('Contextos recibidos:', contexts)
         coded_context = self.code_context(contexts)
+        print('Contextos codificados:', coded_context)
         # Feed network to obtain probabilities
         probabilities = self.model(coded_context)
         return probabilities
@@ -274,10 +276,16 @@ class FFNLM(LanguageModel) :
             ) -> None:
         self.hidden_size = hidden_size
         vocabulary_size = len(vectorizer)
+        use_embeddings = vectorizer.embeddings is not None
+        if not use_embeddings:
+            embeddings_dim = None
+        else:
+            embeddings_dim = vectorizer.embeddings.weight.shape[1]
         model = FFN(
             window_length=window_length,\
             vocabulary_size=vocabulary_size,\
-            hidden_size=hidden_size
+            hidden_size=hidden_size,
+            embeddings_dim=embeddings_dim
         )
         super().__init__(
             vectorizer=vectorizer, 
