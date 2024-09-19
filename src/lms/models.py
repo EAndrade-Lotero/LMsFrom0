@@ -66,9 +66,9 @@ class LanguageModel :
             - probabilities (tensor) according to model
         '''
         # Context to one-hot
-        print('Contextos recibidos:', contexts)
+        # print('Contextos recibidos:', contexts)
         coded_context = self.code_context(contexts)
-        print('Contextos codificados:', coded_context)
+        # print('Contextos codificados:', coded_context)
         # Feed network to obtain probabilities
         probabilities = self.model(coded_context)
         return probabilities
