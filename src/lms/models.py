@@ -9,6 +9,7 @@ from  typing import Dict, Optional
 from prettytable import PrettyTable
 from torch.utils.data import DataLoader
 
+
 from utils.utils import LMDataset
 from utils.utils import Vectorizer
 from lms.networks import FFN, ZeroLayerTransformer
@@ -88,8 +89,10 @@ class LanguageModel :
         probabilities = self.model(coded_context)
         #print('HOLA', len(coded_context.shape))
         if len(coded_context.shape) == 1:
-            idx = self.vectorizer.token_to_code(words)
-            #print(idx)
+            idx = self.vectorizer.token_to_index(words)
+            if isinstance(idx, torch.Tensor):
+                idx = idx.item()
+            
             return probabilities[idx].item()
         else:
             indices = [self.vectorizer.token_to_code(word) for word in words]
@@ -293,11 +296,20 @@ class FFNLM(LanguageModel) :
             name='ffn',
             model=model,
         )
+        print(vectorizer.embeddings.parameters())
         # Definimos la función de pérdida
         self.loss_func = torch.nn.CrossEntropyLoss()
         # Definimos el optimizer
-        self.optimizer = torch.optim.Adam(self.model.parameters())
-           
+        if not use_embeddings:
+            self.optimizer = torch.optim.Adam(
+                self.model.parameters()
+            )  
+        else:
+            self.optimizer = torch.optim.Adam(
+                list(self.model.parameters()) + list(vectorizer.embeddings.parameters())
+            )  
+
+
 
 class Transformer(LanguageModel) :
     '''
